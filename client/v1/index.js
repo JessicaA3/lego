@@ -30,7 +30,7 @@ console.log(MY_FAVORITE_DEALERS[0]);
 // 1. Create a new variable and assign it the link of the lego set with the highest reduction I can find on these 2 websites
 // 2. Log the variable
 const urlWithHighestReduction= 'https://www.dealabs.com/bons-plans/lego-marvel-super-heroes-2-switch-demat-2974630'
-console.table(HIGHEST_REDUCTION_URL)
+console.table(urlWithHighestReduction)
 
 /**
  * 🧱
@@ -63,21 +63,38 @@ console.log(`Number of shopping communities: ${communityNames.length}`);
 
 // 🎯 TODO 4: Sort by price
 // 1. Create a function to sort the deals by price
+function sortByPrice(deals) {
+  return deals.sort((a, b) => a.price - b.price);
+}
+
 // 2. Create a variable and assign it the list of sets by price from lowest to highest
+const sortedByPrice = sortByPrice(deals);
+
 // 3. Log the variable
+console.log(sortedByPrice);
+
 
 // 🎯 TODO 5: Sort by date
 // 1. Create a function to sort the deals by date
+function sortByDate(deals) {
+  return deals.sort((a, b) => Date.parse(b.published) - Date.parse(a.published));
+}
 // 2. Create a variable and assign it the list of deals by date from recent to old
+const sortedByDate = sortByDate(deals);
 // 3. Log the variable
+console.log(sortedByDate);
 
 // 🎯 TODO 6: Filter a specific percentage discount range
 // 1. Filter the list of deals between 50% and 75%
 // 2. Log the list
+const filteredDeals = deals.filter(deal => deal.discount >= 50 && deal.discount <= 75);
+console.log("Deals with discounts between 50% and 75%:", filteredDeals);
 
 // 🎯 TODO 7: Average percentage discount
 // 1. Determine the average percentage discount of the deals
 // 2. Log the average
+const averageDiscount = deals.reduce((sum, deal) => sum + deal.discount, 0) / deals.length;
+console.log("Average percentage discount:", averageDiscount);
 
 /**
  * 🏎
@@ -101,15 +118,38 @@ console.log(`Number of shopping communities: ${communityNames.length}`);
 //
 // 2. Log the variable
 // 3. Log the number of deals by community
+const communities = deals.reduce((result, deal) => {
+  if (!result[deal.community]) {
+      result[deal.community] = [];
+  }
+  result[deal.community].push(deal);
+  return result;
+}, {});
+
+console.log("Deals grouped by community:", communities);
+
+// Log the number of deals by community
+Object.keys(communities).forEach(community => {
+  console.log(`Community: ${community}, Number of deals: ${communities[community].length}`);
+});
 
 // 🎯 TODO 9: Sort by price for each community
 // 1. For each community, sort the deals by discount price, from highest to lowest
 // 2. Log the sort
+Object.keys(communities).forEach(community => {
+  communities[community].sort((a, b) => b.price - a.price); // Tri du plus cher au moins cher
+});
+
+console.log("Deals sorted by price for each community:", communities);
 
 // 🎯 TODO 10: Sort by date for each community
 // 1. For each set, sort the deals by date, from old to recent
 // 2. Log the sort
+Object.keys(communities).forEach(community => {
+  communities[community].sort((a, b) => new Date(a.date) - new Date(b.date)); // Tri de la plus ancienne à la plus récente
+});
 
+console.log("Deals sorted by date for each community:", communities);
 
 /**
  * 🧥
