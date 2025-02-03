@@ -107,6 +107,7 @@ const renderPagination = pagination => {
   selectPage.selectedIndex = currentPage - 1;
 };
 
+
 /**
  * Render lego set ids selector
  * @param  {Array} lego set ids
@@ -129,13 +130,13 @@ const renderIndicators = pagination => {
 
   spanNbDeals.innerHTML = count;
 };
-
+/*
 const render = (deals, pagination) => {
   renderDeals(deals);
   renderPagination(pagination);
   renderIndicators(pagination);
   renderLegoSetIds(deals)
-};
+};*/
 
 /**
  * Declaration of all Listeners
@@ -144,11 +145,20 @@ const render = (deals, pagination) => {
 /**
  * Select the number of deals to display
  */
+/*
 selectShow.addEventListener('change', async (event) => {
   const deals = await fetchDeals(currentPagination.currentPage, parseInt(event.target.value));
 
   setCurrentDeals(deals);
   render(currentDeals, currentPagination);
+}); */
+
+// Listener pour changer le nombre de deals affichés
+selectShow.addEventListener('change', async (event) => {
+  const size = parseInt(event.target.value);
+  const deals = await fetchDeals(1, size); // Revenir à la page 1
+  setCurrentDeals(deals);
+  render(currentDeals, currentPagination); // Mise à jour de l'affichage
 });
 
 document.addEventListener('DOMContentLoaded', async () => {
@@ -157,3 +167,21 @@ document.addEventListener('DOMContentLoaded', async () => {
   setCurrentDeals(deals);
   render(currentDeals, currentPagination);
 });
+
+// Listener pour changer de page
+selectPage.addEventListener('change', async (event) => {
+  const selectedPage = parseInt(event.target.value); // Page sélectionnée
+  const size = parseInt(selectShow.value); // Taille actuelle
+  const deals = await fetchDeals(selectedPage, size); // Appeler l'API avec les bons paramètres
+
+  setCurrentDeals(deals); // Met à jour les données
+  render(currentDeals, currentPagination); // Met à jour l'affichage
+});
+
+// Fonction render() inchangée
+const render = (deals, pagination) => {
+  renderDeals(deals); // Rendu des deals
+  renderPagination(pagination); // Rendu des options de pagination
+  renderIndicators(pagination); // Mise à jour des indicateurs
+  renderLegoSetIds(deals); // Liste des IDs des sets Lego
+};
