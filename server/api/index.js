@@ -75,12 +75,9 @@ app.get('/deals/search', async (req, res) => {
 
   if (price) query.price = { $lte: parseFloat(price) };
   if (date) {
-    try {
-      const input = new Date(date);
-      const isoDateOnly = input.toISOString().split('T')[0]; // "YYYY-MM-DD"
-      query.published = { $regex: `^${isoDateOnly}` };
-    } catch (err) {
-      console.warn('❌ Invalid date format');
+    const parsedDate = new Date(date);
+    if (!isNaN(parsedDate)) {
+      query.published = { $gte: parsedDate };
     }
   }
   
