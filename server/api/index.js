@@ -75,13 +75,11 @@ app.get('/deals/search', async (req, res) => {
 
   if (price) query.price = { $lte: parseFloat(price) };
   if (date) {
-    try {
-      const parsedDate = new Date(date);
-      query.published = { $gte: parsedDate };
-    } catch {
-      console.warn('❌ Invalid date format');
-    }
+    const parsedDate = new Date(date);
+    // Convertir l'ISO en string et le comparer comme string
+    query.published = { $gte: parsedDate.toISOString() };
   }
+  
 
   switch (filterBy) {
     case 'best-discount': sort.discount = -1; break;
