@@ -17,22 +17,13 @@ async function run() {
     await dealsCollection.insertMany(deals);
     console.log(`✅ ${deals.length} deals insérés`);
 
-    // Insérer les fichiers Vinted nettoyés
+    // Insérer tous les fichiers Vinted
     const files = fs.readdirSync('.').filter(file => file.startsWith('vinted_') && file.endsWith('.json'));
-
-    await salesCollection.deleteMany({}); // nettoyer avant d'insérer
 
     for (const file of files) {
       const data = JSON.parse(fs.readFileSync(file));
       const legoId = file.replace('vinted_', '').replace('.json', '');
-
-      const enriched = data.map(item => ({
-        lego_id: legoId,
-        title: item.title,
-        price: parseFloat(item.price?.amount) || null,
-        url: item.url || `https://www.vinted.fr${item.path}`,
-        image: item.photo?.url || null
-      }));
+      const enriched = data.map(item => ({ ...item, lego_id: legoId }));
 
       await salesCollection.insertMany(enriched);
       console.log(`✅ ${enriched.length} ventes insérées pour ${legoId}`);
