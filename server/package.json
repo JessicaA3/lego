@@ -9,13 +9,10 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0",
-<<<<<<< HEAD
     "mongodb": "^6.15.0",
-=======
     "cors": "^2.8.5",
     "express": "^4.21.2",
     "helmet": "^8.0.0",
->>>>>>> d8a914d26a4820813cb724f1642af3b6037af5a6
     "node-fetch": "^2.7.0",
     "parse-domain": "^8.2.2",
     "puppeteer": "^24.3.0",
