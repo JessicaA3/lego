@@ -75,10 +75,15 @@ app.get('/deals/search', async (req, res) => {
 
   if (price) query.price = { $lte: parseFloat(price) };
   if (date) {
-    const parsedDate = new Date(date);
-    // Convertir l'ISO en string et le comparer comme string
-    query.published = { $gte: parsedDate.toISOString() };
+    try {
+      const input = new Date(date);
+      const isoDateOnly = input.toISOString().split('T')[0]; // "YYYY-MM-DD"
+      query.published = { $regex: `^${isoDateOnly}` };
+    } catch (err) {
+      console.warn('❌ Invalid date format');
+    }
   }
+  
   
 
   switch (filterBy) {
