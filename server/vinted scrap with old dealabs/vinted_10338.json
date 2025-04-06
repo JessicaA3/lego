@@ -1,0 +1,2642 @@
+[
+  {
+    "id": 6089232624,
+    "title": "Set Lego Icons Neuf Transformers 10338",
+    "price": {
+      "amount": "64.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6089232624-set-lego-icons-neuf-transformers-10338",
+    "user": {
+      "id": 251124255,
+      "login": "pilvin67",
+      "profile_url": "https://www.vinted.fr/member/251124255-pilvin67",
+      "photo": {
+        "id": 226349503,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_00be4_PQ6ARGqttBoeAvQXskNZjLf2/f800/1736962213.jpeg?s=65fcdf3d364359432bb5829866766ac2de993026",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_00be4_PQ6ARGqttBoeAvQXskNZjLf2/310x310/1736962213.jpeg?s=85ee56bbbcf6377d81ab54757d7e7ffe8163355e",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_00be4_PQ6ARGqttBoeAvQXskNZjLf2/150x150/1736962213.jpeg?s=8450d0c67302d7c440a85867fca8a0f4a5024e88",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_00be4_PQ6ARGqttBoeAvQXskNZjLf2/100x100/1736962213.jpeg?s=c201f53ded2e4ab7303e6f9e5ee68af8d536eb53",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_00be4_PQ6ARGqttBoeAvQXskNZjLf2/50x50/1736962213.jpeg?s=c97f58d32ca59c86a14106235c3f002b17f30339",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_00be4_PQ6ARGqttBoeAvQXskNZjLf2/20x20/1736962213.jpeg?s=7efec919ab7793080b32c1b54a22f7a54cd04005",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_00be4_PQ6ARGqttBoeAvQXskNZjLf2",
+          "timestamp": 1736962213,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_00be4_PQ6ARGqttBoeAvQXskNZjLf2/1736962213.jpeg?s=6cc78644537df91cc13303cf28ac6cf7a90bb7c0",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6089232624-set-lego-icons-neuf-transformers-10338",
+    "promoted": false,
+    "photo": {
+      "id": 24706057653,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#6E7A77",
+      "dominant_color_opaque": "#D4D7D6",
+      "url": "https://images1.vinted.net/t/04_00d49_8K8oAvk1Z387Kwo6hBUrhoz6/f800/1743831560.jpeg?s=a5e12d1641dec707a1f9df9de64f764e440c90e4",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00d49_8K8oAvk1Z387Kwo6hBUrhoz6/70x100/1743831560.jpeg?s=6e07373b76be4f6eee4206d053967a84e58b428a",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00d49_8K8oAvk1Z387Kwo6hBUrhoz6/150x210/1743831560.jpeg?s=33dc7a82376646c5a317b6c9c2ba6f9d0761667b",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00d49_8K8oAvk1Z387Kwo6hBUrhoz6/310x430/1743831560.jpeg?s=0905fe3f090bdc80873426ee0ec30a4d215708a8",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00d49_8K8oAvk1Z387Kwo6hBUrhoz6/f800/1743831560.jpeg?s=a5e12d1641dec707a1f9df9de64f764e440c90e4",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00d49_8K8oAvk1Z387Kwo6hBUrhoz6/f800/1743831560.jpeg?s=a5e12d1641dec707a1f9df9de64f764e440c90e4",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00d49_8K8oAvk1Z387Kwo6hBUrhoz6/f800/1743831560.jpeg?s=a5e12d1641dec707a1f9df9de64f764e440c90e4",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00d49_8K8oAvk1Z387Kwo6hBUrhoz6",
+        "timestamp": 1743831560,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00d49_8K8oAvk1Z387Kwo6hBUrhoz6/1743831560.jpeg?s=08220713bd2309e815f73f8c75a77bd2b82aa3e3",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 6,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "3.9",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "67.9",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Set Lego Icons Neuf Transformers 10338, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 64,00 €, 67,90 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 3.456875324249268,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5964814673,
+    "title": "Scatola lego 10338 con istruzioni",
+    "price": {
+      "amount": "10.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5964814673-scatola-lego-10338-con-istruzioni",
+    "user": {
+      "id": 58876928,
+      "login": "camilla711",
+      "profile_url": "https://www.vinted.fr/member/58876928-camilla711",
+      "photo": {
+        "id": 55808288,
+        "width": 512,
+        "height": 512,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_0185e_skHX58x1A4DJtUhfL6ByEu1i/f800/1618568823.jpeg?s=bffc3a22c360ccc715f0de7d81a73646869ccaf8",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_0185e_skHX58x1A4DJtUhfL6ByEu1i/310x310/1618568823.jpeg?s=79a8fc99e4c623b2f96d664e558512734e02a34b",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_0185e_skHX58x1A4DJtUhfL6ByEu1i/150x150/1618568823.jpeg?s=2faf20b596a97acfade2eb1e6c7842b04c4b68e5",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_0185e_skHX58x1A4DJtUhfL6ByEu1i/100x100/1618568823.jpeg?s=192beb8fc6da34484c1daa6479c561e51f0ca1c0",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_0185e_skHX58x1A4DJtUhfL6ByEu1i/50x50/1618568823.jpeg?s=dd1a51547b2cc65309dfe4bb32a5519f8277ae02",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_0185e_skHX58x1A4DJtUhfL6ByEu1i/20x20/1618568823.jpeg?s=c0ba8f4a6a126e539341eae2ee92d1dd2241847a",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_0185e_skHX58x1A4DJtUhfL6ByEu1i",
+          "timestamp": 1618568823,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_0185e_skHX58x1A4DJtUhfL6ByEu1i/1618568823.jpeg?s=257f5f05e643dfd775d9873010e6f6ff6ec22107",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5964814673-scatola-lego-10338-con-istruzioni",
+    "promoted": false,
+    "photo": {
+      "id": 24187742523,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#57595E",
+      "dominant_color_opaque": "#CDCDCF",
+      "url": "https://images1.vinted.net/t/03_0010f_NGUo6sM6TtsKnaou9NRV7U7e/f800/1741937883.jpeg?s=597954896fd92bda5a5cf82c447af1644d965f28",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_0010f_NGUo6sM6TtsKnaou9NRV7U7e/70x100/1741937883.jpeg?s=815359e6fea3415918a20ad02fb95aec74b217d8",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_0010f_NGUo6sM6TtsKnaou9NRV7U7e/150x210/1741937883.jpeg?s=fe6e0057063e9b986f3c94c720cc13ae9385aa57",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_0010f_NGUo6sM6TtsKnaou9NRV7U7e/310x430/1741937883.jpeg?s=b2a295a9a5307a739b5771138beb3074a5ba4575",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_0010f_NGUo6sM6TtsKnaou9NRV7U7e/f800/1741937883.jpeg?s=597954896fd92bda5a5cf82c447af1644d965f28",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_0010f_NGUo6sM6TtsKnaou9NRV7U7e/f800/1741937883.jpeg?s=597954896fd92bda5a5cf82c447af1644d965f28",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_0010f_NGUo6sM6TtsKnaou9NRV7U7e/f800/1741937883.jpeg?s=597954896fd92bda5a5cf82c447af1644d965f28",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_0010f_NGUo6sM6TtsKnaou9NRV7U7e",
+        "timestamp": 1741937883,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_0010f_NGUo6sM6TtsKnaou9NRV7U7e/1741937883.jpeg?s=134fce9f16f8e82a128b29a7a41c887ed369f060",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 0,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "1.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "11.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Prématuré, jusqu'à 44cm",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Prématuré, jusqu'à 44cm · Neuf sans étiquette",
+      "accessibility_label": "Scatola lego 10338 con istruzioni, marque: LEGO, état: Neuf sans étiquette, taille: Prématuré, jusqu'à 44cm, 10,00 €, 11,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 3.290862083435059,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6084643063,
+    "title": "LEGO Icons - Bumblebee - 10338",
+    "price": {
+      "amount": "63.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6084643063-lego-icons-bumblebee-10338",
+    "user": {
+      "id": 162741926,
+      "login": "valentin24567",
+      "profile_url": "https://www.vinted.fr/member/162741926-valentin24567",
+      "photo": null,
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6084643063-lego-icons-bumblebee-10338",
+    "promoted": false,
+    "photo": {
+      "id": 24686503623,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#676249",
+      "dominant_color_opaque": "#D1D0C8",
+      "url": "https://images1.vinted.net/t/03_02345_eXFTMCh7V2aeUUjBY1Z7PFwb/f800/1743747235.jpeg?s=5d99822193b37b932f75fa78a4652f961f8de09e",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_02345_eXFTMCh7V2aeUUjBY1Z7PFwb/70x100/1743747235.jpeg?s=d65437f39b0534d576fdfb1f8517e589fbd243e3",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_02345_eXFTMCh7V2aeUUjBY1Z7PFwb/150x210/1743747235.jpeg?s=084465973c79ffcfc556cd31c6d9bb631a40e609",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_02345_eXFTMCh7V2aeUUjBY1Z7PFwb/310x430/1743747235.jpeg?s=05143cfafd4d30653d57ea84ee89f9a2f28df675",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_02345_eXFTMCh7V2aeUUjBY1Z7PFwb/f800/1743747235.jpeg?s=5d99822193b37b932f75fa78a4652f961f8de09e",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_02345_eXFTMCh7V2aeUUjBY1Z7PFwb/f800/1743747235.jpeg?s=5d99822193b37b932f75fa78a4652f961f8de09e",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_02345_eXFTMCh7V2aeUUjBY1Z7PFwb/f800/1743747235.jpeg?s=5d99822193b37b932f75fa78a4652f961f8de09e",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_02345_eXFTMCh7V2aeUUjBY1Z7PFwb",
+        "timestamp": 1743747235,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_02345_eXFTMCh7V2aeUUjBY1Z7PFwb/1743747235.jpeg?s=bb77dead92abe4f2db24cdcb7be523c7e8c99814",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 6,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "3.85",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "66.85",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "LEGO Icons - Bumblebee - 10338, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 63,00 €, 66,85 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 2.683437585830688,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6073504591,
+    "title": "Lego Trans Formers Bumblebee 10338",
+    "price": {
+      "amount": "65.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6073504591-lego-trans-formers-bumblebee-10338",
+    "user": {
+      "id": 228873093,
+      "login": "ladyluni18",
+      "profile_url": "https://www.vinted.fr/member/228873093-ladyluni18",
+      "photo": null,
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6073504591-lego-trans-formers-bumblebee-10338",
+    "promoted": false,
+    "photo": {
+      "id": 24639865750,
+      "image_no": 1,
+      "width": 617,
+      "height": 800,
+      "dominant_color": "#7F7F72",
+      "dominant_color_opaque": "#D9D9D5",
+      "url": "https://images1.vinted.net/t/04_0039d_LpHG7Y48obSPy117XF37JAp6/f800/1743537111.jpeg?s=41d94a75f3ba4e96f41a33c2ad9840090d5d5f8e",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_0039d_LpHG7Y48obSPy117XF37JAp6/70x100/1743537111.jpeg?s=21603f98255035f12fd807bccd72ba93e999b14b",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_0039d_LpHG7Y48obSPy117XF37JAp6/150x210/1743537111.jpeg?s=8798786ed987132fe27feadd12c6a50c03b972a8",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_0039d_LpHG7Y48obSPy117XF37JAp6/310x430/1743537111.jpeg?s=f1efdeb2c2c8c3c7e37c66205d868daac4fec3ae",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_0039d_LpHG7Y48obSPy117XF37JAp6/f800/1743537111.jpeg?s=41d94a75f3ba4e96f41a33c2ad9840090d5d5f8e",
+          "width": 330,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_0039d_LpHG7Y48obSPy117XF37JAp6/f800/1743537111.jpeg?s=41d94a75f3ba4e96f41a33c2ad9840090d5d5f8e",
+          "width": 481,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_0039d_LpHG7Y48obSPy117XF37JAp6/f800/1743537111.jpeg?s=41d94a75f3ba4e96f41a33c2ad9840090d5d5f8e",
+          "width": 281,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_0039d_LpHG7Y48obSPy117XF37JAp6",
+        "timestamp": 1743537111,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_0039d_LpHG7Y48obSPy117XF37JAp6/1743537111.jpeg?s=280578886e5856d7528e905e6f9dbb3197acc747",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 16,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "3.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "68.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego Trans Formers Bumblebee 10338, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 65,00 €, 68,95 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 2.415547847747803,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5896518233,
+    "title": "Lego ICONS 10338 / Transformers Bumblebee, Nuevo.",
+    "price": {
+      "amount": "69.95",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5896518233-lego-icons-10338-transformers-bumblebee-nuevo",
+    "user": {
+      "id": 169291523,
+      "login": "madridfashi0n",
+      "profile_url": "https://www.vinted.fr/member/169291523-madridfashi0n",
+      "photo": {
+        "id": 202230974,
+        "width": 800,
+        "height": 621,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/f800/1722511025.jpeg?s=e1636b548653ae1f7c2157a6ace37d22e466337f",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/310x310/1722511025.jpeg?s=16d2e6414a55975ba9d03c83b561958a253df1a6",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/150x150/1722511025.jpeg?s=78b97b7e6d07ca798d3ba232784e981316f892a7",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/100x100/1722511025.jpeg?s=bf27f08f62df7a763c1086027a44ad8fcfe83618",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/50x50/1722511025.jpeg?s=7708fbbf05b7824de46a4814b944fc29eecb7347",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/20x20/1722511025.jpeg?s=0d51923aff90a5bd87fb542cec6fb1320ef5cd35",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_01529_gM183jzkXhwDU6t74xKnhyHv",
+          "timestamp": 1722511025,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_01529_gM183jzkXhwDU6t74xKnhyHv/1722511025.jpeg?s=60c8a479bfcdcd2063bca32035b44bb03ff1b3dc",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": true
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5896518233-lego-icons-10338-transformers-bumblebee-nuevo",
+    "promoted": false,
+    "photo": {
+      "id": 23903541156,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#6D6657",
+      "dominant_color_opaque": "#D3D1CD",
+      "url": "https://images1.vinted.net/t/04_01070_diagit9JF3Fs3X5pa3J968T9/f800/1740841191.jpeg?s=1a749c45843324bf459ff1b848f724a5230f09c4",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01070_diagit9JF3Fs3X5pa3J968T9/70x100/1740841191.jpeg?s=6edf5c8ff46d8dacfbd4f33ebfe36abc25cddddb",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01070_diagit9JF3Fs3X5pa3J968T9/150x210/1740841191.jpeg?s=ecb0727f0f3b3d866b5cc00ea59695265b01f8c3",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01070_diagit9JF3Fs3X5pa3J968T9/310x430/1740841191.jpeg?s=622f9c77575352c8dfdd8a1caa95503f8c586553",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01070_diagit9JF3Fs3X5pa3J968T9/f800/1740841191.jpeg?s=1a749c45843324bf459ff1b848f724a5230f09c4",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01070_diagit9JF3Fs3X5pa3J968T9/f800/1740841191.jpeg?s=1a749c45843324bf459ff1b848f724a5230f09c4",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01070_diagit9JF3Fs3X5pa3J968T9/f800/1740841191.jpeg?s=1a749c45843324bf459ff1b848f724a5230f09c4",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01070_diagit9JF3Fs3X5pa3J968T9",
+        "timestamp": 1740841191,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01070_diagit9JF3Fs3X5pa3J968T9/1740841191.jpeg?s=d9ed250f712947f9f7163929c60b8d3f46d5294e",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 17,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "74.15",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "Lego ICONS 10338 / Transformers Bumblebee, Nuevo., marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 69,95 €, 74,15 € Protection acheteurs (Pro) incluse"
+    },
+    "search_tracking_params": {
+      "score": 2.069117546081543,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6016565410,
+    "title": "Lego 10338",
+    "price": {
+      "amount": "74.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6016565410-lego-10338",
+    "user": {
+      "id": 205712437,
+      "login": "michelesilvestri79",
+      "profile_url": "https://www.vinted.fr/member/205712437-michelesilvestri79",
+      "photo": {
+        "id": 192984608,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/f800/1715949577.jpeg?s=3787bed5014f2efadec9117d1d1055c15df7ef51",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/310x310/1715949577.jpeg?s=bff1c8e58ecc8b959550b3aa14054f06722c9957",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/150x150/1715949577.jpeg?s=522cf1827c24dc0ff9beb17f15d8c876e655af87",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/100x100/1715949577.jpeg?s=975c6a8563ffa044c5e32315c725eaa32fcf4bc5",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/50x50/1715949577.jpeg?s=f6a2d36dd9865d7cd7b856c5b96d79ab0c6ce26b",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/20x20/1715949577.jpeg?s=bcb6e72e4f9074bf15037584bc1f74ab1ea0cac9",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_010ab_p5d2qk1Ghi8X7okWUDPa11hH",
+          "timestamp": 1715949577,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/1715949577.jpeg?s=33fb4fb69c1127910069edabbd50f43d91beabd1",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6016565410-lego-10338",
+    "promoted": false,
+    "photo": {
+      "id": 24403536264,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#73683E",
+      "dominant_color_opaque": "#D5D2C5",
+      "url": "https://images1.vinted.net/t/04_02566_CWNK65vnuEREx6XPsZnT1dDo/f800/1742721842.jpeg?s=e736bf64781e391abd09c928c983419eb0a3a632",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_02566_CWNK65vnuEREx6XPsZnT1dDo/70x100/1742721842.jpeg?s=4edd0d0f8a086bfbbe6a9bf862894c303323de98",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_02566_CWNK65vnuEREx6XPsZnT1dDo/150x210/1742721842.jpeg?s=62b91c7641c2bfcb890fb99b839d29b0278d3959",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_02566_CWNK65vnuEREx6XPsZnT1dDo/310x430/1742721842.jpeg?s=f9f2ad9be5a800fcd892e4e4a608fec92fa8c353",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_02566_CWNK65vnuEREx6XPsZnT1dDo/f800/1742721842.jpeg?s=e736bf64781e391abd09c928c983419eb0a3a632",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_02566_CWNK65vnuEREx6XPsZnT1dDo/f800/1742721842.jpeg?s=e736bf64781e391abd09c928c983419eb0a3a632",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_02566_CWNK65vnuEREx6XPsZnT1dDo/f800/1742721842.jpeg?s=e736bf64781e391abd09c928c983419eb0a3a632",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_02566_CWNK65vnuEREx6XPsZnT1dDo",
+        "timestamp": 1742721842,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_02566_CWNK65vnuEREx6XPsZnT1dDo/1742721842.jpeg?s=deabb3a92de49a432fa436f28c5b7964b2497383",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 7,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.4",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "78.4",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 10338, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 74,00 €, 78,40 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 2.034128665924072,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5844565380,
+    "title": "LEGO Icons 10338 Bumblebee",
+    "price": {
+      "amount": "72.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5844565380-lego-icons-10338-bumblebee",
+    "user": {
+      "id": 13154320,
+      "login": "annickd",
+      "profile_url": "https://www.vinted.fr/member/13154320-annickd",
+      "photo": {
+        "id": 10742848,
+        "width": 800,
+        "height": 400,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_018ae_BaRrT7M6MnievwqmhTsX7hjy/f800/1605231179.jpeg?s=f820752133efb2a8e94b8aaf89121b276a7dc8b0",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_018ae_BaRrT7M6MnievwqmhTsX7hjy/310x310/1605231179.jpeg?s=f3109a7efb27d36cc10520280bc2f85220f1a318",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_018ae_BaRrT7M6MnievwqmhTsX7hjy/150x150/1605231179.jpeg?s=5b8a8ec81935590df4a95021fe31069db8e95348",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_018ae_BaRrT7M6MnievwqmhTsX7hjy/100x100/1605231179.jpeg?s=b18895919c89ec925cb6c0b112fa6ab85310e50c",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_018ae_BaRrT7M6MnievwqmhTsX7hjy/50x50/1605231179.jpeg?s=499143c9773dd7d02cb8c470147d8471d3a79c18",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_018ae_BaRrT7M6MnievwqmhTsX7hjy/20x20/1605231179.jpeg?s=31a0f112ea0c4041def63de362c0a6134dd684c6",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_018ae_BaRrT7M6MnievwqmhTsX7hjy",
+          "timestamp": 1605231179,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_018ae_BaRrT7M6MnievwqmhTsX7hjy/1605231179.jpeg?s=818e5d4674c28b0079cdea3d7ad22580ff12052b",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5844565380-lego-icons-10338-bumblebee",
+    "promoted": false,
+    "photo": {
+      "id": 23687294847,
+      "image_no": 1,
+      "width": 369,
+      "height": 800,
+      "dominant_color": "#826D41",
+      "dominant_color_opaque": "#DAD3C6",
+      "url": "https://images1.vinted.net/t/02_026b8_NU28Bc3cCbpXrjCaGH5o4HAS/f800/1739989036.jpeg?s=7e30b0164cc2ef428cf91e450bc1373f8e51af95",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_026b8_NU28Bc3cCbpXrjCaGH5o4HAS/70x100/1739989036.jpeg?s=77ba01185b26ba5cc4802739d171e69efcbf9e1d",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_026b8_NU28Bc3cCbpXrjCaGH5o4HAS/150x210/1739989036.jpeg?s=07239afd54cb42eb07e0183ea52a35589ed0cf67",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_026b8_NU28Bc3cCbpXrjCaGH5o4HAS/310x430/1739989036.jpeg?s=3fe1579c64e6fef9158d250b0865da3e59e7c939",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_026b8_NU28Bc3cCbpXrjCaGH5o4HAS/f800/1739989036.jpeg?s=7e30b0164cc2ef428cf91e450bc1373f8e51af95",
+          "width": 197,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_026b8_NU28Bc3cCbpXrjCaGH5o4HAS/f800/1739989036.jpeg?s=7e30b0164cc2ef428cf91e450bc1373f8e51af95",
+          "width": 288,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_026b8_NU28Bc3cCbpXrjCaGH5o4HAS/f800/1739989036.jpeg?s=7e30b0164cc2ef428cf91e450bc1373f8e51af95",
+          "width": 168,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_026b8_NU28Bc3cCbpXrjCaGH5o4HAS",
+        "timestamp": 1739989036,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_026b8_NU28Bc3cCbpXrjCaGH5o4HAS/1739989036.jpeg?s=a0069900d5317ac34cbbdac84112a2b8a9e461ca",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 16,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.3",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "76.3",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "16 ans / 176 cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "16 ans / 176 cm · Neuf avec étiquette",
+      "accessibility_label": "LEGO Icons 10338 Bumblebee, marque: LEGO, état: Neuf avec étiquette, taille: 16 ans / 176 cm, 72,00 €, 76,30 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 1.473677158355713,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5972602560,
+    "title": "Lego 10338 Bumblebee NEUF et scellé",
+    "price": {
+      "amount": "65.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5972602560-lego-10338-bumblebee-neuf-et-scelle",
+    "user": {
+      "id": 45963865,
+      "login": "mattdm31",
+      "profile_url": "https://www.vinted.fr/member/45963865-mattdm31",
+      "photo": null,
+      "business": true
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5972602560-lego-10338-bumblebee-neuf-et-scelle",
+    "promoted": false,
+    "photo": {
+      "id": 24220501606,
+      "image_no": 1,
+      "width": 360,
+      "height": 800,
+      "dominant_color": "#6A582D",
+      "dominant_color_opaque": "#D2CDC0",
+      "url": "https://images1.vinted.net/t/04_01aeb_k1U15MeHNo5rCKN5LNnAZvHQ/f800/1742048307.jpeg?s=b17d4f507b37b133e8a41a3e1308d865d278b717",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01aeb_k1U15MeHNo5rCKN5LNnAZvHQ/70x100/1742048307.jpeg?s=7e5aefe7aff4c93ceeef40bc72fbad084e5ed2a3",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01aeb_k1U15MeHNo5rCKN5LNnAZvHQ/150x210/1742048307.jpeg?s=a3cc0825699c8be6074c992d1692a4f9b2c6797b",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01aeb_k1U15MeHNo5rCKN5LNnAZvHQ/310x430/1742048307.jpeg?s=be38071967ececc9fe32a9dbf907765c388a1359",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01aeb_k1U15MeHNo5rCKN5LNnAZvHQ/f800/1742048307.jpeg?s=b17d4f507b37b133e8a41a3e1308d865d278b717",
+          "width": 192,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01aeb_k1U15MeHNo5rCKN5LNnAZvHQ/f800/1742048307.jpeg?s=b17d4f507b37b133e8a41a3e1308d865d278b717",
+          "width": 281,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01aeb_k1U15MeHNo5rCKN5LNnAZvHQ/f800/1742048307.jpeg?s=b17d4f507b37b133e8a41a3e1308d865d278b717",
+          "width": 164,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01aeb_k1U15MeHNo5rCKN5LNnAZvHQ",
+        "timestamp": 1742048307,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01aeb_k1U15MeHNo5rCKN5LNnAZvHQ/1742048307.jpeg?s=8f871b330d653d3d95bf1e1d43e84f395f3badd5",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 32,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "3.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "68.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 10338 Bumblebee NEUF et scellé, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 65,00 €, 68,95 € Protection acheteurs (Pro) incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.07030228525400162,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5843702071,
+    "title": "Lego 10338",
+    "price": {
+      "amount": "85.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5843702071-lego-10338",
+    "user": {
+      "id": 243485426,
+      "login": "gabrin81",
+      "profile_url": "https://www.vinted.fr/member/243485426-gabrin81",
+      "photo": {
+        "id": 223692439,
+        "width": 450,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/f800/1735307302.jpeg?s=5bf804bd9a341f9f6af4b6042bedf0f4ddf944db",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/310x310/1735307302.jpeg?s=0c3d9380522d46d50550faef34d88d58f7b1825b",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/150x150/1735307302.jpeg?s=488422528b2da241b75569e4901e722a1ebcfaff",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/100x100/1735307302.jpeg?s=1550394e72b77cb4f2b95ef6f804b015e30b7417",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/50x50/1735307302.jpeg?s=cdf61670ad17e775e46c30227a5cf9651687735c",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/20x20/1735307302.jpeg?s=021378db9d7941a68e477fab17343dc659197ebf",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y",
+          "timestamp": 1735307302,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/1735307302.jpeg?s=d9c95268b9e7ed831e4365129d6e21a468e7049d",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5843702071-lego-10338",
+    "promoted": false,
+    "photo": {
+      "id": 23683696254,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#5A5B4D",
+      "dominant_color_opaque": "#CECECA",
+      "url": "https://images1.vinted.net/t/02_02136_D3dQB97uYBpJPxNVSzHWfyxd/f800/1739981042.jpeg?s=a7ee06258f54f8544db181d6785728a87a4c336d",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_02136_D3dQB97uYBpJPxNVSzHWfyxd/70x100/1739981042.jpeg?s=423348d4c33f09b8f2da862c9f7fd4852556776f",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_02136_D3dQB97uYBpJPxNVSzHWfyxd/150x210/1739981042.jpeg?s=5a79049804e578adf82b2fde5a2fac5672b01346",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_02136_D3dQB97uYBpJPxNVSzHWfyxd/310x430/1739981042.jpeg?s=dcec2932699d4f1172260984a4cea74c55f43271",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_02136_D3dQB97uYBpJPxNVSzHWfyxd/f800/1739981042.jpeg?s=a7ee06258f54f8544db181d6785728a87a4c336d",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_02136_D3dQB97uYBpJPxNVSzHWfyxd/f800/1739981042.jpeg?s=a7ee06258f54f8544db181d6785728a87a4c336d",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_02136_D3dQB97uYBpJPxNVSzHWfyxd/f800/1739981042.jpeg?s=a7ee06258f54f8544db181d6785728a87a4c336d",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_02136_D3dQB97uYBpJPxNVSzHWfyxd",
+        "timestamp": 1739981042,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_02136_D3dQB97uYBpJPxNVSzHWfyxd/1739981042.jpeg?s=d488adea09e635befd77082c68fde2387a081aab",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 36,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "89.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 10338, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 85,00 €, 89,95 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.07643217593431473,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5956093509,
+    "title": "lego 10338",
+    "price": {
+      "amount": "90.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5956093509-lego-10338",
+    "user": {
+      "id": 79587474,
+      "login": "ografo",
+      "profile_url": "https://www.vinted.fr/member/79587474-ografo",
+      "photo": {
+        "id": 221463535,
+        "width": 600,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_0031d_pLixALR4G7b25mXvF2dayrqm/f800/1733630369.jpeg?s=8f7e6d6342a366ea101e35ee6e0395c363028f4d",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_0031d_pLixALR4G7b25mXvF2dayrqm/310x310/1733630369.jpeg?s=4c7f13c04e00b167a9955b9aa3beeea5ea83aa2b",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_0031d_pLixALR4G7b25mXvF2dayrqm/150x150/1733630369.jpeg?s=d5ca1fe796582b6382ec83c12ab293737eb32c7b",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_0031d_pLixALR4G7b25mXvF2dayrqm/100x100/1733630369.jpeg?s=c62599ea9c066f85a342051186c062d22669647d",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_0031d_pLixALR4G7b25mXvF2dayrqm/50x50/1733630369.jpeg?s=4c63eaa7d5d61366d763a0af1f1ff22fa8ad3286",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_0031d_pLixALR4G7b25mXvF2dayrqm/20x20/1733630369.jpeg?s=9c738a3a09bf80476f3aca64cf0fe13ec7cf33b4",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_0031d_pLixALR4G7b25mXvF2dayrqm",
+          "timestamp": 1733630369,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_0031d_pLixALR4G7b25mXvF2dayrqm/1733630369.jpeg?s=5f5240aebd48eeea097779e911c870981535b557",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5956093509-lego-10338",
+    "promoted": false,
+    "photo": {
+      "id": 24151471973,
+      "image_no": 1,
+      "width": 369,
+      "height": 800,
+      "dominant_color": "#817966",
+      "dominant_color_opaque": "#D9D7D1",
+      "url": "https://images1.vinted.net/t/03_01e1f_6NNtf2nVxuy9DhVEtWj85X1F/f800/1741786634.jpeg?s=feeb6dcb6fe99cb39718c28ea48d4a6f431679ee",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_01e1f_6NNtf2nVxuy9DhVEtWj85X1F/70x100/1741786634.jpeg?s=b81fe64bd03ee78697d521cd90560fcbfe7ee855",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_01e1f_6NNtf2nVxuy9DhVEtWj85X1F/150x210/1741786634.jpeg?s=bea667b924e6fa9ca5907be777084f1d94afec3c",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_01e1f_6NNtf2nVxuy9DhVEtWj85X1F/310x430/1741786634.jpeg?s=4664243db54e187a78b8ef17e70a74b604b46f49",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_01e1f_6NNtf2nVxuy9DhVEtWj85X1F/f800/1741786634.jpeg?s=feeb6dcb6fe99cb39718c28ea48d4a6f431679ee",
+          "width": 197,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_01e1f_6NNtf2nVxuy9DhVEtWj85X1F/f800/1741786634.jpeg?s=feeb6dcb6fe99cb39718c28ea48d4a6f431679ee",
+          "width": 288,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_01e1f_6NNtf2nVxuy9DhVEtWj85X1F/f800/1741786634.jpeg?s=feeb6dcb6fe99cb39718c28ea48d4a6f431679ee",
+          "width": 168,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_01e1f_6NNtf2nVxuy9DhVEtWj85X1F",
+        "timestamp": 1741786634,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_01e1f_6NNtf2nVxuy9DhVEtWj85X1F/1741786634.jpeg?s=c46b1e7ff12c1f0e353bfd44823511dfad505429",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 2,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "5.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "95.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "lego 10338, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 90,00 €, 95,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.1985896825790405,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5749269683,
+    "title": "Lego transformers Bumblebee 10338 neuf scellé",
+    "price": {
+      "amount": "78.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5749269683-lego-transformers-bumblebee-10338-neuf-scelle",
+    "user": {
+      "id": 226402605,
+      "login": "djklbc17",
+      "profile_url": "https://www.vinted.fr/member/226402605-djklbc17",
+      "photo": null,
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5749269683-lego-transformers-bumblebee-10338-neuf-scelle",
+    "promoted": false,
+    "photo": {
+      "id": 23292457189,
+      "image_no": 1,
+      "width": 372,
+      "height": 443,
+      "dominant_color": "#6F5E37",
+      "dominant_color_opaque": "#D4CFC3",
+      "url": "https://images1.vinted.net/t/04_01268_oABTd2EUMWguzWgNKRmtBuof/f800/1738486291.jpeg?s=d1ba02e1285d88f778cfe2e80ff0075e9bf4b714",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01268_oABTd2EUMWguzWgNKRmtBuof/70x100/1738486291.jpeg?s=07af801e67008bd50fe6f8bdb1d5eb1d7612f845",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01268_oABTd2EUMWguzWgNKRmtBuof/150x210/1738486291.jpeg?s=85859bd1564b14ef338169dddf98274a3574d03b",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01268_oABTd2EUMWguzWgNKRmtBuof/310x430/1738486291.jpeg?s=193027348d4fdbb2dd5e995a6af3cde4e16fa675",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01268_oABTd2EUMWguzWgNKRmtBuof/f800/1738486291.jpeg?s=d1ba02e1285d88f778cfe2e80ff0075e9bf4b714",
+          "width": 359,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01268_oABTd2EUMWguzWgNKRmtBuof/f800/1738486291.jpeg?s=d1ba02e1285d88f778cfe2e80ff0075e9bf4b714",
+          "width": 523,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01268_oABTd2EUMWguzWgNKRmtBuof/f800/1738486291.jpeg?s=d1ba02e1285d88f778cfe2e80ff0075e9bf4b714",
+          "width": 305,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01268_oABTd2EUMWguzWgNKRmtBuof",
+        "timestamp": 1738486291,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01268_oABTd2EUMWguzWgNKRmtBuof/1738486291.jpeg?s=f35456e1e9558a4f8c3dec0867bd9a156e8aa832",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 8,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.6",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "82.6",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Prématuré, jusqu'à 44cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Prématuré, jusqu'à 44cm · Neuf avec étiquette",
+      "accessibility_label": "Lego transformers Bumblebee 10338 neuf scellé, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 78,00 €, 82,60 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.2147612869739532,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5988568249,
+    "title": "Lego Optimus Prime e Bumblebee",
+    "price": {
+      "amount": "240.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5988568249-lego-optimus-prime-e-bumblebee",
+    "user": {
+      "id": 55029539,
+      "login": "martinapaluan",
+      "profile_url": "https://www.vinted.fr/member/55029539-martinapaluan",
+      "photo": {
+        "id": 55034210,
+        "width": 534,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_00f33_UrSjJJYWDr4NgpCuXdBAkhG5/f800/1618036319.jpeg?s=ef7c5b69f90e5337b0f3a977d018c29ccc5ff412",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_00f33_UrSjJJYWDr4NgpCuXdBAkhG5/310x310/1618036319.jpeg?s=534e50d6c97ddf80f6cd70d7ec56bad9de8385f7",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_00f33_UrSjJJYWDr4NgpCuXdBAkhG5/150x150/1618036319.jpeg?s=8793b83a92d256bddfa9e9b6635a33395a1197b4",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_00f33_UrSjJJYWDr4NgpCuXdBAkhG5/100x100/1618036319.jpeg?s=897ffea008d79c1eac9b50d54edaf255f32010fa",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_00f33_UrSjJJYWDr4NgpCuXdBAkhG5/50x50/1618036319.jpeg?s=6bd28f93fe6a994372eb2b0f3984db3ac33e41ca",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_00f33_UrSjJJYWDr4NgpCuXdBAkhG5/20x20/1618036319.jpeg?s=5c0f0295093d9ea360be1594267e6acd2a181a60",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_00f33_UrSjJJYWDr4NgpCuXdBAkhG5",
+          "timestamp": 1618036319,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_00f33_UrSjJJYWDr4NgpCuXdBAkhG5/1618036319.jpeg?s=814d7831db2258ff1131dc69a06c449e1d0035bc",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5988568249-lego-optimus-prime-e-bumblebee",
+    "promoted": true,
+    "photo": {
+      "id": 24663605506,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#382D2B",
+      "dominant_color_opaque": "#C3C0BF",
+      "url": "https://images1.vinted.net/t/04_00e8d_7VRQAeR91Hj844jsWMwptA1M/f800/1743626591.jpeg?s=c4be445221256cb1ae8911fbb5973092690197f9",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00e8d_7VRQAeR91Hj844jsWMwptA1M/70x100/1743626591.jpeg?s=c02f31d2dfde08c354c3b6384f344f410d587b82",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00e8d_7VRQAeR91Hj844jsWMwptA1M/150x210/1743626591.jpeg?s=358e2f9cb0b58ad133f140f03f4aa9e5996a7a2b",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00e8d_7VRQAeR91Hj844jsWMwptA1M/310x430/1743626591.jpeg?s=6aa9af43acb97cf14bdddc446ac06b7a85b72902",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00e8d_7VRQAeR91Hj844jsWMwptA1M/f800/1743626591.jpeg?s=c4be445221256cb1ae8911fbb5973092690197f9",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00e8d_7VRQAeR91Hj844jsWMwptA1M/f800/1743626591.jpeg?s=c4be445221256cb1ae8911fbb5973092690197f9",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00e8d_7VRQAeR91Hj844jsWMwptA1M/f800/1743626591.jpeg?s=c4be445221256cb1ae8911fbb5973092690197f9",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00e8d_7VRQAeR91Hj844jsWMwptA1M",
+        "timestamp": 1743626591,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00e8d_7VRQAeR91Hj844jsWMwptA1M/1743626591.jpeg?s=ec690dc6d8a24092abea48604b29f12a5ed8ee4a",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 23,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "12.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "252.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "",
+    "content_source": "search_promoted_items",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Neuf sans étiquette",
+      "accessibility_label": "Lego Optimus Prime e Bumblebee, marque: LEGO, état: Neuf sans étiquette, 240,00 €, 252,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 0.7519490718841553,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6018685770,
+    "title": "Lego Icons 10338 Bumblebee",
+    "price": {
+      "amount": "75.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6018685770-lego-icons-10338-bumblebee",
+    "user": {
+      "id": 74918263,
+      "login": "diana.moreira0",
+      "profile_url": "https://www.vinted.fr/member/74918263-dianamoreira0",
+      "photo": {
+        "id": 171515091,
+        "width": 800,
+        "height": 797,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_00b81_EXUwerbJS7V9xUkbsPk1TTB1/f800/1701820626.jpeg?s=a8bc8f2df5ceb04fbfc2128595007cc591f0da5a",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_00b81_EXUwerbJS7V9xUkbsPk1TTB1/310x310/1701820626.jpeg?s=2a6ff43a238c268ed3daec8a8d5a0df370a6f248",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_00b81_EXUwerbJS7V9xUkbsPk1TTB1/150x150/1701820626.jpeg?s=b5969aa1a802498fd8abc1ab50ded543d3979f56",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_00b81_EXUwerbJS7V9xUkbsPk1TTB1/100x100/1701820626.jpeg?s=186b36ed0beefc7deb3ddf6d0163c86ea90cecae",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_00b81_EXUwerbJS7V9xUkbsPk1TTB1/50x50/1701820626.jpeg?s=68f40ce5c9f41def502c7f2831df9fda0c05be01",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_00b81_EXUwerbJS7V9xUkbsPk1TTB1/20x20/1701820626.jpeg?s=d36cbaf265e7290e6b2988651c401312262dbc5f",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_00b81_EXUwerbJS7V9xUkbsPk1TTB1",
+          "timestamp": 1701820626,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_00b81_EXUwerbJS7V9xUkbsPk1TTB1/1701820626.jpeg?s=937c2d45b3786cbdda7f5876b373b6c0632340c6",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6018685770-lego-icons-10338-bumblebee",
+    "promoted": false,
+    "photo": {
+      "id": 24412252056,
+      "image_no": 1,
+      "width": 360,
+      "height": 800,
+      "dominant_color": "#453722",
+      "dominant_color_opaque": "#C7C3BD",
+      "url": "https://images1.vinted.net/t/04_01d3b_RbXm7EDLio6ZHMaMhPQd5Tpb/f800/1742734352.jpeg?s=95c3dc5cbedf75e552904bfa567f5ebc0323dca4",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01d3b_RbXm7EDLio6ZHMaMhPQd5Tpb/70x100/1742734352.jpeg?s=b63565c129eb33c13c115dbe10bf3c8c65e6ab4d",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01d3b_RbXm7EDLio6ZHMaMhPQd5Tpb/150x210/1742734352.jpeg?s=a46488e4b1cb9eac5eb77ccaf632f26f3e25efb4",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01d3b_RbXm7EDLio6ZHMaMhPQd5Tpb/310x430/1742734352.jpeg?s=b31a6ef2f5b6dbfa3ac4f137a12dbef8012551ca",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01d3b_RbXm7EDLio6ZHMaMhPQd5Tpb/f800/1742734352.jpeg?s=95c3dc5cbedf75e552904bfa567f5ebc0323dca4",
+          "width": 192,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01d3b_RbXm7EDLio6ZHMaMhPQd5Tpb/f800/1742734352.jpeg?s=95c3dc5cbedf75e552904bfa567f5ebc0323dca4",
+          "width": 280,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01d3b_RbXm7EDLio6ZHMaMhPQd5Tpb/f800/1742734352.jpeg?s=95c3dc5cbedf75e552904bfa567f5ebc0323dca4",
+          "width": 163,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01d3b_RbXm7EDLio6ZHMaMhPQd5Tpb",
+        "timestamp": 1742734352,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01d3b_RbXm7EDLio6ZHMaMhPQd5Tpb/1742734352.jpeg?s=b0b36534e08f247a49ddf9643ee2bc378dbac4d0",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 5,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "79.45",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego Icons 10338 Bumblebee, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 75,00 €, 79,45 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.2635988593101501,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5457432463,
+    "title": "Lego Bumblebee 10338",
+    "price": {
+      "amount": "80.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5457432463-lego-bumblebee-10338",
+    "user": {
+      "id": 15789749,
+      "login": "lopesnadege",
+      "profile_url": "https://www.vinted.fr/member/15789749-lopesnadege",
+      "photo": {
+        "id": 8290681,
+        "width": 800,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_00957_ZTm8eckzArv6UsNMznSPh7qb/f800/1605226560.jpeg?s=115d4cfe1904812507e3ae2e1882cafffc01f1a4",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_00957_ZTm8eckzArv6UsNMznSPh7qb/310x310/1605226560.jpeg?s=1758a4638c9ca6f7de73d65c9c4740872b4274de",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_00957_ZTm8eckzArv6UsNMznSPh7qb/150x150/1605226560.jpeg?s=07f01bbab0e3b229538c5c0077ebe0c40fae7935",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_00957_ZTm8eckzArv6UsNMznSPh7qb/100x100/1605226560.jpeg?s=a57d3039cb2fe9ee48538cc927f197e8709d1781",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_00957_ZTm8eckzArv6UsNMznSPh7qb/50x50/1605226560.jpeg?s=af2cba34ccb9a928930779306681a0794438fc32",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_00957_ZTm8eckzArv6UsNMznSPh7qb/20x20/1605226560.jpeg?s=28608c444b2e3b06829d2a55953d175dcd5c12cb",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_00957_ZTm8eckzArv6UsNMznSPh7qb",
+          "timestamp": 1605226560,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_00957_ZTm8eckzArv6UsNMznSPh7qb/1605226560.jpeg?s=83a7a2bd02c4a8eb6854042c8dcf9b9d066fdb59",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5457432463-lego-bumblebee-10338",
+    "promoted": false,
+    "photo": {
+      "id": 22094121883,
+      "image_no": 1,
+      "width": 598,
+      "height": 800,
+      "dominant_color": "#7C6D5C",
+      "dominant_color_opaque": "#D8D3CE",
+      "url": "https://images1.vinted.net/t/03_01957_7xKnHBdiScxKXVJLCmtZwFCv/f800/1732866728.jpeg?s=7c319f990c7e6c94db1fcd5a3fd8067fa8e054a5",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_01957_7xKnHBdiScxKXVJLCmtZwFCv/70x100/1732866728.jpeg?s=27ae662d8f1b6dc4a18894fa0c6ace69ea4b2231",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_01957_7xKnHBdiScxKXVJLCmtZwFCv/150x210/1732866728.jpeg?s=03b5c8be88f2a0040f9c340902f3f80d9f6c998e",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_01957_7xKnHBdiScxKXVJLCmtZwFCv/310x430/1732866728.jpeg?s=5dc658a285b76c2bb8c9d59897ee444d12833057",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_01957_7xKnHBdiScxKXVJLCmtZwFCv/f800/1732866728.jpeg?s=7c319f990c7e6c94db1fcd5a3fd8067fa8e054a5",
+          "width": 320,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_01957_7xKnHBdiScxKXVJLCmtZwFCv/f800/1732866728.jpeg?s=7c319f990c7e6c94db1fcd5a3fd8067fa8e054a5",
+          "width": 466,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_01957_7xKnHBdiScxKXVJLCmtZwFCv/f800/1732866728.jpeg?s=7c319f990c7e6c94db1fcd5a3fd8067fa8e054a5",
+          "width": 272,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_01957_7xKnHBdiScxKXVJLCmtZwFCv",
+        "timestamp": 1732866728,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_01957_7xKnHBdiScxKXVJLCmtZwFCv/1732866728.jpeg?s=a60546a73e339ff1ad593632d8272978d46914e7",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 15,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "84.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego Bumblebee 10338, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 80,00 €, 84,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.271266371011734,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5668949238,
+    "title": "LEGO 10338 Transformers Bumblebee New",
+    "price": {
+      "amount": "75.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5668949238-lego-10338-transformers-bumblebee-new",
+    "user": {
+      "id": 78522290,
+      "login": "bollangano",
+      "profile_url": "https://www.vinted.fr/member/78522290-bollangano",
+      "photo": null,
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5668949238-lego-10338-transformers-bumblebee-new",
+    "promoted": false,
+    "photo": {
+      "id": 22961475280,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#6F643A",
+      "dominant_color_opaque": "#D4D1C4",
+      "url": "https://images1.vinted.net/t/04_005f9_dKvTUjxVHyXByaLAQZ9s7iCP/f800/1737156249.jpeg?s=c1b20e7d0579b2f3c5bd18d89ff27fefc47d2778",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_005f9_dKvTUjxVHyXByaLAQZ9s7iCP/70x100/1737156249.jpeg?s=583d6234791e0650e83e3ea8dfcbb7d9c30dec5b",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_005f9_dKvTUjxVHyXByaLAQZ9s7iCP/150x210/1737156249.jpeg?s=e0fea36bc5d1ec9004d6f67105906ee96ea4666d",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_005f9_dKvTUjxVHyXByaLAQZ9s7iCP/310x430/1737156249.jpeg?s=aebb19ff3750fcd43eb781c7dd95864d95d9bee2",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_005f9_dKvTUjxVHyXByaLAQZ9s7iCP/f800/1737156249.jpeg?s=c1b20e7d0579b2f3c5bd18d89ff27fefc47d2778",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_005f9_dKvTUjxVHyXByaLAQZ9s7iCP/f800/1737156249.jpeg?s=c1b20e7d0579b2f3c5bd18d89ff27fefc47d2778",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_005f9_dKvTUjxVHyXByaLAQZ9s7iCP/f800/1737156249.jpeg?s=c1b20e7d0579b2f3c5bd18d89ff27fefc47d2778",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_005f9_dKvTUjxVHyXByaLAQZ9s7iCP",
+        "timestamp": 1737156249,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_005f9_dKvTUjxVHyXByaLAQZ9s7iCP/1737156249.jpeg?s=dd78e4868e93a7d4b446b2581770114219d688be",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 21,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "79.45",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Prématuré, jusqu'à 44cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Prématuré, jusqu'à 44cm · Neuf avec étiquette",
+      "accessibility_label": "LEGO 10338 Transformers Bumblebee New, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 75,00 €, 79,45 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.3931356370449066,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5548968274,
+    "title": "Lego transformers 10338",
+    "price": {
+      "amount": "95.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5548968274-lego-transformers-10338",
+    "user": {
+      "id": 155314998,
+      "login": "dieter-knockaert",
+      "profile_url": "https://www.vinted.fr/member/155314998-dieter-knockaert",
+      "photo": {
+        "id": 151279004,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_02383_kJ1UZkCBHHzPSX6Uq8Y9Ad5k/f800/1691221048.jpeg?s=aef5782dff6d533dcf5a590f2b548e05cdbdf404",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_02383_kJ1UZkCBHHzPSX6Uq8Y9Ad5k/310x310/1691221048.jpeg?s=5a72331fdc058469bbee4f3643725fb220c45683",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_02383_kJ1UZkCBHHzPSX6Uq8Y9Ad5k/150x150/1691221048.jpeg?s=972c6bbd80043672092b86d81bba94aff3e404d2",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_02383_kJ1UZkCBHHzPSX6Uq8Y9Ad5k/100x100/1691221048.jpeg?s=e3410849f50eb6530221ca367fb20006ae1a0fce",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_02383_kJ1UZkCBHHzPSX6Uq8Y9Ad5k/50x50/1691221048.jpeg?s=1babebc013be495bccf4aa0c5bc4249dbe62aa52",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_02383_kJ1UZkCBHHzPSX6Uq8Y9Ad5k/20x20/1691221048.jpeg?s=f1c70486914b58f4206cd2f48d0d2068db93b3c5",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_02383_kJ1UZkCBHHzPSX6Uq8Y9Ad5k",
+          "timestamp": 1691221048,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_02383_kJ1UZkCBHHzPSX6Uq8Y9Ad5k/1691221048.jpeg?s=cada48bda82b5ab563ba1229041bf0ad850b5023",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5548968274-lego-transformers-10338",
+    "promoted": false,
+    "photo": {
+      "id": 22475057236,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#9E8A69",
+      "dominant_color_opaque": "#E2DCD2",
+      "url": "https://images1.vinted.net/t/04_0218e_NuwQPaG7iTjf3ETHVRCrCNHw/f800/1734771350.jpeg?s=014914fc809937b645965c7e51df0eaebdecd693",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_0218e_NuwQPaG7iTjf3ETHVRCrCNHw/70x100/1734771350.jpeg?s=91b2a0fdf22ec82d5dc745b87044cca822495d87",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_0218e_NuwQPaG7iTjf3ETHVRCrCNHw/150x210/1734771350.jpeg?s=89e1bd689011e6b062c1f2d89735ebb79c5ef661",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_0218e_NuwQPaG7iTjf3ETHVRCrCNHw/310x430/1734771350.jpeg?s=9d8c658938f1c3087958558319f24c76d5d10894",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_0218e_NuwQPaG7iTjf3ETHVRCrCNHw/f800/1734771350.jpeg?s=014914fc809937b645965c7e51df0eaebdecd693",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_0218e_NuwQPaG7iTjf3ETHVRCrCNHw/f800/1734771350.jpeg?s=014914fc809937b645965c7e51df0eaebdecd693",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_0218e_NuwQPaG7iTjf3ETHVRCrCNHw/f800/1734771350.jpeg?s=014914fc809937b645965c7e51df0eaebdecd693",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_0218e_NuwQPaG7iTjf3ETHVRCrCNHw",
+        "timestamp": 1734771350,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_0218e_NuwQPaG7iTjf3ETHVRCrCNHw/1734771350.jpeg?s=17d1bda7462a67b4172b2300fa13d2417c33d73e",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 3,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "5.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "100.45",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "M",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "M · Neuf avec étiquette",
+      "accessibility_label": "Lego transformers 10338, marque: LEGO, état: Neuf avec étiquette, taille: M, 95,00 €, 100,45 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.3947766125202179,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5619909053,
+    "title": "Lego Bumblebee Transformers",
+    "price": {
+      "amount": "90.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5619909053-lego-bumblebee-transformers",
+    "user": {
+      "id": 249977613,
+      "login": "mavcas",
+      "profile_url": "https://www.vinted.fr/member/249977613-mavcas",
+      "photo": null,
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5619909053-lego-bumblebee-transformers",
+    "promoted": false,
+    "photo": {
+      "id": 22762559504,
+      "image_no": 1,
+      "width": 602,
+      "height": 800,
+      "dominant_color": "#736C5E",
+      "dominant_color_opaque": "#D5D3CF",
+      "url": "https://images1.vinted.net/t/01_01e2d_GiSw9YJcK5HCLD9V4PFtECQp/f800/1736337567.jpeg?s=da3cd7083e49f96607bb99ca7280956ace385899",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/01_01e2d_GiSw9YJcK5HCLD9V4PFtECQp/70x100/1736337567.jpeg?s=f8957c7570b119c924e659899e7f8c413f993997",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/01_01e2d_GiSw9YJcK5HCLD9V4PFtECQp/150x210/1736337567.jpeg?s=10a55f6fd62c83ffeb649e9e0d90004e47832cb4",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/01_01e2d_GiSw9YJcK5HCLD9V4PFtECQp/310x430/1736337567.jpeg?s=4f172992bb40580c56d57f00fcaa2cee2ad14694",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/01_01e2d_GiSw9YJcK5HCLD9V4PFtECQp/f800/1736337567.jpeg?s=da3cd7083e49f96607bb99ca7280956ace385899",
+          "width": 322,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/01_01e2d_GiSw9YJcK5HCLD9V4PFtECQp/f800/1736337567.jpeg?s=da3cd7083e49f96607bb99ca7280956ace385899",
+          "width": 469,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/01_01e2d_GiSw9YJcK5HCLD9V4PFtECQp/f800/1736337567.jpeg?s=da3cd7083e49f96607bb99ca7280956ace385899",
+          "width": 274,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "01_01e2d_GiSw9YJcK5HCLD9V4PFtECQp",
+        "timestamp": 1736337567,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/01_01e2d_GiSw9YJcK5HCLD9V4PFtECQp/1736337567.jpeg?s=c845ae7bdda2a58f64735428d03c9d089a7379fd",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 7,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "5.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "95.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego Bumblebee Transformers, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 90,00 €, 95,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.474797397851944,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5034927248,
+    "title": "Lego Icons 10338 Transformers Bumblebee",
+    "price": {
+      "amount": "85.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5034927248-lego-icons-10338-transformers-bumblebee",
+    "user": {
+      "id": 58475340,
+      "login": "japanpassion.it",
+      "profile_url": "https://www.vinted.fr/member/58475340-japanpassionit",
+      "photo": {
+        "id": 177595704,
+        "width": 800,
+        "height": 317,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_0092a_VHwyMqrjBmMuA2rEJStMkukJ/f800/1706016279.jpeg?s=e46c119ad66a93ae9f746903e3f00705278490ca",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_0092a_VHwyMqrjBmMuA2rEJStMkukJ/310x310/1706016279.jpeg?s=2b57215dcbb667b9231daa4e2424776ab3e84623",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_0092a_VHwyMqrjBmMuA2rEJStMkukJ/150x150/1706016279.jpeg?s=03d060a975a5b0ad41753dfe37e47d69eef2202c",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_0092a_VHwyMqrjBmMuA2rEJStMkukJ/100x100/1706016279.jpeg?s=0457e075a2c5414348fdcc604ddfe92333accb5e",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_0092a_VHwyMqrjBmMuA2rEJStMkukJ/50x50/1706016279.jpeg?s=553006e6746a9c70e1699e98220a210a25baea28",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_0092a_VHwyMqrjBmMuA2rEJStMkukJ/20x20/1706016279.jpeg?s=ae677f8067d4e269b4e5a100026cc945657f501c",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_0092a_VHwyMqrjBmMuA2rEJStMkukJ",
+          "timestamp": 1706016279,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_0092a_VHwyMqrjBmMuA2rEJStMkukJ/1706016279.jpeg?s=cb05f96e6f3c0127c45999635348ef59d8273101",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": true
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5034927248-lego-icons-10338-transformers-bumblebee",
+    "promoted": false,
+    "photo": {
+      "id": 20402188260,
+      "image_no": 1,
+      "width": 604,
+      "height": 800,
+      "dominant_color": "#7D8559",
+      "dominant_color_opaque": "#D8DACD",
+      "url": "https://images1.vinted.net/t/01_01a77_f7HakVo1zQfvQ2xMoLEyi4fp/f800/1726224298.jpeg?s=cd2d43c16b43a6c5ae071056ff43d36904f6e336",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/01_01a77_f7HakVo1zQfvQ2xMoLEyi4fp/70x100/1726224298.jpeg?s=507bd10487c34308c0a163558e16e21ab65cdf61",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/01_01a77_f7HakVo1zQfvQ2xMoLEyi4fp/150x210/1726224298.jpeg?s=eee89a054e003e7214825f77c8cbcfec6e37d953",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/01_01a77_f7HakVo1zQfvQ2xMoLEyi4fp/310x430/1726224298.jpeg?s=8308e026ec8e7627d14450d61bfd455d58464374",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/01_01a77_f7HakVo1zQfvQ2xMoLEyi4fp/f800/1726224298.jpeg?s=cd2d43c16b43a6c5ae071056ff43d36904f6e336",
+          "width": 323,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/01_01a77_f7HakVo1zQfvQ2xMoLEyi4fp/f800/1726224298.jpeg?s=cd2d43c16b43a6c5ae071056ff43d36904f6e336",
+          "width": 471,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/01_01a77_f7HakVo1zQfvQ2xMoLEyi4fp/f800/1726224298.jpeg?s=cd2d43c16b43a6c5ae071056ff43d36904f6e336",
+          "width": 275,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "01_01a77_f7HakVo1zQfvQ2xMoLEyi4fp",
+        "timestamp": 1726224298,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/01_01a77_f7HakVo1zQfvQ2xMoLEyi4fp/1726224298.jpeg?s=fa87f04dea1a137f5096a6f612fe57fcd0ab4940",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 10,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "89.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego Icons 10338 Transformers Bumblebee, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 85,00 €, 89,95 € Protection acheteurs (Pro) incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.5174948573112488,
+      "matched_queries": []
+    }
+  }
+]

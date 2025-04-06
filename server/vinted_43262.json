@@ -1,0 +1,1157 @@
+[
+  {
+    "id": 6092121364,
+    "title": "Lego 43262 Disney",
+    "price": {
+      "amount": "43.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6092121364-lego-43262-disney",
+    "user": {
+      "id": 41316559,
+      "login": "dojo57",
+      "profile_url": "https://www.vinted.fr/member/41316559-dojo57",
+      "photo": {
+        "id": 47487631,
+        "width": 512,
+        "height": 512,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_02229_jXKPhLTEzYTorRgFqSyyVKhN/f800/1612012774.jpeg?s=d96c28dc6f413788369f75e170ccc7b55cec3051",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_02229_jXKPhLTEzYTorRgFqSyyVKhN/310x310/1612012774.jpeg?s=14c39a5c609718bf415dc0139fd3198f1ed889ab",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_02229_jXKPhLTEzYTorRgFqSyyVKhN/150x150/1612012774.jpeg?s=58f692ed8bf1b8df18f817128f01fee8346ba13a",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_02229_jXKPhLTEzYTorRgFqSyyVKhN/100x100/1612012774.jpeg?s=19bc078502c36cc92bcd56d9cbcd0429ec4228e9",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_02229_jXKPhLTEzYTorRgFqSyyVKhN/50x50/1612012774.jpeg?s=403475d241f690a53fc59363b20b7d6bdf273f1a",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_02229_jXKPhLTEzYTorRgFqSyyVKhN/20x20/1612012774.jpeg?s=8d1252a98f61a8b53bcac72d9df6ccc31a22fa67",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_02229_jXKPhLTEzYTorRgFqSyyVKhN",
+          "timestamp": 1612012774,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_02229_jXKPhLTEzYTorRgFqSyyVKhN/1612012774.jpeg?s=345378930223c0969f8dd8231c98ac228b0d7305",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6092121364-lego-43262-disney",
+    "promoted": false,
+    "photo": {
+      "id": 24718251150,
+      "image_no": 1,
+      "width": 591,
+      "height": 800,
+      "dominant_color": "#898274",
+      "dominant_color_opaque": "#DCDAD5",
+      "url": "https://images1.vinted.net/t/04_0262f_b775Zk3YF7X7R3w4jVJHBnUN/f800/1743861243.jpeg?s=f0f898aa0eafb7b69352068bcc00533789c10f3a",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_0262f_b775Zk3YF7X7R3w4jVJHBnUN/70x100/1743861243.jpeg?s=8ceab76eb1a1cfda9f49a8af82a66a99a454b02c",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_0262f_b775Zk3YF7X7R3w4jVJHBnUN/150x210/1743861243.jpeg?s=47f6543eceed04acaf7a2374cfc58e59f9b444f0",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_0262f_b775Zk3YF7X7R3w4jVJHBnUN/310x430/1743861243.jpeg?s=1512def57c41ec04976e565e6f263b20eca51ff5",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_0262f_b775Zk3YF7X7R3w4jVJHBnUN/f800/1743861243.jpeg?s=f0f898aa0eafb7b69352068bcc00533789c10f3a",
+          "width": 316,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_0262f_b775Zk3YF7X7R3w4jVJHBnUN/f800/1743861243.jpeg?s=f0f898aa0eafb7b69352068bcc00533789c10f3a",
+          "width": 461,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_0262f_b775Zk3YF7X7R3w4jVJHBnUN/f800/1743861243.jpeg?s=f0f898aa0eafb7b69352068bcc00533789c10f3a",
+          "width": 269,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_0262f_b775Zk3YF7X7R3w4jVJHBnUN",
+        "timestamp": 1743861243,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_0262f_b775Zk3YF7X7R3w4jVJHBnUN/1743861243.jpeg?s=db634f8aa26223dc356e4c3d762b13d0e82aed98",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 6,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "2.85",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "45.85",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 43262 Disney, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 43,00 €, 45,85 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 3.109627246856689,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6048539628,
+    "title": "Lego Disney 43262",
+    "price": {
+      "amount": "49.99",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6048539628-lego-disney-43262",
+    "user": {
+      "id": 153937356,
+      "login": "vincentth6",
+      "profile_url": "https://www.vinted.fr/member/153937356-vincentth6",
+      "photo": {
+        "id": 218967307,
+        "width": 800,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_01152_PJ9oxmhj8RFEBMKrVscTy3G6/f800/1732045889.jpeg?s=eef011cc8ce811cdd3b9f0dcc170ab48c7abf807",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_01152_PJ9oxmhj8RFEBMKrVscTy3G6/310x310/1732045889.jpeg?s=e87c6afea16934e964a55c13ea03756c23d68904",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_01152_PJ9oxmhj8RFEBMKrVscTy3G6/150x150/1732045889.jpeg?s=15b9d707438bcfd3ff64fdc722dfc8f2c0b9648d",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_01152_PJ9oxmhj8RFEBMKrVscTy3G6/100x100/1732045889.jpeg?s=7f4e61e8d14ebc696a260b7a45a28926aa82fee6",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_01152_PJ9oxmhj8RFEBMKrVscTy3G6/50x50/1732045889.jpeg?s=c0ff68d844edcfe49246c3d166a2634d8c7dbe7f",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_01152_PJ9oxmhj8RFEBMKrVscTy3G6/20x20/1732045889.jpeg?s=626955f5ba2720198fb16c18256a8a1d3c860d12",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_01152_PJ9oxmhj8RFEBMKrVscTy3G6",
+          "timestamp": 1732045889,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_01152_PJ9oxmhj8RFEBMKrVscTy3G6/1732045889.jpeg?s=6d072d96bc8422204901bf72a96f4cedf6170b4c",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6048539628-lego-disney-43262",
+    "promoted": false,
+    "photo": {
+      "id": 24536098680,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#46433B",
+      "dominant_color_opaque": "#C8C7C4",
+      "url": "https://images1.vinted.net/t/04_01a46_dDNu9VrcNnWmSWNYA9A6P6DT/f800/1743180343.jpeg?s=e4ca61f3bea36f9a50a59a264d07558c908eb554",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01a46_dDNu9VrcNnWmSWNYA9A6P6DT/70x100/1743180343.jpeg?s=37de3ab4cfd761df22f1d5af52249d5f7eb1182c",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01a46_dDNu9VrcNnWmSWNYA9A6P6DT/150x210/1743180343.jpeg?s=bb39fdb02b46ea40737c013d625e6145cb45cb1f",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01a46_dDNu9VrcNnWmSWNYA9A6P6DT/310x430/1743180343.jpeg?s=0a76a6a4925b496e6004bcfda7bc3e85eb4c4f91",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01a46_dDNu9VrcNnWmSWNYA9A6P6DT/f800/1743180343.jpeg?s=e4ca61f3bea36f9a50a59a264d07558c908eb554",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01a46_dDNu9VrcNnWmSWNYA9A6P6DT/f800/1743180343.jpeg?s=e4ca61f3bea36f9a50a59a264d07558c908eb554",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01a46_dDNu9VrcNnWmSWNYA9A6P6DT/f800/1743180343.jpeg?s=e4ca61f3bea36f9a50a59a264d07558c908eb554",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01a46_dDNu9VrcNnWmSWNYA9A6P6DT",
+        "timestamp": 1743180343,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01a46_dDNu9VrcNnWmSWNYA9A6P6DT/1743180343.jpeg?s=e3dd60c5c962f3be10d98cd28817658543e664c2",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 20,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "3.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "53.19",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego Disney 43262, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 49,99 €, 53,19 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 2.806223392486572,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6052221038,
+    "title": "Set lego 43262 robes maléfique et cruella d'enfer \n\nNeuf et scéllé",
+    "price": {
+      "amount": "45.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6052221038-set-lego-43262-robes-malefique-et-cruella-denfer-neuf-et-scelle",
+    "user": {
+      "id": 249655191,
+      "login": "koko940",
+      "profile_url": "https://www.vinted.fr/member/249655191-koko940",
+      "photo": {
+        "id": 224902469,
+        "width": 720,
+        "height": 781,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_00a7d_2S8uiD3LTABxY4k4ab5fMjhr/f800/1736116893.jpeg?s=db6489f4bccb16399b81fb8aa363746785749aa0",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_00a7d_2S8uiD3LTABxY4k4ab5fMjhr/310x310/1736116893.jpeg?s=f0020c7f853181838d35038ee3380f91808ddd7f",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_00a7d_2S8uiD3LTABxY4k4ab5fMjhr/150x150/1736116893.jpeg?s=1a1e63e48a941a7633a1c73652afe0f36223babb",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_00a7d_2S8uiD3LTABxY4k4ab5fMjhr/100x100/1736116893.jpeg?s=96a777b6328aa0a6ff60bbe634b0d2a71dd86eb8",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_00a7d_2S8uiD3LTABxY4k4ab5fMjhr/50x50/1736116893.jpeg?s=5d3d5f96e731d2cd54676fe9c596bd3345e6fb4a",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_00a7d_2S8uiD3LTABxY4k4ab5fMjhr/20x20/1736116893.jpeg?s=a09ba08195b0e48307aaf07bf6ab6c669ecaad74",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_00a7d_2S8uiD3LTABxY4k4ab5fMjhr",
+          "timestamp": 1736116893,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_00a7d_2S8uiD3LTABxY4k4ab5fMjhr/1736116893.jpeg?s=5a74156f6163150022a8a63d36aae099e085fdd7",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6052221038-set-lego-43262-robes-malefique-et-cruella-denfer-neuf-et-scelle",
+    "promoted": false,
+    "photo": {
+      "id": 24551788770,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#656B67",
+      "dominant_color_opaque": "#D1D3D1",
+      "url": "https://images1.vinted.net/t/04_0140e_TyfDBuvDGxgHytL88L1RjosU/f800/1743250757.jpeg?s=174e5ab82bb576b293f3a004fd63dda50385a31b",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_0140e_TyfDBuvDGxgHytL88L1RjosU/70x100/1743250757.jpeg?s=98b9deb51ba3e260d52fa972d939f50ad1240431",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_0140e_TyfDBuvDGxgHytL88L1RjosU/150x210/1743250757.jpeg?s=aa2d471bb61f552e103afe4086527b8990dcf337",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_0140e_TyfDBuvDGxgHytL88L1RjosU/310x430/1743250757.jpeg?s=df6b75793845a12fffa6ec373c269b7561f9475a",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_0140e_TyfDBuvDGxgHytL88L1RjosU/f800/1743250757.jpeg?s=174e5ab82bb576b293f3a004fd63dda50385a31b",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_0140e_TyfDBuvDGxgHytL88L1RjosU/f800/1743250757.jpeg?s=174e5ab82bb576b293f3a004fd63dda50385a31b",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_0140e_TyfDBuvDGxgHytL88L1RjosU/f800/1743250757.jpeg?s=174e5ab82bb576b293f3a004fd63dda50385a31b",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_0140e_TyfDBuvDGxgHytL88L1RjosU",
+        "timestamp": 1743250757,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_0140e_TyfDBuvDGxgHytL88L1RjosU/1743250757.jpeg?s=5228bee1b91ffe373a07640bdd0ca06015953ec7",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 6,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "2.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "47.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Set lego 43262 robes maléfique et cruella d'enfer \n\nNeuf et scéllé, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 45,00 €, 47,95 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 2.672657489776611,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6043921277,
+    "title": "Lego Disney 43262 Les robes de Maléfique et Cruella D’enfer",
+    "price": {
+      "amount": "50.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6043921277-lego-disney-43262-les-robes-de-malefique-et-cruella-denfer",
+    "user": {
+      "id": 107129961,
+      "login": "cholabkkk",
+      "profile_url": "https://www.vinted.fr/member/107129961-cholabkkk",
+      "photo": {
+        "id": 131517557,
+        "width": 800,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_01413_BJiYyMhtv9NSjDG7ZZ7JPJMw/f800/1678012246.jpeg?s=1d1f450f3543c74843dafcc7770a167e88d587de",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_01413_BJiYyMhtv9NSjDG7ZZ7JPJMw/310x310/1678012246.jpeg?s=a50d77091504835b3f97a2427899a99c1aded835",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_01413_BJiYyMhtv9NSjDG7ZZ7JPJMw/150x150/1678012246.jpeg?s=5b98849948639aabc0bad422bfe321b6c01fa0c4",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_01413_BJiYyMhtv9NSjDG7ZZ7JPJMw/100x100/1678012246.jpeg?s=4a191a4cd5ebacf31cc2ac6d211244bc9ae59a32",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_01413_BJiYyMhtv9NSjDG7ZZ7JPJMw/50x50/1678012246.jpeg?s=266af6a526570815904802346ebb88555a6c782c",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_01413_BJiYyMhtv9NSjDG7ZZ7JPJMw/20x20/1678012246.jpeg?s=fd241c336a1d0aaff91c628e5ccae7cd1bdec20a",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_01413_BJiYyMhtv9NSjDG7ZZ7JPJMw",
+          "timestamp": 1678012246,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_01413_BJiYyMhtv9NSjDG7ZZ7JPJMw/1678012246.jpeg?s=42df97f5a23e147115cdb08fedf7469bd64660a7",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6043921277-lego-disney-43262-les-robes-de-malefique-et-cruella-denfer",
+    "promoted": false,
+    "photo": {
+      "id": 24516571383,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#55554C",
+      "dominant_color_opaque": "#CCCCC9",
+      "url": "https://images1.vinted.net/t/03_00eec_aHbGoBEdHHJTi6f57JL3qBaq/f800/1743097855.jpeg?s=6b2878ce1fdf56aecf02649d74f34c32688f934d",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_00eec_aHbGoBEdHHJTi6f57JL3qBaq/70x100/1743097855.jpeg?s=fc5ef83dbcb366e96446e08968c1902bdd3ad8b1",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_00eec_aHbGoBEdHHJTi6f57JL3qBaq/150x210/1743097855.jpeg?s=5888ad036663d46a087326c805a05513f8606349",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_00eec_aHbGoBEdHHJTi6f57JL3qBaq/310x430/1743097855.jpeg?s=a36871fab80e0a3c1c8299fdbb8b391c14a3cea8",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_00eec_aHbGoBEdHHJTi6f57JL3qBaq/f800/1743097855.jpeg?s=6b2878ce1fdf56aecf02649d74f34c32688f934d",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_00eec_aHbGoBEdHHJTi6f57JL3qBaq/f800/1743097855.jpeg?s=6b2878ce1fdf56aecf02649d74f34c32688f934d",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_00eec_aHbGoBEdHHJTi6f57JL3qBaq/f800/1743097855.jpeg?s=6b2878ce1fdf56aecf02649d74f34c32688f934d",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_00eec_aHbGoBEdHHJTi6f57JL3qBaq",
+        "timestamp": 1743097855,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_00eec_aHbGoBEdHHJTi6f57JL3qBaq/1743097855.jpeg?s=823a0c8ac654b34724e0de213d034cbb50480422",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 16,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "3.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "53.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Prématuré, jusqu'à 44cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Prématuré, jusqu'à 44cm · Neuf avec étiquette",
+      "accessibility_label": "Lego Disney 43262 Les robes de Maléfique et Cruella D’enfer, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 50,00 €, 53,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 1.963476657867432,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6080473784,
+    "title": "Lego 43262",
+    "price": {
+      "amount": "60.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6080473784-lego-43262",
+    "user": {
+      "id": 41361776,
+      "login": "dsandra231080",
+      "profile_url": "https://www.vinted.fr/member/41361776-dsandra231080",
+      "photo": {
+        "id": 43576293,
+        "width": 633,
+        "height": 635,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_009ad_Gp3ANTBmh8Fkpy68vhchmB2w/f800/1608826799.jpeg?s=c1bc0452ba7e3e44420e91c538f3fb55aebbbdc1",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_009ad_Gp3ANTBmh8Fkpy68vhchmB2w/310x310/1608826799.jpeg?s=5842adb9d3fce33748d074da656421c69315e186",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_009ad_Gp3ANTBmh8Fkpy68vhchmB2w/150x150/1608826799.jpeg?s=b1ede59b216ffc0f8d4d38578ca7dc7f9a54f791",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_009ad_Gp3ANTBmh8Fkpy68vhchmB2w/100x100/1608826799.jpeg?s=cabf2957efd3c193d9b3fdf23df9d038ed842a9d",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_009ad_Gp3ANTBmh8Fkpy68vhchmB2w/50x50/1608826799.jpeg?s=1f817b222010d825dbb2482837e778d9c9ee0eb3",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_009ad_Gp3ANTBmh8Fkpy68vhchmB2w/20x20/1608826799.jpeg?s=8a9799668eab10ae79ec31184a68b571cc659702",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_009ad_Gp3ANTBmh8Fkpy68vhchmB2w",
+          "timestamp": 1608826799,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_009ad_Gp3ANTBmh8Fkpy68vhchmB2w/1608826799.jpeg?s=2479c3b9c82d71678866bf7041d00ecb8f023142",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6080473784-lego-43262",
+    "promoted": false,
+    "photo": {
+      "id": 24668927938,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#696460",
+      "dominant_color_opaque": "#D2D1CF",
+      "url": "https://images1.vinted.net/t/04_00c38_5AdghaaD1d2k8eTSDUNJpJ8r/f800/1743672976.jpeg?s=0c2d1f12006f43241b168fce2ffa649e5a5fdcfd",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00c38_5AdghaaD1d2k8eTSDUNJpJ8r/70x100/1743672976.jpeg?s=4d9fc6d3c3b1b090d8efbaedcf034c591adc5114",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00c38_5AdghaaD1d2k8eTSDUNJpJ8r/150x210/1743672976.jpeg?s=0c9b715499cc25a6ed30a1c443ac573fe83b19b0",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00c38_5AdghaaD1d2k8eTSDUNJpJ8r/310x430/1743672976.jpeg?s=5e59196227dfcedadeb27fa747ff3acf8392c887",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00c38_5AdghaaD1d2k8eTSDUNJpJ8r/f800/1743672976.jpeg?s=0c2d1f12006f43241b168fce2ffa649e5a5fdcfd",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00c38_5AdghaaD1d2k8eTSDUNJpJ8r/f800/1743672976.jpeg?s=0c2d1f12006f43241b168fce2ffa649e5a5fdcfd",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00c38_5AdghaaD1d2k8eTSDUNJpJ8r/f800/1743672976.jpeg?s=0c2d1f12006f43241b168fce2ffa649e5a5fdcfd",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00c38_5AdghaaD1d2k8eTSDUNJpJ8r",
+        "timestamp": 1743672976,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00c38_5AdghaaD1d2k8eTSDUNJpJ8r/1743672976.jpeg?s=1ef9a3d153b580386499342edc7887c568929bf5",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 0,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "3.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "63.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "Lego 43262, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 60,00 €, 63,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.2226858139038086,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6049305493,
+    "title": "Lego Disney",
+    "price": {
+      "amount": "55.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6049305493-lego-disney",
+    "user": {
+      "id": 50789722,
+      "login": "ramona2598",
+      "profile_url": "https://www.vinted.fr/member/50789722-ramona2598",
+      "photo": {
+        "id": 163630088,
+        "width": 450,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_0046c_5vhpgVD4a4ezBzJZNDSzCU4d/f800/1698135700.jpeg?s=457fe8fae86847bd0d76305ae9e990c00f489fdb",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_0046c_5vhpgVD4a4ezBzJZNDSzCU4d/310x310/1698135700.jpeg?s=3be4fe5afb4abda35ddc5c840fc98dc169a03ec2",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_0046c_5vhpgVD4a4ezBzJZNDSzCU4d/150x150/1698135700.jpeg?s=d5b2405fbd37a4d3b4963101ee74d0ac223fee61",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_0046c_5vhpgVD4a4ezBzJZNDSzCU4d/100x100/1698135700.jpeg?s=6d7d20858783203ca7d27fffe644d0c00ef76adc",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_0046c_5vhpgVD4a4ezBzJZNDSzCU4d/50x50/1698135700.jpeg?s=409a47170f73d29c41ca305cddbde262410d0295",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_0046c_5vhpgVD4a4ezBzJZNDSzCU4d/20x20/1698135700.jpeg?s=b29287feba211580dbaac4e1eb06cff50cc781d4",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_0046c_5vhpgVD4a4ezBzJZNDSzCU4d",
+          "timestamp": 1698135700,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_0046c_5vhpgVD4a4ezBzJZNDSzCU4d/1698135700.jpeg?s=09e5933222eae4ccade88cd69f2d736928632569",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6049305493-lego-disney",
+    "promoted": false,
+    "photo": {
+      "id": 24539421514,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#2C2E29",
+      "dominant_color_opaque": "#C0C0BF",
+      "url": "https://images1.vinted.net/t/04_017d7_ugTjFNb6QNFBZdXHMYzJYhPM/f800/1743188878.jpeg?s=ad9938bfc407de4747856f9ba721998b9d95ec7c",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_017d7_ugTjFNb6QNFBZdXHMYzJYhPM/70x100/1743188878.jpeg?s=6ada3378c68ff07a9957a47f5d4f3b115c051e34",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_017d7_ugTjFNb6QNFBZdXHMYzJYhPM/150x210/1743188878.jpeg?s=ab6008d69f3671b0653c8b1f587a2b7555c13ab4",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_017d7_ugTjFNb6QNFBZdXHMYzJYhPM/310x430/1743188878.jpeg?s=b9b00d384b5ead3fd36e8fd883e0fc1c193f6820",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_017d7_ugTjFNb6QNFBZdXHMYzJYhPM/f800/1743188878.jpeg?s=ad9938bfc407de4747856f9ba721998b9d95ec7c",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_017d7_ugTjFNb6QNFBZdXHMYzJYhPM/f800/1743188878.jpeg?s=ad9938bfc407de4747856f9ba721998b9d95ec7c",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_017d7_ugTjFNb6QNFBZdXHMYzJYhPM/f800/1743188878.jpeg?s=ad9938bfc407de4747856f9ba721998b9d95ec7c",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_017d7_ugTjFNb6QNFBZdXHMYzJYhPM",
+        "timestamp": 1743188878,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_017d7_ugTjFNb6QNFBZdXHMYzJYhPM/1743188878.jpeg?s=799617325bbd3b3f60172d655a9c7cd6f00753f8",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 4,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "3.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "58.45",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "9 ans / 134 cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "9 ans / 134 cm · Neuf avec étiquette",
+      "accessibility_label": "Lego Disney, marque: LEGO, état: Neuf avec étiquette, taille: 9 ans / 134 cm, 55,00 €, 58,45 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.258918821811676,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5924131284,
+    "title": "LEGO Disney Villanas - 43262",
+    "price": {
+      "amount": "65.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5924131284-lego-disney-villanas-43262",
+    "user": {
+      "id": 50471986,
+      "login": "marhernandez66",
+      "profile_url": "https://www.vinted.fr/member/50471986-marhernandez66",
+      "photo": {
+        "id": 146983151,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_015d7_VgYPqhKGBdojxWofae6V9LjF/f800/1688048846.jpeg?s=b291bb49d4241b9133ca71f46c26ca9e893f2d75",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_015d7_VgYPqhKGBdojxWofae6V9LjF/310x310/1688048846.jpeg?s=30c4fabf5a87d7ccac41032dee944a54833cd8be",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_015d7_VgYPqhKGBdojxWofae6V9LjF/150x150/1688048846.jpeg?s=7ffff5e9c72aac74f3c14b7fcac14299a176ca10",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_015d7_VgYPqhKGBdojxWofae6V9LjF/100x100/1688048846.jpeg?s=40b95e3e86552c98c6db1b41eabdbca12288994e",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_015d7_VgYPqhKGBdojxWofae6V9LjF/50x50/1688048846.jpeg?s=5d71d95a6e1e95356061d9c7cf939b1899757f97",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_015d7_VgYPqhKGBdojxWofae6V9LjF/20x20/1688048846.jpeg?s=47b4d17397c19a7aef651a79a40970ead4d8a1bc",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_015d7_VgYPqhKGBdojxWofae6V9LjF",
+          "timestamp": 1688048846,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_015d7_VgYPqhKGBdojxWofae6V9LjF/1688048846.jpeg?s=59f5cd47a66a7345fc05c0323a8ad4d420c02022",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5924131284-lego-disney-villanas-43262",
+    "promoted": false,
+    "photo": {
+      "id": 24018577447,
+      "image_no": 1,
+      "width": 800,
+      "height": 706,
+      "dominant_color": "#7A8894",
+      "dominant_color_opaque": "#D7DBDF",
+      "url": "https://images1.vinted.net/t/04_01718_VCDzrsVX3W7pR5sZSszHUNFr/f800/1741279178.jpeg?s=691dfb9d5daf537cfcc842a9561b001752a53b5f",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01718_VCDzrsVX3W7pR5sZSszHUNFr/70x100/1741279178.jpeg?s=a95365cc40d2750fc501f43db1aac14b1837f97d",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01718_VCDzrsVX3W7pR5sZSszHUNFr/150x210/1741279178.jpeg?s=cf371c64618331ae1d562351ffaf2be696e7b49f",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01718_VCDzrsVX3W7pR5sZSszHUNFr/310x430/1741279178.jpeg?s=27c161f35e2ff6239894ccd644f373014d56136c",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01718_VCDzrsVX3W7pR5sZSszHUNFr/f800/1741279178.jpeg?s=691dfb9d5daf537cfcc842a9561b001752a53b5f",
+          "width": 428,
+          "height": 377,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01718_VCDzrsVX3W7pR5sZSszHUNFr/f800/1741279178.jpeg?s=691dfb9d5daf537cfcc842a9561b001752a53b5f",
+          "width": 624,
+          "height": 551,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01718_VCDzrsVX3W7pR5sZSszHUNFr/f800/1741279178.jpeg?s=691dfb9d5daf537cfcc842a9561b001752a53b5f",
+          "width": 364,
+          "height": 321,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01718_VCDzrsVX3W7pR5sZSszHUNFr",
+        "timestamp": 1741279178,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01718_VCDzrsVX3W7pR5sZSszHUNFr/1741279178.jpeg?s=d8df14cb3f8015470f8004519343f17be22bf9d8",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 15,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "3.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "68.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "9 ans / 134 cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "9 ans / 134 cm · Neuf avec étiquette",
+      "accessibility_label": "LEGO Disney Villanas - 43262, marque: LEGO, état: Neuf avec étiquette, taille: 9 ans / 134 cm, 65,00 €, 68,95 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.2831063568592072,
+      "matched_queries": []
+    }
+  }
+]

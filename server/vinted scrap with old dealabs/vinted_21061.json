@@ -1,0 +1,4017 @@
+[
+  {
+    "id": 6090756054,
+    "title": "Lego Architecture 21061 : Notre-Dame de Paris neuf (adulte) sous scellés",
+    "price": {
+      "amount": "162.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6090756054-lego-architecture-21061-notre-dame-de-paris-neuf-adulte-sous-scelles",
+    "user": {
+      "id": 15849779,
+      "login": "waly67",
+      "profile_url": "https://www.vinted.fr/member/15849779-waly67",
+      "photo": {
+        "id": 8922697,
+        "width": 800,
+        "height": 450,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_01f34_2xQnNCghogHHk9yn5chPd5yq/f800/1605229212.jpeg?s=72ef378835f355e877d6e25774a288922f167b3e",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_01f34_2xQnNCghogHHk9yn5chPd5yq/310x310/1605229212.jpeg?s=b1f313924c71e1723a244642134c739f2d881e29",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_01f34_2xQnNCghogHHk9yn5chPd5yq/150x150/1605229212.jpeg?s=4a658c35515c0922efa04a275e26d58ae5d38ca6",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_01f34_2xQnNCghogHHk9yn5chPd5yq/100x100/1605229212.jpeg?s=72435ef8f3baac96ddbc7a3cd7125df365fd7e51",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_01f34_2xQnNCghogHHk9yn5chPd5yq/50x50/1605229212.jpeg?s=19abcda62a875aa6b6ef80f929bc8f619eacecb8",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_01f34_2xQnNCghogHHk9yn5chPd5yq/20x20/1605229212.jpeg?s=f9f9bf6ad1522bc5964bd836bc613d4a680e829f",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_01f34_2xQnNCghogHHk9yn5chPd5yq",
+          "timestamp": 1605229212,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_01f34_2xQnNCghogHHk9yn5chPd5yq/1605229212.jpeg?s=a1032f1ff5cac7d0b67f91779d677de481504a58",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6090756054-lego-architecture-21061-notre-dame-de-paris-neuf-adulte-sous-scelles",
+    "promoted": false,
+    "photo": {
+      "id": 24712537315,
+      "image_no": 1,
+      "width": 800,
+      "height": 546,
+      "dominant_color": "#856D5B",
+      "dominant_color_opaque": "#DAD3CE",
+      "url": "https://images1.vinted.net/t/03_01487_nKajRfs2aY2JNyHmXAxmci2u/f800/1743850329.jpeg?s=f1896cd81e8a02129a80f4f5d11a83000937c8d3",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_01487_nKajRfs2aY2JNyHmXAxmci2u/70x100/1743850329.jpeg?s=0171c52f3b0406a155318734f6ca5ecef72db297",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_01487_nKajRfs2aY2JNyHmXAxmci2u/150x210/1743850329.jpeg?s=5f0861f9d1bb65ff88d7227ce0655d03989180a6",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_01487_nKajRfs2aY2JNyHmXAxmci2u/310x430/1743850329.jpeg?s=cb6c2137b458627448f7c49382556eb83e55d7b2",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_01487_nKajRfs2aY2JNyHmXAxmci2u/f800/1743850329.jpeg?s=f1896cd81e8a02129a80f4f5d11a83000937c8d3",
+          "width": 428,
+          "height": 292,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_01487_nKajRfs2aY2JNyHmXAxmci2u/f800/1743850329.jpeg?s=f1896cd81e8a02129a80f4f5d11a83000937c8d3",
+          "width": 624,
+          "height": 426,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_01487_nKajRfs2aY2JNyHmXAxmci2u/f800/1743850329.jpeg?s=f1896cd81e8a02129a80f4f5d11a83000937c8d3",
+          "width": 364,
+          "height": 248,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_01487_nKajRfs2aY2JNyHmXAxmci2u",
+        "timestamp": 1743850329,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_01487_nKajRfs2aY2JNyHmXAxmci2u/1743850329.jpeg?s=dc43172e4a835b8ce2d75e21f8fcbbd9df8a5d7d",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 18,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "8.8",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "170.8",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego Architecture 21061 : Notre-Dame de Paris neuf (adulte) sous scellés, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 162,00 €, 170,80 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 2.443341255187988,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6040280557,
+    "title": "Lego 21061",
+    "price": {
+      "amount": "165.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6040280557-lego-21061",
+    "user": {
+      "id": 213165161,
+      "login": "gerson1890",
+      "profile_url": "https://www.vinted.fr/member/213165161-gerson1890",
+      "photo": {
+        "id": 197671482,
+        "width": 640,
+        "height": 480,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_0250f_hYvMXpFRSbvR1jZWfYEtUp4k/f800/1719170201.jpeg?s=4f6196c13b7b69efbb878e0b22025a12dfcbc3e8",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_0250f_hYvMXpFRSbvR1jZWfYEtUp4k/310x310/1719170201.jpeg?s=bbd617068b80369bddfaa7cef45896d1a4c4fa3b",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_0250f_hYvMXpFRSbvR1jZWfYEtUp4k/150x150/1719170201.jpeg?s=2b937045fa21fbad069fb7b7b9617e90075c15f9",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_0250f_hYvMXpFRSbvR1jZWfYEtUp4k/100x100/1719170201.jpeg?s=369896a668b8ff925ba297766ee2011ff0b585fb",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_0250f_hYvMXpFRSbvR1jZWfYEtUp4k/50x50/1719170201.jpeg?s=e6606a1738041377da486d31b204702ab1478972",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_0250f_hYvMXpFRSbvR1jZWfYEtUp4k/20x20/1719170201.jpeg?s=6afd32959263fc1c2d2d40a19cc0f44e2cebf8e4",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_0250f_hYvMXpFRSbvR1jZWfYEtUp4k",
+          "timestamp": 1719170201,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_0250f_hYvMXpFRSbvR1jZWfYEtUp4k/1719170201.jpeg?s=188a95d21ec77ff992a86d5eeaafc239484ce3a3",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6040280557-lego-21061",
+    "promoted": false,
+    "photo": {
+      "id": 24501310593,
+      "image_no": 1,
+      "width": 767,
+      "height": 800,
+      "dominant_color": "#615653",
+      "dominant_color_opaque": "#D0CCCB",
+      "url": "https://images1.vinted.net/t/04_00cb4_yzsQEBoBTaotYpnHPvyhBZih/f800/1743036844.jpeg?s=7342c6faa96d850b309d7cf0490cbf277cd2a308",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00cb4_yzsQEBoBTaotYpnHPvyhBZih/70x100/1743036844.jpeg?s=02fa3c8d48f2e7953ade7edae88c7197e3bb0b4e",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00cb4_yzsQEBoBTaotYpnHPvyhBZih/150x210/1743036844.jpeg?s=c5030224efdb3d640964bb0169b07ca5c97beaf1",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00cb4_yzsQEBoBTaotYpnHPvyhBZih/310x430/1743036844.jpeg?s=b0165fe092e6b026e289c2a38107d0c5bf3a9a44",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00cb4_yzsQEBoBTaotYpnHPvyhBZih/f800/1743036844.jpeg?s=7342c6faa96d850b309d7cf0490cbf277cd2a308",
+          "width": 410,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00cb4_yzsQEBoBTaotYpnHPvyhBZih/f800/1743036844.jpeg?s=7342c6faa96d850b309d7cf0490cbf277cd2a308",
+          "width": 598,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00cb4_yzsQEBoBTaotYpnHPvyhBZih/f800/1743036844.jpeg?s=7342c6faa96d850b309d7cf0490cbf277cd2a308",
+          "width": 349,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00cb4_yzsQEBoBTaotYpnHPvyhBZih",
+        "timestamp": 1743036844,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00cb4_yzsQEBoBTaotYpnHPvyhBZih/1743036844.jpeg?s=8f67b56c78470ce982623074ede42082c14dd113",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 11,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "8.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "173.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Neuf avec étiquette",
+      "accessibility_label": "Lego 21061, marque: LEGO, état: Neuf avec étiquette, 165,00 €, 173,95 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 2.259843826293945,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6069560293,
+    "title": "Lego Architecture 21061 Notre-Dame de Paris",
+    "price": {
+      "amount": "165.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6069560293-lego-architecture-21061-notre-dame-de-paris",
+    "user": {
+      "id": 225779075,
+      "login": "tara-bricks",
+      "profile_url": "https://www.vinted.fr/member/225779075-tara-bricks",
+      "photo": {
+        "id": 206233604,
+        "width": 768,
+        "height": 768,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_00ca6_nVCMrm6jcX1jN1pLcDdjSfQB/f800/1725110234.jpeg?s=df23c36ab4eb7de1daa1cc5fe82594cddb86bb32",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_00ca6_nVCMrm6jcX1jN1pLcDdjSfQB/310x310/1725110234.jpeg?s=4d3dac09da31276503442ef49b14dae70cb6ed71",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_00ca6_nVCMrm6jcX1jN1pLcDdjSfQB/150x150/1725110234.jpeg?s=053036a3901b4b45099d383c0806e987a7b98ac6",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_00ca6_nVCMrm6jcX1jN1pLcDdjSfQB/100x100/1725110234.jpeg?s=b492cb58fcfcf9e82e1d366d5c3e3e64c1ba861e",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_00ca6_nVCMrm6jcX1jN1pLcDdjSfQB/50x50/1725110234.jpeg?s=3ef3f7f126686733553da3fa5dbbf0623a0f17f3",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_00ca6_nVCMrm6jcX1jN1pLcDdjSfQB/20x20/1725110234.jpeg?s=5a934825b363e8c8d960d7183e351224546c8c39",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_00ca6_nVCMrm6jcX1jN1pLcDdjSfQB",
+          "timestamp": 1725110234,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_00ca6_nVCMrm6jcX1jN1pLcDdjSfQB/1725110234.jpeg?s=726a5ec79135f0851c1c475790290575e9787d6c",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": true
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6069560293-lego-architecture-21061-notre-dame-de-paris",
+    "promoted": false,
+    "photo": {
+      "id": 24623407131,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#79786E",
+      "dominant_color_opaque": "#D7D7D4",
+      "url": "https://images1.vinted.net/t/01_00daa_GPPJhvncBLHRoWeeH28v5unz/f800/1743499122.jpeg?s=c07f3939d944cc97c98c3a3e3019d945233ed321",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/01_00daa_GPPJhvncBLHRoWeeH28v5unz/70x100/1743499122.jpeg?s=5fc8bcb79db9203eca92af43bd69974420794af3",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/01_00daa_GPPJhvncBLHRoWeeH28v5unz/150x210/1743499122.jpeg?s=f36c4efb6d2ac09d90e3f3ea3b83c2cadff43d88",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/01_00daa_GPPJhvncBLHRoWeeH28v5unz/310x430/1743499122.jpeg?s=6b4c582169a34c1b35354112d49d806ca9a13926",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/01_00daa_GPPJhvncBLHRoWeeH28v5unz/f800/1743499122.jpeg?s=c07f3939d944cc97c98c3a3e3019d945233ed321",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/01_00daa_GPPJhvncBLHRoWeeH28v5unz/f800/1743499122.jpeg?s=c07f3939d944cc97c98c3a3e3019d945233ed321",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/01_00daa_GPPJhvncBLHRoWeeH28v5unz/f800/1743499122.jpeg?s=c07f3939d944cc97c98c3a3e3019d945233ed321",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "01_00daa_GPPJhvncBLHRoWeeH28v5unz",
+        "timestamp": 1743499122,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/01_00daa_GPPJhvncBLHRoWeeH28v5unz/1743499122.jpeg?s=ed673c2e4c054c7a8c4fba9f904ef8f7730d0d27",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 22,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "8.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "173.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "5 ans / 110 cm",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "5 ans / 110 cm · Neuf sans étiquette",
+      "accessibility_label": "Lego Architecture 21061 Notre-Dame de Paris, marque: LEGO, état: Neuf sans étiquette, taille: 5 ans / 110 cm, 165,00 €, 173,95 € Protection acheteurs (Pro) incluse"
+    },
+    "search_tracking_params": {
+      "score": 2.079707145690918,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6079789759,
+    "title": "LEGO 21061 - Notre Dame -",
+    "price": {
+      "amount": "175.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6079789759-lego-21061-notre-dame",
+    "user": {
+      "id": 87257255,
+      "login": "luca0880",
+      "profile_url": "https://www.vinted.fr/member/87257255-luca0880",
+      "photo": {
+        "id": 164180809,
+        "width": 600,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_0216b_rqFRtbiYbNjuxxHAdhUgRftz/f800/1698406869.jpeg?s=949ef53f37e28558e8dab668871a23a5dece9846",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_0216b_rqFRtbiYbNjuxxHAdhUgRftz/310x310/1698406869.jpeg?s=8818156f2e1ee888bcbf110605cfeacde2ed8567",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_0216b_rqFRtbiYbNjuxxHAdhUgRftz/150x150/1698406869.jpeg?s=6d78f2765d238d70b19f7921902def98502fe056",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_0216b_rqFRtbiYbNjuxxHAdhUgRftz/100x100/1698406869.jpeg?s=06f69c24f455268e8ce600d63cae98ae7d834113",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_0216b_rqFRtbiYbNjuxxHAdhUgRftz/50x50/1698406869.jpeg?s=be91e1ae8223b209834b702df7248b4a5ca46d42",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_0216b_rqFRtbiYbNjuxxHAdhUgRftz/20x20/1698406869.jpeg?s=5fc5d67fd0f654dd3d9298915252c7af4ad69656",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_0216b_rqFRtbiYbNjuxxHAdhUgRftz",
+          "timestamp": 1698406869,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_0216b_rqFRtbiYbNjuxxHAdhUgRftz/1698406869.jpeg?s=e7a19aae3ca1dbc6e38a3b3ebe38508e022d36b1",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6079789759-lego-21061-notre-dame",
+    "promoted": false,
+    "photo": {
+      "id": 24666083445,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#5D4E41",
+      "dominant_color_opaque": "#CECAC6",
+      "url": "https://images1.vinted.net/t/03_019f6_knF7cpwrKhNYRdj6Z7vyfQ4E/f800/1743663754.jpeg?s=77755d17dd5073d84103468f7d6e90fff77011ba",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_019f6_knF7cpwrKhNYRdj6Z7vyfQ4E/70x100/1743663754.jpeg?s=deebd5f8aafc8bd791ac7e2fceb53ebffb6d547e",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_019f6_knF7cpwrKhNYRdj6Z7vyfQ4E/150x210/1743663754.jpeg?s=a79c00caca6a849ba286790fe017b49d62ede978",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_019f6_knF7cpwrKhNYRdj6Z7vyfQ4E/310x430/1743663754.jpeg?s=bbf5a4497c9764dabc0b28482cd504ca4b80289d",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_019f6_knF7cpwrKhNYRdj6Z7vyfQ4E/f800/1743663754.jpeg?s=77755d17dd5073d84103468f7d6e90fff77011ba",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_019f6_knF7cpwrKhNYRdj6Z7vyfQ4E/f800/1743663754.jpeg?s=77755d17dd5073d84103468f7d6e90fff77011ba",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_019f6_knF7cpwrKhNYRdj6Z7vyfQ4E/f800/1743663754.jpeg?s=77755d17dd5073d84103468f7d6e90fff77011ba",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_019f6_knF7cpwrKhNYRdj6Z7vyfQ4E",
+        "timestamp": 1743663754,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_019f6_knF7cpwrKhNYRdj6Z7vyfQ4E/1743663754.jpeg?s=cf4cb70334702beaad79c2dc12707d2db66e81fd",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 5,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "9.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "184.45",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "LEGO 21061 - Notre Dame -, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 175,00 €, 184,45 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 2.05962610244751,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5981366396,
+    "title": "LEGO Notre-Dame de Paris 21061 – Produit Officiel, Neuf & Scellé",
+    "price": {
+      "amount": "177.95",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5981366396-lego-notre-dame-de-paris-21061-produit-officiel-neuf-scelle",
+    "user": {
+      "id": 225067473,
+      "login": "n0ra_75",
+      "profile_url": "https://www.vinted.fr/member/225067473-n0ra75",
+      "photo": {
+        "id": 227192419,
+        "width": 800,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_00bb2_hyv6sMuxCe5j8rQCY2HD4r9d/f800/1737483042.jpeg?s=d449d0f1a3adda9a016ff8fde2776521be96ac89",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_00bb2_hyv6sMuxCe5j8rQCY2HD4r9d/310x310/1737483042.jpeg?s=e38f618809bdcf2ff2e0cfd91b6e4269e5890f2e",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_00bb2_hyv6sMuxCe5j8rQCY2HD4r9d/150x150/1737483042.jpeg?s=5cd1720ad627d8e1f14b379b74b099dfe728a517",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_00bb2_hyv6sMuxCe5j8rQCY2HD4r9d/100x100/1737483042.jpeg?s=a2d1481ce59f806a0ff20504c7254b484123fdf2",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_00bb2_hyv6sMuxCe5j8rQCY2HD4r9d/50x50/1737483042.jpeg?s=6f99d3cfad7743a48f08b9a0f0d4d278eb5d07fc",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_00bb2_hyv6sMuxCe5j8rQCY2HD4r9d/20x20/1737483042.jpeg?s=b6e7a86f082456c7da14b6fe66f26492e287207c",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_00bb2_hyv6sMuxCe5j8rQCY2HD4r9d",
+          "timestamp": 1737483042,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_00bb2_hyv6sMuxCe5j8rQCY2HD4r9d/1737483042.jpeg?s=248c3f180fe971983c0a8edeba58c991247c4be4",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5981366396-lego-notre-dame-de-paris-21061-produit-officiel-neuf-scelle",
+    "promoted": false,
+    "photo": {
+      "id": 24256652723,
+      "image_no": 1,
+      "width": 450,
+      "height": 800,
+      "dominant_color": "#78716B",
+      "dominant_color_opaque": "#D7D4D3",
+      "url": "https://images1.vinted.net/t/04_00cb9_FFEmH9rr4yKrmhaG2GifJzGH/f800/1742143967.jpeg?s=9b264d10033bb0b55eb4098fe154b2fae359e0a0",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00cb9_FFEmH9rr4yKrmhaG2GifJzGH/70x100/1742143967.jpeg?s=4cb1f45831d4483c38841d17de77c496f3a4e90c",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00cb9_FFEmH9rr4yKrmhaG2GifJzGH/150x210/1742143967.jpeg?s=64ba299fda3f67ddfbd8d4c06fb7bdb2444b160b",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00cb9_FFEmH9rr4yKrmhaG2GifJzGH/310x430/1742143967.jpeg?s=d052548160cd498adc6889e7565f7454db04e378",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00cb9_FFEmH9rr4yKrmhaG2GifJzGH/f800/1742143967.jpeg?s=9b264d10033bb0b55eb4098fe154b2fae359e0a0",
+          "width": 241,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00cb9_FFEmH9rr4yKrmhaG2GifJzGH/f800/1742143967.jpeg?s=9b264d10033bb0b55eb4098fe154b2fae359e0a0",
+          "width": 351,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00cb9_FFEmH9rr4yKrmhaG2GifJzGH/f800/1742143967.jpeg?s=9b264d10033bb0b55eb4098fe154b2fae359e0a0",
+          "width": 204,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00cb9_FFEmH9rr4yKrmhaG2GifJzGH",
+        "timestamp": 1742143967,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00cb9_FFEmH9rr4yKrmhaG2GifJzGH/1742143967.jpeg?s=0dd422db80039487c3676858080f55bc99ea9135",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 23,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "9.6",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "187.55",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "LEGO Notre-Dame de Paris 21061 – Produit Officiel, Neuf & Scellé, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 177,95 €, 187,55 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 1.585967063903809,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5809248857,
+    "title": "LEGO Architecture 21061 Notre-Dame de Paris",
+    "price": {
+      "amount": "179.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5809248857-lego-architecture-21061-notre-dame-de-paris",
+    "user": {
+      "id": 64569287,
+      "login": "julien-44360",
+      "profile_url": "https://www.vinted.fr/member/64569287-julien-44360",
+      "photo": {
+        "id": 234142755,
+        "width": 800,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_01277_YNU3iM4eDMbFvdhsff4y49j8/f800/1741682707.jpeg?s=4fca5d3f7a333ba95f7a14211987fd0fcce8f49b",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_01277_YNU3iM4eDMbFvdhsff4y49j8/310x310/1741682707.jpeg?s=2a24e257f55dd666e5d34db58a2558805eb66815",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_01277_YNU3iM4eDMbFvdhsff4y49j8/150x150/1741682707.jpeg?s=3b023fa432a697cd3ed96ea21a927c43f427264e",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_01277_YNU3iM4eDMbFvdhsff4y49j8/100x100/1741682707.jpeg?s=1e6410666b39e9f028926d0de628b3b4c5013636",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_01277_YNU3iM4eDMbFvdhsff4y49j8/50x50/1741682707.jpeg?s=acc23203d5c9c0c5fce464077a3bc998eda7d4d3",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_01277_YNU3iM4eDMbFvdhsff4y49j8/20x20/1741682707.jpeg?s=2765abea1bbe3b818d4a195bca222bae5a039813",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_01277_YNU3iM4eDMbFvdhsff4y49j8",
+          "timestamp": 1741682707,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_01277_YNU3iM4eDMbFvdhsff4y49j8/1741682707.jpeg?s=84a83459f4953552edbd8b0d5581fb6623365ebf",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5809248857-lego-architecture-21061-notre-dame-de-paris",
+    "promoted": false,
+    "photo": {
+      "id": 23540647056,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#645A47",
+      "dominant_color_opaque": "#D1CEC8",
+      "url": "https://images1.vinted.net/t/04_0189d_7eVo82tLLUJVD3tBEPkJACtN/f800/1739439791.jpeg?s=2062a5d8a71422aff2ca04e6c917b3158b93af85",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_0189d_7eVo82tLLUJVD3tBEPkJACtN/70x100/1739439791.jpeg?s=5ee535b6eefd393f3e80070849167f80d74d2ec2",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_0189d_7eVo82tLLUJVD3tBEPkJACtN/150x210/1739439791.jpeg?s=101a28f00d11ae2854a5af299f84aea52d0794b2",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_0189d_7eVo82tLLUJVD3tBEPkJACtN/310x430/1739439791.jpeg?s=7fcfbe7036bd8ef809eb03a95797ba37f64765b6",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_0189d_7eVo82tLLUJVD3tBEPkJACtN/f800/1739439791.jpeg?s=2062a5d8a71422aff2ca04e6c917b3158b93af85",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_0189d_7eVo82tLLUJVD3tBEPkJACtN/f800/1739439791.jpeg?s=2062a5d8a71422aff2ca04e6c917b3158b93af85",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_0189d_7eVo82tLLUJVD3tBEPkJACtN/f800/1739439791.jpeg?s=2062a5d8a71422aff2ca04e6c917b3158b93af85",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_0189d_7eVo82tLLUJVD3tBEPkJACtN",
+        "timestamp": 1739439791,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_0189d_7eVo82tLLUJVD3tBEPkJACtN/1739439791.jpeg?s=d6d8ee3cd503e8b5b730d3ddabbc142ddc68e8ba",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 31,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "9.65",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "188.65",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "LEGO Architecture 21061 Notre-Dame de Paris, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 179,00 €, 188,65 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 1.56771445274353,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6065138351,
+    "title": "LEGO Architecture 21061",
+    "price": {
+      "amount": "185.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6065138351-lego-architecture-21061",
+    "user": {
+      "id": 20763996,
+      "login": "lea_parent",
+      "profile_url": "https://www.vinted.fr/member/20763996-leaparent",
+      "photo": {
+        "id": 153573468,
+        "width": 600,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_003ad_r4eBMC78KCvtFbHgir1muZC6/f800/1692699996.jpeg?s=f8f137dc1da0c44335e3e8f875f7d07792ec4e6c",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_003ad_r4eBMC78KCvtFbHgir1muZC6/310x310/1692699996.jpeg?s=4e0ac3a3d479c47d9531c5c548d4bc84635971a7",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_003ad_r4eBMC78KCvtFbHgir1muZC6/150x150/1692699996.jpeg?s=ee1372cfd07996f56045e998e7718abc19f2625c",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_003ad_r4eBMC78KCvtFbHgir1muZC6/100x100/1692699996.jpeg?s=e1c2c2bf4f9df055a5e11da8e80279340dcaf546",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_003ad_r4eBMC78KCvtFbHgir1muZC6/50x50/1692699996.jpeg?s=a57774ee892244d0840680a91521fede9679b9cd",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_003ad_r4eBMC78KCvtFbHgir1muZC6/20x20/1692699996.jpeg?s=72131131b76ff872bbd3e8a3af541dfa2e9c988e",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_003ad_r4eBMC78KCvtFbHgir1muZC6",
+          "timestamp": 1692699996,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_003ad_r4eBMC78KCvtFbHgir1muZC6/1692699996.jpeg?s=cfa1f1fad693bce30bc7416e9e6b355512433712",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6065138351-lego-architecture-21061",
+    "promoted": false,
+    "photo": {
+      "id": 24605128801,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#5E5F60",
+      "dominant_color_opaque": "#CFCFCF",
+      "url": "https://images1.vinted.net/t/04_01335_nBZq9aq5k9z7XRffjnT9b2on/f800/1743424776.jpeg?s=b6ed4f442a8800a17de64d88964222cca7ff4877",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01335_nBZq9aq5k9z7XRffjnT9b2on/70x100/1743424776.jpeg?s=ca763c48ad2f0490c73fd017c711a929c6953125",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01335_nBZq9aq5k9z7XRffjnT9b2on/150x210/1743424776.jpeg?s=35f636babfdd75b280e627f43adb773950ff14c7",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01335_nBZq9aq5k9z7XRffjnT9b2on/310x430/1743424776.jpeg?s=d46f31707709ed28f27a11ef7b5b1e1dacecd2fa",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01335_nBZq9aq5k9z7XRffjnT9b2on/f800/1743424776.jpeg?s=b6ed4f442a8800a17de64d88964222cca7ff4877",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01335_nBZq9aq5k9z7XRffjnT9b2on/f800/1743424776.jpeg?s=b6ed4f442a8800a17de64d88964222cca7ff4877",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01335_nBZq9aq5k9z7XRffjnT9b2on/f800/1743424776.jpeg?s=b6ed4f442a8800a17de64d88964222cca7ff4877",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01335_nBZq9aq5k9z7XRffjnT9b2on",
+        "timestamp": 1743424776,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01335_nBZq9aq5k9z7XRffjnT9b2on/1743424776.jpeg?s=44f06a724ac561b3517625b31885c2baaecb5594",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 14,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "9.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "194.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "LEGO Architecture 21061, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 185,00 €, 194,95 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 1.509110689163208,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6072843538,
+    "title": "Lego 21061 Notre Dame",
+    "price": {
+      "amount": "185.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6072843538-lego-21061-notre-dame",
+    "user": {
+      "id": 253264987,
+      "login": "gouda2806",
+      "profile_url": "https://www.vinted.fr/member/253264987-gouda2806",
+      "photo": {
+        "id": 228487945,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_00c74_ohwggEakaNnKikKNv67Tdxmn/f800/1738316745.jpeg?s=d516d6693c73cfce4733e22579c4c20581d73014",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_00c74_ohwggEakaNnKikKNv67Tdxmn/310x310/1738316745.jpeg?s=ca9336935fa2e473edb9e57d0d6a022b17a7f623",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_00c74_ohwggEakaNnKikKNv67Tdxmn/150x150/1738316745.jpeg?s=2acdc2b4cb8cfdc51020d2784a01013e15a5e935",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_00c74_ohwggEakaNnKikKNv67Tdxmn/100x100/1738316745.jpeg?s=5140ea93bd09b3553e1a1625d34b3bf8d9a2e2f1",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_00c74_ohwggEakaNnKikKNv67Tdxmn/50x50/1738316745.jpeg?s=d6812adc9893bbfca57652e0315799b26ea2379f",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_00c74_ohwggEakaNnKikKNv67Tdxmn/20x20/1738316745.jpeg?s=34a05b5fa72ac69ec676eb19cbeb7320faab968d",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_00c74_ohwggEakaNnKikKNv67Tdxmn",
+          "timestamp": 1738316745,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_00c74_ohwggEakaNnKikKNv67Tdxmn/1738316745.jpeg?s=8a9f16b7dc5ea95d1275b559c1eb85b1a120b779",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6072843538-lego-21061-notre-dame",
+    "promoted": false,
+    "photo": {
+      "id": 24637133905,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#877468",
+      "dominant_color_opaque": "#DBD5D2",
+      "url": "https://images1.vinted.net/t/04_015cc_Q6iBoZ3hhuaTbfUMDVx4Uygi/f800/1743530368.jpeg?s=15c83d5b9b3b045c70ce19ca87228273db7d1df8",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_015cc_Q6iBoZ3hhuaTbfUMDVx4Uygi/70x100/1743530368.jpeg?s=cf9a4de8108ae4aef07163fd36e2fb93fc459b5e",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_015cc_Q6iBoZ3hhuaTbfUMDVx4Uygi/150x210/1743530368.jpeg?s=9142567da15d44447bdfea2c38f0e9e29b0fd3f1",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_015cc_Q6iBoZ3hhuaTbfUMDVx4Uygi/310x430/1743530368.jpeg?s=37ebbd2ecfe58ea20a042c70d3ac88c351adb666",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_015cc_Q6iBoZ3hhuaTbfUMDVx4Uygi/f800/1743530368.jpeg?s=15c83d5b9b3b045c70ce19ca87228273db7d1df8",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_015cc_Q6iBoZ3hhuaTbfUMDVx4Uygi/f800/1743530368.jpeg?s=15c83d5b9b3b045c70ce19ca87228273db7d1df8",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_015cc_Q6iBoZ3hhuaTbfUMDVx4Uygi/f800/1743530368.jpeg?s=15c83d5b9b3b045c70ce19ca87228273db7d1df8",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_015cc_Q6iBoZ3hhuaTbfUMDVx4Uygi",
+        "timestamp": 1743530368,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_015cc_Q6iBoZ3hhuaTbfUMDVx4Uygi/1743530368.jpeg?s=3a3db7bea81aebd9304946fb02e3a951ddd94732",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 8,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "9.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "194.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Prématuré, jusqu'à 44cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Prématuré, jusqu'à 44cm · Neuf avec étiquette",
+      "accessibility_label": "Lego 21061 Notre Dame, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 185,00 €, 194,95 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 1.313017129898071,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5974269271,
+    "title": "Lego 21061",
+    "price": {
+      "amount": "190.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5974269271-lego-21061",
+    "user": {
+      "id": 224889800,
+      "login": "ravivaient",
+      "profile_url": "https://www.vinted.fr/member/224889800-ravivaient",
+      "photo": {
+        "id": 231154076,
+        "width": 800,
+        "height": 600,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_0213a_GxtZLb6ZfdRzdQEwzdP8HkBo/f800/1739952718.jpeg?s=20c9222e18302492ea5ba10f799a0b455df1ce3a",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_0213a_GxtZLb6ZfdRzdQEwzdP8HkBo/310x310/1739952718.jpeg?s=d2389f291d1ff8db514b0bf7c21bf932b8f55978",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_0213a_GxtZLb6ZfdRzdQEwzdP8HkBo/150x150/1739952718.jpeg?s=445510c89bedb0e67663b6827172091c5637e1f5",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_0213a_GxtZLb6ZfdRzdQEwzdP8HkBo/100x100/1739952718.jpeg?s=f037cb23b489b080333921807d0820db0de8946b",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_0213a_GxtZLb6ZfdRzdQEwzdP8HkBo/50x50/1739952718.jpeg?s=21e868ad02f78ccc23c4fe57d09fb0508c61922a",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_0213a_GxtZLb6ZfdRzdQEwzdP8HkBo/20x20/1739952718.jpeg?s=e93537326533d91e306f1646198cf310f5be97ad",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_0213a_GxtZLb6ZfdRzdQEwzdP8HkBo",
+          "timestamp": 1739952718,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_0213a_GxtZLb6ZfdRzdQEwzdP8HkBo/1739952718.jpeg?s=b14310ed212078adf5b4deed785c3c24e05e08eb",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5974269271-lego-21061",
+    "promoted": false,
+    "photo": {
+      "id": 24227419010,
+      "image_no": 1,
+      "width": 800,
+      "height": 541,
+      "dominant_color": "#948669",
+      "dominant_color_opaque": "#DFDBD2",
+      "url": "https://images1.vinted.net/t/02_00aa7_Y8sGcZeEn4GocLFmwMjV5Ymt/f800/1742059723.jpeg?s=6ad14f2644b1a4f5d78821f1ae510f19c1b1b0e8",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_00aa7_Y8sGcZeEn4GocLFmwMjV5Ymt/70x100/1742059723.jpeg?s=547ec487fa9061f8232ba1c2f29d7b35400c7291",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_00aa7_Y8sGcZeEn4GocLFmwMjV5Ymt/150x210/1742059723.jpeg?s=e5edabc117fe72338ac1743c0e84a1f9789cf048",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_00aa7_Y8sGcZeEn4GocLFmwMjV5Ymt/310x430/1742059723.jpeg?s=93a7e77673f55c04c31b35a7b573cfb9746d4ad2",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_00aa7_Y8sGcZeEn4GocLFmwMjV5Ymt/f800/1742059723.jpeg?s=6ad14f2644b1a4f5d78821f1ae510f19c1b1b0e8",
+          "width": 428,
+          "height": 289,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_00aa7_Y8sGcZeEn4GocLFmwMjV5Ymt/f800/1742059723.jpeg?s=6ad14f2644b1a4f5d78821f1ae510f19c1b1b0e8",
+          "width": 624,
+          "height": 422,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_00aa7_Y8sGcZeEn4GocLFmwMjV5Ymt/f800/1742059723.jpeg?s=6ad14f2644b1a4f5d78821f1ae510f19c1b1b0e8",
+          "width": 364,
+          "height": 246,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_00aa7_Y8sGcZeEn4GocLFmwMjV5Ymt",
+        "timestamp": 1742059723,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_00aa7_Y8sGcZeEn4GocLFmwMjV5Ymt/1742059723.jpeg?s=08ab6918354ca784e969471b564eaecd6305a2a6",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 10,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "10.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "200.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "Lego 21061, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 190,00 €, 200,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 1.038685083389282,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5968249818,
+    "title": "Lego 21061 Notre Dame París",
+    "price": {
+      "amount": "184.9",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5968249818-lego-21061-notre-dame-paris",
+    "user": {
+      "id": 42620787,
+      "login": "frandiazc",
+      "profile_url": "https://www.vinted.fr/member/42620787-frandiazc",
+      "photo": {
+        "id": 37454491,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/f800/1603647216.jpeg?s=c6619aeccb69d7ff0b701051c78355afb2647561",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/310x310/1603647216.jpeg?s=884b5c921c6597b36df1ca4ffddc1a8e5d289525",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/150x150/1603647216.jpeg?s=a200e05e00198fd966b5457696fb3c56974b6c15",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/100x100/1603647216.jpeg?s=123371ee6c098430a3b8079b737539f6d1a7b10d",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/50x50/1603647216.jpeg?s=1fbd538b9e04a4bacb6a0cbbe399123a1d79a9fc",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/20x20/1603647216.jpeg?s=6f7a14e56bc6763040e5cae77897dffb88a1a651",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_00874_TreRq3RtX8kW6ouRMEUNnmYV",
+          "timestamp": 1603647216,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/1603647216.jpeg?s=93e7c8753c185cb9adcb669e8b062088770e5662",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5968249818-lego-21061-notre-dame-paris",
+    "promoted": false,
+    "photo": {
+      "id": 24202195480,
+      "image_no": 1,
+      "width": 800,
+      "height": 602,
+      "dominant_color": "#8A7E74",
+      "dominant_color_opaque": "#DCD8D5",
+      "url": "https://images1.vinted.net/t/04_01e7a_TZR9LdZxrCyBfwt5pjvtrZeZ/f800/1741974322.jpeg?s=002a172a2405239efc5b264cfbe91697df5e9bd2",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01e7a_TZR9LdZxrCyBfwt5pjvtrZeZ/70x100/1741974322.jpeg?s=c8d5e7117fdf89d141c90b4af6ea9715ded81c78",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01e7a_TZR9LdZxrCyBfwt5pjvtrZeZ/150x210/1741974322.jpeg?s=999a65bdd0eeb59ec99c04bfca136afe13d869cc",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01e7a_TZR9LdZxrCyBfwt5pjvtrZeZ/310x430/1741974322.jpeg?s=baa659d778c45b2c487ac75b651ecdbd2b07acbb",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01e7a_TZR9LdZxrCyBfwt5pjvtrZeZ/f800/1741974322.jpeg?s=002a172a2405239efc5b264cfbe91697df5e9bd2",
+          "width": 428,
+          "height": 322,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01e7a_TZR9LdZxrCyBfwt5pjvtrZeZ/f800/1741974322.jpeg?s=002a172a2405239efc5b264cfbe91697df5e9bd2",
+          "width": 624,
+          "height": 469,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01e7a_TZR9LdZxrCyBfwt5pjvtrZeZ/f800/1741974322.jpeg?s=002a172a2405239efc5b264cfbe91697df5e9bd2",
+          "width": 364,
+          "height": 274,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01e7a_TZR9LdZxrCyBfwt5pjvtrZeZ",
+        "timestamp": 1741974322,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01e7a_TZR9LdZxrCyBfwt5pjvtrZeZ/1741974322.jpeg?s=2c0fa4624ca2de1998d4e12235f4a8490f6e7e02",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 13,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "9.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "194.85",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 21061 Notre Dame París, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 184,90 €, 194,85 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 1.020162343978882,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5909834976,
+    "title": "Lego 21061 Notre Dame de Paris NEUF et scellé",
+    "price": {
+      "amount": "175.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5909834976-lego-21061-notre-dame-de-paris-neuf-et-scelle",
+    "user": {
+      "id": 45963865,
+      "login": "mattdm31",
+      "profile_url": "https://www.vinted.fr/member/45963865-mattdm31",
+      "photo": null,
+      "business": true
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5909834976-lego-21061-notre-dame-de-paris-neuf-et-scelle",
+    "promoted": false,
+    "photo": {
+      "id": 23958910933,
+      "image_no": 1,
+      "width": 800,
+      "height": 360,
+      "dominant_color": "#9D8F73",
+      "dominant_color_opaque": "#E2DDD5",
+      "url": "https://images1.vinted.net/t/01_00249_gTWvgx6P1FfG9vPQQFgi3K5V/f800/1741028290.jpeg?s=95ee07629cb89e3bee7c0f890ade07d3d8313981",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/01_00249_gTWvgx6P1FfG9vPQQFgi3K5V/70x100/1741028290.jpeg?s=dd934df87d5d2f13bb87e4f4ccca5b8e80d82af4",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/01_00249_gTWvgx6P1FfG9vPQQFgi3K5V/150x210/1741028290.jpeg?s=d52356d2095009a5e91d6ea5fb8f5554933f860e",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/01_00249_gTWvgx6P1FfG9vPQQFgi3K5V/310x430/1741028290.jpeg?s=9cdeee564730f8ee5b3b65ae45ef7a6496b34b42",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/01_00249_gTWvgx6P1FfG9vPQQFgi3K5V/f800/1741028290.jpeg?s=95ee07629cb89e3bee7c0f890ade07d3d8313981",
+          "width": 428,
+          "height": 192,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/01_00249_gTWvgx6P1FfG9vPQQFgi3K5V/f800/1741028290.jpeg?s=95ee07629cb89e3bee7c0f890ade07d3d8313981",
+          "width": 624,
+          "height": 281,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/01_00249_gTWvgx6P1FfG9vPQQFgi3K5V/f800/1741028290.jpeg?s=95ee07629cb89e3bee7c0f890ade07d3d8313981",
+          "width": 364,
+          "height": 164,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "01_00249_gTWvgx6P1FfG9vPQQFgi3K5V",
+        "timestamp": 1741028290,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/01_00249_gTWvgx6P1FfG9vPQQFgi3K5V/1741028290.jpeg?s=417eb63c41a2afb5e730a8295773a46b76e5cf8a",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 67,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "9.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "184.45",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 21061 Notre Dame de Paris NEUF et scellé, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 175,00 €, 184,45 € Protection acheteurs (Pro) incluse"
+    },
+    "search_tracking_params": {
+      "score": 0.9321863651275635,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5888275850,
+    "title": "LEGO 21061 NEUF, la cathédrale Notre-Dame-de-Paris",
+    "price": {
+      "amount": "190.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5888275850-lego-21061-neuf-la-cathedrale-notre-dame-de-paris",
+    "user": {
+      "id": 49146895,
+      "login": "happycilou",
+      "profile_url": "https://www.vinted.fr/member/49146895-happycilou",
+      "photo": null,
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5888275850-lego-21061-neuf-la-cathedrale-notre-dame-de-paris",
+    "promoted": false,
+    "photo": {
+      "id": 23868707898,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#806566",
+      "dominant_color_opaque": "#D9D1D1",
+      "url": "https://images1.vinted.net/t/04_00360_XtV7c6qc2ZJ9kWDyMzEWTACP/f800/1740685859.jpeg?s=52cdddc708e5667caefccdeb10a55abb921e4b26",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00360_XtV7c6qc2ZJ9kWDyMzEWTACP/70x100/1740685859.jpeg?s=76ec7dc5ab0e87a6806ef96d338824f1118feba0",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00360_XtV7c6qc2ZJ9kWDyMzEWTACP/150x210/1740685859.jpeg?s=f28af0172136a315f600879be11f4f487a9d5f16",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00360_XtV7c6qc2ZJ9kWDyMzEWTACP/310x430/1740685859.jpeg?s=a6449712e960f5abc96fc7ea1d08651a0dabf007",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00360_XtV7c6qc2ZJ9kWDyMzEWTACP/f800/1740685859.jpeg?s=52cdddc708e5667caefccdeb10a55abb921e4b26",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00360_XtV7c6qc2ZJ9kWDyMzEWTACP/f800/1740685859.jpeg?s=52cdddc708e5667caefccdeb10a55abb921e4b26",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00360_XtV7c6qc2ZJ9kWDyMzEWTACP/f800/1740685859.jpeg?s=52cdddc708e5667caefccdeb10a55abb921e4b26",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00360_XtV7c6qc2ZJ9kWDyMzEWTACP",
+        "timestamp": 1740685859,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00360_XtV7c6qc2ZJ9kWDyMzEWTACP/1740685859.jpeg?s=bde3bcfa527f344d76bcb4033198d84e49fb6638",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 6,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "10.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "200.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Prématuré, jusqu'à 44cm",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Prématuré, jusqu'à 44cm · Neuf sans étiquette",
+      "accessibility_label": "LEGO 21061 NEUF, la cathédrale Notre-Dame-de-Paris, marque: LEGO, état: Neuf sans étiquette, taille: Prématuré, jusqu'à 44cm, 190,00 €, 200,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 0.8968920707702637,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5574694629,
+    "title": "Lego 21061 Notre-Dame van Parijs Nieuw!",
+    "price": {
+      "amount": "187.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5574694629-lego-21061-notre-dame-van-parijs-nieuw",
+    "user": {
+      "id": 115672603,
+      "login": "legotik",
+      "profile_url": "https://www.vinted.fr/member/115672603-legotik",
+      "photo": null,
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5574694629-lego-21061-notre-dame-van-parijs-nieuw",
+    "promoted": false,
+    "photo": {
+      "id": 22579828743,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#998065",
+      "dominant_color_opaque": "#E0D9D1",
+      "url": "https://images1.vinted.net/t/03_023d8_7N9rcYkauHoToBEvvPeUD3rw/f800/1735490874.jpeg?s=72e084569bfb12f053fb555233face796fdf550a",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_023d8_7N9rcYkauHoToBEvvPeUD3rw/70x100/1735490874.jpeg?s=1d20e8493a2573de99eff77113279bf4311d91d8",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_023d8_7N9rcYkauHoToBEvvPeUD3rw/150x210/1735490874.jpeg?s=c675b93e7d9ce6c78582638bcf0f52dd1fc43005",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_023d8_7N9rcYkauHoToBEvvPeUD3rw/310x430/1735490874.jpeg?s=bbe6f97dab545eb6d784c7febdb51f4e5dbac709",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_023d8_7N9rcYkauHoToBEvvPeUD3rw/f800/1735490874.jpeg?s=72e084569bfb12f053fb555233face796fdf550a",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_023d8_7N9rcYkauHoToBEvvPeUD3rw/f800/1735490874.jpeg?s=72e084569bfb12f053fb555233face796fdf550a",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_023d8_7N9rcYkauHoToBEvvPeUD3rw/f800/1735490874.jpeg?s=72e084569bfb12f053fb555233face796fdf550a",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_023d8_7N9rcYkauHoToBEvvPeUD3rw",
+        "timestamp": 1735490874,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_023d8_7N9rcYkauHoToBEvvPeUD3rw/1735490874.jpeg?s=2eb586e5e556a561aa51bea9a9d3a25b19ba4c39",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 16,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "10.05",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "197.05",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 21061 Notre-Dame van Parijs Nieuw!, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 187,00 €, 197,05 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 0.2844088077545166,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5843617482,
+    "title": "Lego 21061",
+    "price": {
+      "amount": "220.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5843617482-lego-21061",
+    "user": {
+      "id": 243485426,
+      "login": "gabrin81",
+      "profile_url": "https://www.vinted.fr/member/243485426-gabrin81",
+      "photo": {
+        "id": 223692439,
+        "width": 450,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/f800/1735307302.jpeg?s=5bf804bd9a341f9f6af4b6042bedf0f4ddf944db",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/310x310/1735307302.jpeg?s=0c3d9380522d46d50550faef34d88d58f7b1825b",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/150x150/1735307302.jpeg?s=488422528b2da241b75569e4901e722a1ebcfaff",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/100x100/1735307302.jpeg?s=1550394e72b77cb4f2b95ef6f804b015e30b7417",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/50x50/1735307302.jpeg?s=cdf61670ad17e775e46c30227a5cf9651687735c",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/20x20/1735307302.jpeg?s=021378db9d7941a68e477fab17343dc659197ebf",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y",
+          "timestamp": 1735307302,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/1735307302.jpeg?s=d9c95268b9e7ed831e4365129d6e21a468e7049d",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5843617482-lego-21061",
+    "promoted": false,
+    "photo": {
+      "id": 23683348186,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#857565",
+      "dominant_color_opaque": "#DAD6D1",
+      "url": "https://images1.vinted.net/t/04_0236e_zt3BCeriHfVBXowH3vLwiFWR/f800/1739980350.jpeg?s=0ee55d0700b005c8a87f95b9b793bf9130baaf16",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_0236e_zt3BCeriHfVBXowH3vLwiFWR/70x100/1739980350.jpeg?s=83cdc41abb9f000872d2abb6224eb96918299357",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_0236e_zt3BCeriHfVBXowH3vLwiFWR/150x210/1739980350.jpeg?s=7f391550baa0c79c0ccfc4acec8c8522688c9d74",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_0236e_zt3BCeriHfVBXowH3vLwiFWR/310x430/1739980350.jpeg?s=0dadba60483e4c866c7986192a44abfcd4649723",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_0236e_zt3BCeriHfVBXowH3vLwiFWR/f800/1739980350.jpeg?s=0ee55d0700b005c8a87f95b9b793bf9130baaf16",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_0236e_zt3BCeriHfVBXowH3vLwiFWR/f800/1739980350.jpeg?s=0ee55d0700b005c8a87f95b9b793bf9130baaf16",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_0236e_zt3BCeriHfVBXowH3vLwiFWR/f800/1739980350.jpeg?s=0ee55d0700b005c8a87f95b9b793bf9130baaf16",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_0236e_zt3BCeriHfVBXowH3vLwiFWR",
+        "timestamp": 1739980350,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_0236e_zt3BCeriHfVBXowH3vLwiFWR/1739980350.jpeg?s=5e51f18ed5a048d3121d2f50708508186eac808c",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 69,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "11.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "231.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 21061, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 220,00 €, 231,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 0.2398531436920166,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5947416401,
+    "title": "Lego 21061",
+    "price": {
+      "amount": "230.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5947416401-lego-21061",
+    "user": {
+      "id": 71372545,
+      "login": "summer5457",
+      "profile_url": "https://www.vinted.fr/member/71372545-summer5457",
+      "photo": {
+        "id": 228708583,
+        "width": 700,
+        "height": 524,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_00f9f_C6R6T8ffzAwfj91Vtop7eJ6u/f800/1738446356.jpeg?s=30271bd1bf3de9d17d7e959d00242e11f5ee0a9d",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_00f9f_C6R6T8ffzAwfj91Vtop7eJ6u/310x310/1738446356.jpeg?s=e631d6899aebb5aa1b16568008eb0bb66a09eced",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_00f9f_C6R6T8ffzAwfj91Vtop7eJ6u/150x150/1738446356.jpeg?s=30482f1f4683794dea77249177a19024b614951d",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_00f9f_C6R6T8ffzAwfj91Vtop7eJ6u/100x100/1738446356.jpeg?s=e613c348fac09d7f72d45be7374c3b225cfcf87c",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_00f9f_C6R6T8ffzAwfj91Vtop7eJ6u/50x50/1738446356.jpeg?s=0df1a04e656af7d6d5c8e2762f4ee2f46622af1b",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_00f9f_C6R6T8ffzAwfj91Vtop7eJ6u/20x20/1738446356.jpeg?s=704ada3ea3cfe07b638b50c31ae67919ec794f41",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_00f9f_C6R6T8ffzAwfj91Vtop7eJ6u",
+          "timestamp": 1738446356,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_00f9f_C6R6T8ffzAwfj91Vtop7eJ6u/1738446356.jpeg?s=2970ffd13bd3ae6836efd90f3b2df4116c559877",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5947416401-lego-21061",
+    "promoted": false,
+    "photo": {
+      "id": 24115572108,
+      "image_no": 1,
+      "width": 800,
+      "height": 528,
+      "dominant_color": "#71706C",
+      "dominant_color_opaque": "#D4D4D3",
+      "url": "https://images1.vinted.net/t/04_01168_xWocaLivmYw72mLzhiHvvkJY/f800/1741633527.jpeg?s=0edbbbb6443f0b48960e242ef09246a29f44e61b",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01168_xWocaLivmYw72mLzhiHvvkJY/70x100/1741633527.jpeg?s=6751db04796729afa760a06e54c271860955018e",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01168_xWocaLivmYw72mLzhiHvvkJY/150x210/1741633527.jpeg?s=cb678db53e104f445c3608345cce6fcc54c5f86b",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01168_xWocaLivmYw72mLzhiHvvkJY/310x430/1741633527.jpeg?s=b82bee597b2a17bb7462835e9c937ae0b1a1d76e",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01168_xWocaLivmYw72mLzhiHvvkJY/f800/1741633527.jpeg?s=0edbbbb6443f0b48960e242ef09246a29f44e61b",
+          "width": 428,
+          "height": 282,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01168_xWocaLivmYw72mLzhiHvvkJY/f800/1741633527.jpeg?s=0edbbbb6443f0b48960e242ef09246a29f44e61b",
+          "width": 624,
+          "height": 412,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01168_xWocaLivmYw72mLzhiHvvkJY/f800/1741633527.jpeg?s=0edbbbb6443f0b48960e242ef09246a29f44e61b",
+          "width": 364,
+          "height": 240,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01168_xWocaLivmYw72mLzhiHvvkJY",
+        "timestamp": 1741633527,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01168_xWocaLivmYw72mLzhiHvvkJY/1741633527.jpeg?s=d75184f4759d3b96a87e1f1eab43281687e43914",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 2,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "12.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "242.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 21061, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 230,00 €, 242,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 0.04079151153564453,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 4741978341,
+    "title": "Lego 21061 Notre Dame Novo Selado",
+    "price": {
+      "amount": "195.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/4741978341-lego-21061-notre-dame-novo-selado",
+    "user": {
+      "id": 83059674,
+      "login": "tbmarques1979",
+      "profile_url": "https://www.vinted.fr/member/83059674-tbmarques1979",
+      "photo": null,
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/4741978341-lego-21061-notre-dame-novo-selado",
+    "promoted": false,
+    "photo": {
+      "id": 19268539944,
+      "image_no": 1,
+      "width": 800,
+      "height": 542,
+      "dominant_color": "#958C79",
+      "dominant_color_opaque": "#DFDDD7",
+      "url": "https://images1.vinted.net/t/02_0029b_t2YuXbevLgpiL2hhEFotC5MM/f800/1720479733.jpeg?s=097f2c8bf4b183a23c202fb4a54a0887bf1498d7",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_0029b_t2YuXbevLgpiL2hhEFotC5MM/70x100/1720479733.jpeg?s=a2dbec37780c3fd9f682a52501f156ea4d87cc29",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_0029b_t2YuXbevLgpiL2hhEFotC5MM/150x210/1720479733.jpeg?s=0cc0ad4066115a1110dd81306899beb6bc779465",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_0029b_t2YuXbevLgpiL2hhEFotC5MM/310x430/1720479733.jpeg?s=7cdc5098b3de54f9a24ac664f27cb8426e94732f",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_0029b_t2YuXbevLgpiL2hhEFotC5MM/f800/1720479733.jpeg?s=097f2c8bf4b183a23c202fb4a54a0887bf1498d7",
+          "width": 428,
+          "height": 290,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_0029b_t2YuXbevLgpiL2hhEFotC5MM/f800/1720479733.jpeg?s=097f2c8bf4b183a23c202fb4a54a0887bf1498d7",
+          "width": 624,
+          "height": 423,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_0029b_t2YuXbevLgpiL2hhEFotC5MM/f800/1720479733.jpeg?s=097f2c8bf4b183a23c202fb4a54a0887bf1498d7",
+          "width": 364,
+          "height": 246,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_0029b_t2YuXbevLgpiL2hhEFotC5MM",
+        "timestamp": 1720479733,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_0029b_t2YuXbevLgpiL2hhEFotC5MM/1720479733.jpeg?s=51ac28b67cb388544f18680c6b2c83b9391fcd17",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 46,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "10.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "205.45",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Neuf avec étiquette",
+      "accessibility_label": "Lego 21061 Notre Dame Novo Selado, marque: LEGO, état: Neuf avec étiquette, 195,00 €, 205,45 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.0003380465495865792,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5866897538,
+    "title": "LEGO Notre-Dame de Paris 21061 - Architecture (jamais déballé)",
+    "price": {
+      "amount": "200.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5866897538-lego-notre-dame-de-paris-21061-architecture-jamais-deballe",
+    "user": {
+      "id": 19439030,
+      "login": "leaabertraand",
+      "profile_url": "https://www.vinted.fr/member/19439030-leaabertraand",
+      "photo": {
+        "id": 12404104,
+        "width": 799,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_013ac_tmkVA9iw1H6mbtMhUSjZTZE7/f800/1605231642.jpeg?s=c2ddd5228fc9cb02c968888540f5a912b9ca1429",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_013ac_tmkVA9iw1H6mbtMhUSjZTZE7/310x310/1605231642.jpeg?s=00be2ce3872f1e2ccd547f4956ce22014803864f",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_013ac_tmkVA9iw1H6mbtMhUSjZTZE7/150x150/1605231642.jpeg?s=16e09238225520ba5e2bd3e086730c9111b0080e",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_013ac_tmkVA9iw1H6mbtMhUSjZTZE7/100x100/1605231642.jpeg?s=7fd658b73cbb800420f65e1ebd5b7d078b55ed5b",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_013ac_tmkVA9iw1H6mbtMhUSjZTZE7/50x50/1605231642.jpeg?s=6541b91164b01f35e90250fab321cce6b62afd04",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_013ac_tmkVA9iw1H6mbtMhUSjZTZE7/20x20/1605231642.jpeg?s=f9a081a9fddeae700008834ceb36a98b14cf61fd",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_013ac_tmkVA9iw1H6mbtMhUSjZTZE7",
+          "timestamp": 1605231642,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_013ac_tmkVA9iw1H6mbtMhUSjZTZE7/1605231642.jpeg?s=41da4a7dfae123e0c22f49cc0cec43b9e34896b3",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5866897538-lego-notre-dame-de-paris-21061-architecture-jamais-deballe",
+    "promoted": false,
+    "photo": {
+      "id": 23780216196,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#6D6355",
+      "dominant_color_opaque": "#D3D0CC",
+      "url": "https://images1.vinted.net/t/03_021a9_HmUzbfXH8HwGehq97co1Q2Bu/f800/1740332683.jpeg?s=5da0abb1d210fb90bd7d42b1cfe520dd155f5ee4",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_021a9_HmUzbfXH8HwGehq97co1Q2Bu/70x100/1740332683.jpeg?s=31c14ccb0e2c4f05d65423bf9a8fb5006590cd9c",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_021a9_HmUzbfXH8HwGehq97co1Q2Bu/150x210/1740332683.jpeg?s=1057a9b4d02ddf0804e5c8d0edbe1ff5bc60ec58",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_021a9_HmUzbfXH8HwGehq97co1Q2Bu/310x430/1740332683.jpeg?s=cfa2f1783250e7f84d40f3a7178ceb6694711fc1",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_021a9_HmUzbfXH8HwGehq97co1Q2Bu/f800/1740332683.jpeg?s=5da0abb1d210fb90bd7d42b1cfe520dd155f5ee4",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_021a9_HmUzbfXH8HwGehq97co1Q2Bu/f800/1740332683.jpeg?s=5da0abb1d210fb90bd7d42b1cfe520dd155f5ee4",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_021a9_HmUzbfXH8HwGehq97co1Q2Bu/f800/1740332683.jpeg?s=5da0abb1d210fb90bd7d42b1cfe520dd155f5ee4",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_021a9_HmUzbfXH8HwGehq97co1Q2Bu",
+        "timestamp": 1740332683,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_021a9_HmUzbfXH8HwGehq97co1Q2Bu/1740332683.jpeg?s=2ee1a716ae77f27079ee2400ed739a72c060eb33",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 9,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "10.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "210.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Neuf avec étiquette",
+      "accessibility_label": "LEGO Notre-Dame de Paris 21061 - Architecture (jamais déballé), marque: LEGO, état: Neuf avec étiquette, 200,00 €, 210,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.0002413773472653702,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5666547163,
+    "title": "LEGO Architecture 21061 Notre-Dame van Parijs",
+    "price": {
+      "amount": "175.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5666547163-lego-architecture-21061-notre-dame-van-parijs",
+    "user": {
+      "id": 76739593,
+      "login": "100eurodeals",
+      "profile_url": "https://www.vinted.fr/member/76739593-100eurodeals",
+      "photo": {
+        "id": 234438333,
+        "width": 800,
+        "height": 359,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_020fa_hrFD5Gm99cM33KYW2UeYUnYF/f800/1741818888.jpeg?s=f90ae3a33f1b37d10e64f7a1adea9f8ff260dea2",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_020fa_hrFD5Gm99cM33KYW2UeYUnYF/310x310/1741818888.jpeg?s=40e5e495ca3e217f1eb578590ff43e95436510a8",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_020fa_hrFD5Gm99cM33KYW2UeYUnYF/150x150/1741818888.jpeg?s=5fa78d904576cc7c687486e3bbb9c0e66e06d54a",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_020fa_hrFD5Gm99cM33KYW2UeYUnYF/100x100/1741818888.jpeg?s=940c051574af37fbd29517f6d7552d54636b33f1",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_020fa_hrFD5Gm99cM33KYW2UeYUnYF/50x50/1741818888.jpeg?s=f9ce08f7835db5389a50df388d90e169e5692a46",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_020fa_hrFD5Gm99cM33KYW2UeYUnYF/20x20/1741818888.jpeg?s=72cb97ae53aad8a6c43461aab96838d39789a05e",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_020fa_hrFD5Gm99cM33KYW2UeYUnYF",
+          "timestamp": 1741818888,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_020fa_hrFD5Gm99cM33KYW2UeYUnYF/1741818888.jpeg?s=c13f58485be068cdec90a8d193899b5d39c7f50a",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5666547163-lego-architecture-21061-notre-dame-van-parijs",
+    "promoted": false,
+    "photo": {
+      "id": 22951505327,
+      "image_no": 1,
+      "width": 602,
+      "height": 800,
+      "dominant_color": "#7F7169",
+      "dominant_color_opaque": "#D9D4D2",
+      "url": "https://images1.vinted.net/t/04_00795_twF17wLjqAER8UajgsfD1otX/f800/r3/1737123505.jpeg?s=4e60f87655664c44c3f176ad78e16cc5b7d484c3",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00795_twF17wLjqAER8UajgsfD1otX/70x100/r3/1737123505.jpeg?s=aed870f8bbbe04b2b270b398faa3004edeba6e98",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00795_twF17wLjqAER8UajgsfD1otX/150x210/r3/1737123505.jpeg?s=e2a3c108735f4b0d3d126dc1697e2523c1d4fdb7",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00795_twF17wLjqAER8UajgsfD1otX/310x430/r3/1737123505.jpeg?s=034d43d7728b74c9a74ba308d3275ef86d35f7cc",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00795_twF17wLjqAER8UajgsfD1otX/f800/r3/1737123505.jpeg?s=4e60f87655664c44c3f176ad78e16cc5b7d484c3",
+          "width": 322,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00795_twF17wLjqAER8UajgsfD1otX/f800/r3/1737123505.jpeg?s=4e60f87655664c44c3f176ad78e16cc5b7d484c3",
+          "width": 469,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00795_twF17wLjqAER8UajgsfD1otX/f800/r3/1737123505.jpeg?s=4e60f87655664c44c3f176ad78e16cc5b7d484c3",
+          "width": 274,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00795_twF17wLjqAER8UajgsfD1otX",
+        "timestamp": 1737123505,
+        "orientation": 3
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00795_twF17wLjqAER8UajgsfD1otX/r3/1737123505.jpeg?s=39412ac9d99bbdb009e262d7f3175dd36fd8b16c",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 54,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "9.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "184.45",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "LEGO Architecture 21061 Notre-Dame van Parijs, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 175,00 €, 184,45 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.001615011598914862,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5521798790,
+    "title": "Lego Notre Dame de Paris 21061",
+    "price": {
+      "amount": "200.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5521798790-lego-notre-dame-de-paris-21061",
+    "user": {
+      "id": 138515942,
+      "login": "traca55",
+      "profile_url": "https://www.vinted.fr/member/138515942-traca55",
+      "photo": {
+        "id": 222842327,
+        "width": 360,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_0057b_uGdwioqyAr1Qf3x6kKj9Afsn/f800/1734560527.jpeg?s=d86d3de5cf524236175d266a59947b1dd6b770b8",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_0057b_uGdwioqyAr1Qf3x6kKj9Afsn/310x310/1734560527.jpeg?s=81e6d436865077a6a3ee888226bceb06504138f4",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_0057b_uGdwioqyAr1Qf3x6kKj9Afsn/150x150/1734560527.jpeg?s=f9a799b39b72eddca270af72a4f0a9db431d3de4",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_0057b_uGdwioqyAr1Qf3x6kKj9Afsn/100x100/1734560527.jpeg?s=eb68dd1d30d3636bc17ef616fd79ddd6e2095baa",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_0057b_uGdwioqyAr1Qf3x6kKj9Afsn/50x50/1734560527.jpeg?s=496be66b2a44cfae105e25c0bb8777f0db5c6c84",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_0057b_uGdwioqyAr1Qf3x6kKj9Afsn/20x20/1734560527.jpeg?s=c7f976d2edb00a6ad9cfbb42e669a6c43243832f",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_0057b_uGdwioqyAr1Qf3x6kKj9Afsn",
+          "timestamp": 1734560527,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_0057b_uGdwioqyAr1Qf3x6kKj9Afsn/1734560527.jpeg?s=eb81bfa5c57ae1ed073d6797ca14e42f0bf2470c",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5521798790-lego-notre-dame-de-paris-21061",
+    "promoted": false,
+    "photo": {
+      "id": 22361414724,
+      "image_no": 1,
+      "width": 369,
+      "height": 800,
+      "dominant_color": "#6F695A",
+      "dominant_color_opaque": "#D4D2CE",
+      "url": "https://images1.vinted.net/t/04_0185f_a7mtqJebXuSpmKtyNrFcdyna/f800/1734098461.jpeg?s=6530f5d4e0b085edfe25fc4e2231cf1ea9314151",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_0185f_a7mtqJebXuSpmKtyNrFcdyna/70x100/1734098461.jpeg?s=2e5dc4a005bd7cf2e5091055ee08f299278f96c1",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_0185f_a7mtqJebXuSpmKtyNrFcdyna/150x210/1734098461.jpeg?s=3ae611b8ddd62b125c2831e1e00d02158fc7786f",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_0185f_a7mtqJebXuSpmKtyNrFcdyna/310x430/1734098461.jpeg?s=18af5bae079f389118764c578b90a4943c7e709d",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_0185f_a7mtqJebXuSpmKtyNrFcdyna/f800/1734098461.jpeg?s=6530f5d4e0b085edfe25fc4e2231cf1ea9314151",
+          "width": 197,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_0185f_a7mtqJebXuSpmKtyNrFcdyna/f800/1734098461.jpeg?s=6530f5d4e0b085edfe25fc4e2231cf1ea9314151",
+          "width": 287,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_0185f_a7mtqJebXuSpmKtyNrFcdyna/f800/1734098461.jpeg?s=6530f5d4e0b085edfe25fc4e2231cf1ea9314151",
+          "width": 167,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_0185f_a7mtqJebXuSpmKtyNrFcdyna",
+        "timestamp": 1734098461,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_0185f_a7mtqJebXuSpmKtyNrFcdyna/1734098461.jpeg?s=6fc494243f70ee887aadc94adff3e3855916f3ef",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 21,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "10.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "210.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "10 ans / 140 cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "10 ans / 140 cm · Neuf avec étiquette",
+      "accessibility_label": "Lego Notre Dame de Paris 21061, marque: LEGO, état: Neuf avec étiquette, taille: 10 ans / 140 cm, 200,00 €, 210,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.0004664897860493511,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5819971437,
+    "title": "LEGO - Notre Dame de Paris 21061",
+    "price": {
+      "amount": "200.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5819971437-lego-notre-dame-de-paris-21061",
+    "user": {
+      "id": 167626158,
+      "login": "moshy.06",
+      "profile_url": "https://www.vinted.fr/member/167626158-moshy06",
+      "photo": {
+        "id": 163162029,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_011c1_Fxb7kQdKtx5nh98tF8zeS95S/f800/1697906488.jpeg?s=2977c86ddb5ab5c52e1f840a4921c698cdbbada0",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_011c1_Fxb7kQdKtx5nh98tF8zeS95S/310x310/1697906488.jpeg?s=7bd07ef8b464c7f23ee67ea833e9b977b7e489e1",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_011c1_Fxb7kQdKtx5nh98tF8zeS95S/150x150/1697906488.jpeg?s=1fd4341e7657f01a7465ddfe293a10cfe4a2cc7c",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_011c1_Fxb7kQdKtx5nh98tF8zeS95S/100x100/1697906488.jpeg?s=3b0da731314f503897b7a3579472bf32d8606cc0",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_011c1_Fxb7kQdKtx5nh98tF8zeS95S/50x50/1697906488.jpeg?s=e6500ba5649f58778a7c8c43133c6c43560d48ab",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_011c1_Fxb7kQdKtx5nh98tF8zeS95S/20x20/1697906488.jpeg?s=3d5ba9fe592d9490e9cf8e0adc615e5abb2cd91e",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_011c1_Fxb7kQdKtx5nh98tF8zeS95S",
+          "timestamp": 1697906488,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_011c1_Fxb7kQdKtx5nh98tF8zeS95S/1697906488.jpeg?s=a69574272d36db567e28c94dc80dc0efea96f10b",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5819971437-lego-notre-dame-de-paris-21061",
+    "promoted": false,
+    "photo": {
+      "id": 23585848211,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#8C8264",
+      "dominant_color_opaque": "#DDDAD1",
+      "url": "https://images1.vinted.net/t/04_023fe_AA1ezKxPi7qRjGdrq7uiYrDf/f800/1739630435.jpeg?s=e4d01e78344d8716efcfcda953076d819534a1c6",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_023fe_AA1ezKxPi7qRjGdrq7uiYrDf/70x100/1739630435.jpeg?s=b55f22fa01f53a9c7441b61e80767e3de210b1a6",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_023fe_AA1ezKxPi7qRjGdrq7uiYrDf/150x210/1739630435.jpeg?s=3b82dd69a040fc6be897992541d4eed00a315df5",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_023fe_AA1ezKxPi7qRjGdrq7uiYrDf/310x430/1739630435.jpeg?s=7bb121ded93f76eef1bb46e166a489d160da655c",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_023fe_AA1ezKxPi7qRjGdrq7uiYrDf/f800/1739630435.jpeg?s=e4d01e78344d8716efcfcda953076d819534a1c6",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_023fe_AA1ezKxPi7qRjGdrq7uiYrDf/f800/1739630435.jpeg?s=e4d01e78344d8716efcfcda953076d819534a1c6",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_023fe_AA1ezKxPi7qRjGdrq7uiYrDf/f800/1739630435.jpeg?s=e4d01e78344d8716efcfcda953076d819534a1c6",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_023fe_AA1ezKxPi7qRjGdrq7uiYrDf",
+        "timestamp": 1739630435,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_023fe_AA1ezKxPi7qRjGdrq7uiYrDf/1739630435.jpeg?s=2d571aa7649565fe07ec2f3afaad081f94858e55",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 10,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "10.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "210.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "LEGO - Notre Dame de Paris 21061, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 200,00 €, 210,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.00339088193140924,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5785016117,
+    "title": "LEGO® Architecture 21061 - Notre-Dame de Paris (Neuf, scellé)",
+    "price": {
+      "amount": "185.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5785016117-legor-architecture-21061-notre-dame-de-paris-neuf-scelle",
+    "user": {
+      "id": 254481995,
+      "login": "phlag33",
+      "profile_url": "https://www.vinted.fr/member/254481995-phlag33",
+      "photo": null,
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5785016117-legor-architecture-21061-notre-dame-de-paris-neuf-scelle",
+    "promoted": false,
+    "photo": {
+      "id": 23441020941,
+      "image_no": 1,
+      "width": 800,
+      "height": 626,
+      "dominant_color": "#625E4D",
+      "dominant_color_opaque": "#D0CFCA",
+      "url": "https://images1.vinted.net/t/03_00c6c_grVXKc8fXxrvgGAvycEQFAdK/f800/1739040665.jpeg?s=7d1073e948de89043314095555f28e5ce9cb2c15",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_00c6c_grVXKc8fXxrvgGAvycEQFAdK/70x100/1739040665.jpeg?s=24e0ad52e4c92e5f24576203099a93a029e1a1a0",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_00c6c_grVXKc8fXxrvgGAvycEQFAdK/150x210/1739040665.jpeg?s=1799f3c993ef22a87175c6747259720ce025e4f2",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_00c6c_grVXKc8fXxrvgGAvycEQFAdK/310x430/1739040665.jpeg?s=4c95f32699b3f9f2c7684a30ec0ba512d7fb038f",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_00c6c_grVXKc8fXxrvgGAvycEQFAdK/f800/1739040665.jpeg?s=7d1073e948de89043314095555f28e5ce9cb2c15",
+          "width": 428,
+          "height": 335,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_00c6c_grVXKc8fXxrvgGAvycEQFAdK/f800/1739040665.jpeg?s=7d1073e948de89043314095555f28e5ce9cb2c15",
+          "width": 624,
+          "height": 488,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_00c6c_grVXKc8fXxrvgGAvycEQFAdK/f800/1739040665.jpeg?s=7d1073e948de89043314095555f28e5ce9cb2c15",
+          "width": 364,
+          "height": 284,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_00c6c_grVXKc8fXxrvgGAvycEQFAdK",
+        "timestamp": 1739040665,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_00c6c_grVXKc8fXxrvgGAvycEQFAdK/1739040665.jpeg?s=375781a490f9c710e93379a7acb071fe67fdc6d7",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 19,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "9.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "194.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Neuf avec étiquette",
+      "accessibility_label": "LEGO® Architecture 21061 - Notre-Dame de Paris (Neuf, scellé), marque: LEGO, état: Neuf avec étiquette, 185,00 €, 194,95 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 1.37690281867981,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5909687483,
+    "title": "LEGO Notre Dame",
+    "price": {
+      "amount": "229.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5909687483-lego-notre-dame",
+    "user": {
+      "id": 252025807,
+      "login": "marmau23",
+      "profile_url": "https://www.vinted.fr/member/252025807-marmau23",
+      "photo": {
+        "id": 227275589,
+        "width": 600,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_002c7_ghd4oEXra1fBEaKhUwXUidAw/f800/1737547701.jpeg?s=dad3084855284d4d412c321bb60d93aadd25c292",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_002c7_ghd4oEXra1fBEaKhUwXUidAw/310x310/1737547701.jpeg?s=631de83f27b5cf0d380a4bbb7a24ab91fe696ef5",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_002c7_ghd4oEXra1fBEaKhUwXUidAw/150x150/1737547701.jpeg?s=af72415f58567d991704d364ea26836c48dba104",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_002c7_ghd4oEXra1fBEaKhUwXUidAw/100x100/1737547701.jpeg?s=18f567a990e820c515dd2cc2a2b9cbb0e8392d60",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_002c7_ghd4oEXra1fBEaKhUwXUidAw/50x50/1737547701.jpeg?s=1c5d2fa22a90d34a254a82f567e2fe4f6f98d898",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_002c7_ghd4oEXra1fBEaKhUwXUidAw/20x20/1737547701.jpeg?s=e1bdc67b9264cf4b4c6723e69d47c4c475225555",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_002c7_ghd4oEXra1fBEaKhUwXUidAw",
+          "timestamp": 1737547701,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_002c7_ghd4oEXra1fBEaKhUwXUidAw/1737547701.jpeg?s=8066c6ae0e52933279662e4fee6c9f0772766e1e",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5909687483-lego-notre-dame",
+    "promoted": false,
+    "photo": {
+      "id": 23958301108,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#567273",
+      "dominant_color_opaque": "#CCD5D5",
+      "url": "https://images1.vinted.net/t/02_01bfd_GTejqFr1gRS5sTt8TyuCtngx/f800/1741026701.jpeg?s=8eb17526ee090c2ee2f552acee0af6f07bfac150",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_01bfd_GTejqFr1gRS5sTt8TyuCtngx/70x100/1741026701.jpeg?s=58973d1d51164f09d2d3dde774c1ae4a56b99d6e",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_01bfd_GTejqFr1gRS5sTt8TyuCtngx/150x210/1741026701.jpeg?s=b477804d1a7b64d76cad739292d764aaabd38831",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_01bfd_GTejqFr1gRS5sTt8TyuCtngx/310x430/1741026701.jpeg?s=a26b5f3e0dd3347b8ac26424c931ec4932e5cbed",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_01bfd_GTejqFr1gRS5sTt8TyuCtngx/f800/1741026701.jpeg?s=8eb17526ee090c2ee2f552acee0af6f07bfac150",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_01bfd_GTejqFr1gRS5sTt8TyuCtngx/f800/1741026701.jpeg?s=8eb17526ee090c2ee2f552acee0af6f07bfac150",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_01bfd_GTejqFr1gRS5sTt8TyuCtngx/f800/1741026701.jpeg?s=8eb17526ee090c2ee2f552acee0af6f07bfac150",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_01bfd_GTejqFr1gRS5sTt8TyuCtngx",
+        "timestamp": 1741026701,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_01bfd_GTejqFr1gRS5sTt8TyuCtngx/1741026701.jpeg?s=7367ab8bbd90a1895431657062592f9edc092a34",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 6,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "12.15",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "241.15",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "LEGO Notre Dame, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 229,00 €, 241,15 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.004489324055612087,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5776538333,
+    "title": "Lego 21061 Notre-Dame de Paris",
+    "price": {
+      "amount": "230.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5776538333-lego-21061-notre-dame-de-paris",
+    "user": {
+      "id": 87705002,
+      "login": "alexandre592759",
+      "profile_url": "https://www.vinted.fr/member/87705002-alexandre592759",
+      "photo": {
+        "id": 142337909,
+        "width": 800,
+        "height": 600,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_00660_tdzk1vZDdwkML5g1foJ2i9gr/f800/1684776385.jpeg?s=d80264ccbc9588804bacf71729b2f3ca0456055f",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_00660_tdzk1vZDdwkML5g1foJ2i9gr/310x310/1684776385.jpeg?s=36c6db2952132ee045b0cb261f4cb0fa04e740c3",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_00660_tdzk1vZDdwkML5g1foJ2i9gr/150x150/1684776385.jpeg?s=610c6cd9c2f98367a710545b6c2aab09dbf631cd",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_00660_tdzk1vZDdwkML5g1foJ2i9gr/100x100/1684776385.jpeg?s=eca1f02343c675004c7c54e7966eaa358740b0bb",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_00660_tdzk1vZDdwkML5g1foJ2i9gr/50x50/1684776385.jpeg?s=d3424eee55998037d4ae06f8b97af73b66bd46a8",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_00660_tdzk1vZDdwkML5g1foJ2i9gr/20x20/1684776385.jpeg?s=0312fe52870fefb45d070e3eb8f16df74d7604c4",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_00660_tdzk1vZDdwkML5g1foJ2i9gr",
+          "timestamp": 1684776385,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_00660_tdzk1vZDdwkML5g1foJ2i9gr/1684776385.jpeg?s=46c7089aa3c4d7aef38af4f6d4ef245165fd1f50",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5776538333-lego-21061-notre-dame-de-paris",
+    "promoted": false,
+    "photo": {
+      "id": 23405477108,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#928673",
+      "dominant_color_opaque": "#DEDBD5",
+      "url": "https://images1.vinted.net/t/04_0249e_UKvq5b21J4m7eZiSWT5f8QVX/f800/1738924210.jpeg?s=08e86f5559ac9ab058df18a2fe4c25b2fece53ef",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_0249e_UKvq5b21J4m7eZiSWT5f8QVX/70x100/1738924210.jpeg?s=d7ceda681b88cc4df766d9546c8974b87dc9b77b",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_0249e_UKvq5b21J4m7eZiSWT5f8QVX/150x210/1738924210.jpeg?s=5b888ad738d5b196c3b3353affa5252b62afa249",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_0249e_UKvq5b21J4m7eZiSWT5f8QVX/310x430/1738924210.jpeg?s=934be812e806d1761ac3392bc89c85ef371ec7b9",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_0249e_UKvq5b21J4m7eZiSWT5f8QVX/f800/1738924210.jpeg?s=08e86f5559ac9ab058df18a2fe4c25b2fece53ef",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_0249e_UKvq5b21J4m7eZiSWT5f8QVX/f800/1738924210.jpeg?s=08e86f5559ac9ab058df18a2fe4c25b2fece53ef",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_0249e_UKvq5b21J4m7eZiSWT5f8QVX/f800/1738924210.jpeg?s=08e86f5559ac9ab058df18a2fe4c25b2fece53ef",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_0249e_UKvq5b21J4m7eZiSWT5f8QVX",
+        "timestamp": 1738924210,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_0249e_UKvq5b21J4m7eZiSWT5f8QVX/1738924210.jpeg?s=f9426fd931551af4a831dc912b730742d21c3018",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 6,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "12.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "242.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 21061 Notre-Dame de Paris, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 230,00 €, 242,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.007542059291154146,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 4623494215,
+    "title": "Lego 21061 - Notre Dame",
+    "price": {
+      "amount": "240.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/4623494215-lego-21061-notre-dame",
+    "user": {
+      "id": 66714719,
+      "login": "andreaberlato",
+      "profile_url": "https://www.vinted.fr/member/66714719-andreaberlato",
+      "photo": {
+        "id": 104288057,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_01e0d_N6Sp8ERWd5ei5odPMMudsbt8/f800/1661856690.jpeg?s=182b7aa8c25ece00a8958a4b66f0229a53b409b6",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_01e0d_N6Sp8ERWd5ei5odPMMudsbt8/310x310/1661856690.jpeg?s=88f40fa6c94ce68777f079b077828c9ca4f352ee",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_01e0d_N6Sp8ERWd5ei5odPMMudsbt8/150x150/1661856690.jpeg?s=ff134cdc26eacea7a7d2b8195ea5b892e0ea51bd",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_01e0d_N6Sp8ERWd5ei5odPMMudsbt8/100x100/1661856690.jpeg?s=daba9edcc5873ede2a3ca4939139ef5bd7c2e63c",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_01e0d_N6Sp8ERWd5ei5odPMMudsbt8/50x50/1661856690.jpeg?s=cb8212b61d7576be6db54134a2b88574744f92f2",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_01e0d_N6Sp8ERWd5ei5odPMMudsbt8/20x20/1661856690.jpeg?s=fa9986b9e3ae31f211811929526fc645b8ec7888",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_01e0d_N6Sp8ERWd5ei5odPMMudsbt8",
+          "timestamp": 1661856690,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_01e0d_N6Sp8ERWd5ei5odPMMudsbt8/1661856690.jpeg?s=014fd91f2e27da6153d17921a0aea0b8ffabed27",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/4623494215-lego-21061-notre-dame",
+    "promoted": false,
+    "photo": {
+      "id": 18799761245,
+      "image_no": 1,
+      "width": 800,
+      "height": 607,
+      "dominant_color": "#7A684D",
+      "dominant_color_opaque": "#D7D2CA",
+      "url": "https://images1.vinted.net/t/02_01ea8_WBmHHbtq7wJyCmnGDuU3PXjZ/f800/1718021388.jpeg?s=139c9532856e1370ce2f0606649f39d9ae636b44",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_01ea8_WBmHHbtq7wJyCmnGDuU3PXjZ/70x100/1718021388.jpeg?s=8b019e0b96141908061de9e79b3e10b9b4344759",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_01ea8_WBmHHbtq7wJyCmnGDuU3PXjZ/150x210/1718021388.jpeg?s=fb4cb753530e6dc598b82c4d7708fd17202dc424",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_01ea8_WBmHHbtq7wJyCmnGDuU3PXjZ/310x430/1718021388.jpeg?s=f195f874a41519ce15b9b62a1af1fa6ffb457240",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_01ea8_WBmHHbtq7wJyCmnGDuU3PXjZ/f800/1718021388.jpeg?s=139c9532856e1370ce2f0606649f39d9ae636b44",
+          "width": 428,
+          "height": 324,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_01ea8_WBmHHbtq7wJyCmnGDuU3PXjZ/f800/1718021388.jpeg?s=139c9532856e1370ce2f0606649f39d9ae636b44",
+          "width": 623,
+          "height": 473,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_01ea8_WBmHHbtq7wJyCmnGDuU3PXjZ/f800/1718021388.jpeg?s=139c9532856e1370ce2f0606649f39d9ae636b44",
+          "width": 364,
+          "height": 276,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_01ea8_WBmHHbtq7wJyCmnGDuU3PXjZ",
+        "timestamp": 1718021388,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_01ea8_WBmHHbtq7wJyCmnGDuU3PXjZ/1718021388.jpeg?s=66910e831be58e1b28fcdfd115fd1a4a9368bf54",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 21,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "12.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "252.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 21061 - Notre Dame, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 240,00 €, 252,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.02128475345671177,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5437272919,
+    "title": "LEGO Architecture 21061 Notre-Dame de Paris",
+    "price": {
+      "amount": "205.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5437272919-lego-architecture-21061-notre-dame-de-paris",
+    "user": {
+      "id": 174861285,
+      "login": "jmalmendra",
+      "profile_url": "https://www.vinted.fr/member/174861285-jmalmendra",
+      "photo": {
+        "id": 202392578,
+        "width": 600,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/f800/1722618553.jpeg?s=590334179b24741283919f0f13430e56d676bd87",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/310x310/1722618553.jpeg?s=5a92db820deaf18de58f6411aadd9ddbc07cb1eb",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/150x150/1722618553.jpeg?s=84c1f0f78e6da4306f883109eca3f790639c1695",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/100x100/1722618553.jpeg?s=b51d6258a667db2f02edeb31f81e728f7cbf9806",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/50x50/1722618553.jpeg?s=07921e10fb86cd2d9d088604c881c45e49736834",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/20x20/1722618553.jpeg?s=0f800764feea40cb266b85914632232fc7ea2265",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_010e9_Aj6S957wvsnMaU6n89ctL8Mb",
+          "timestamp": 1722618553,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/1722618553.jpeg?s=e7bfaba7bc782091ac08f297b14d02cc23c22602",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5437272919-lego-architecture-21061-notre-dame-de-paris",
+    "promoted": false,
+    "photo": {
+      "id": 22011338612,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#7F7363",
+      "dominant_color_opaque": "#D9D5D0",
+      "url": "https://images1.vinted.net/t/04_008ef_xSw2wf5stybffX7VgKomBxZC/f800/1732472514.jpeg?s=4e27d9cdbb0fe3d223d7c5d4c2422d2904dda0f2",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_008ef_xSw2wf5stybffX7VgKomBxZC/70x100/1732472514.jpeg?s=9245d708d0b1070811d8f047f23a47bef2c676b5",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_008ef_xSw2wf5stybffX7VgKomBxZC/150x210/1732472514.jpeg?s=9beedda847a3def6dd6ee28c1ede473cce5902e3",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_008ef_xSw2wf5stybffX7VgKomBxZC/310x430/1732472514.jpeg?s=fcd5e351ee244f69e1270bcbaf5fd7fcf446c509",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_008ef_xSw2wf5stybffX7VgKomBxZC/f800/1732472514.jpeg?s=4e27d9cdbb0fe3d223d7c5d4c2422d2904dda0f2",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_008ef_xSw2wf5stybffX7VgKomBxZC/f800/1732472514.jpeg?s=4e27d9cdbb0fe3d223d7c5d4c2422d2904dda0f2",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_008ef_xSw2wf5stybffX7VgKomBxZC/f800/1732472514.jpeg?s=4e27d9cdbb0fe3d223d7c5d4c2422d2904dda0f2",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_008ef_xSw2wf5stybffX7VgKomBxZC",
+        "timestamp": 1732472514,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_008ef_xSw2wf5stybffX7VgKomBxZC/1732472514.jpeg?s=b4a34e7283b9c4742d126ae06876606a20252143",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 27,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "10.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "215.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "LEGO Architecture 21061 Notre-Dame de Paris, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 205,00 €, 215,95 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.02340425178408623,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5309971793,
+    "title": "Lego 21061",
+    "price": {
+      "amount": "190.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5309971793-lego-21061",
+    "user": {
+      "id": 93774741,
+      "login": "prizz90",
+      "profile_url": "https://www.vinted.fr/member/93774741-prizz90",
+      "photo": {
+        "id": 92987744,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_00dbd_K4w5hgPFZMnZNg3sMsf3uzXe/f800/1653540628.jpeg?s=78ee61cc0d8e9f82f9e3a775a34ad6157739d33d",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_00dbd_K4w5hgPFZMnZNg3sMsf3uzXe/310x310/1653540628.jpeg?s=865564a4f5a22145b8380b12e3fd086b28e6782b",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_00dbd_K4w5hgPFZMnZNg3sMsf3uzXe/150x150/1653540628.jpeg?s=4b50f00773e0b274b2bb8606c393ceb3e9777a5a",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_00dbd_K4w5hgPFZMnZNg3sMsf3uzXe/100x100/1653540628.jpeg?s=5acc5ceb900da6cdab179c010ba106419d6a288b",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_00dbd_K4w5hgPFZMnZNg3sMsf3uzXe/50x50/1653540628.jpeg?s=0c4430e2f74acd9f113242f8fcfe8b7719a31fc4",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_00dbd_K4w5hgPFZMnZNg3sMsf3uzXe/20x20/1653540628.jpeg?s=eeed11d0bb6957b4804bb128c38f818c2cbf3936",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_00dbd_K4w5hgPFZMnZNg3sMsf3uzXe",
+          "timestamp": 1653540628,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_00dbd_K4w5hgPFZMnZNg3sMsf3uzXe/1653540628.jpeg?s=ee07f70f2bccaaa4849ac11be23812b6582da12d",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5309971793-lego-21061",
+    "promoted": false,
+    "photo": {
+      "id": 21492173492,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#9C8A74",
+      "dominant_color_opaque": "#E1DCD5",
+      "url": "https://images1.vinted.net/t/03_0198a_hWD52TFvYHevjXsXNuQzvdiz/f800/1730453366.jpeg?s=b6fd1326738159654ac44101e44147f4e977d969",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_0198a_hWD52TFvYHevjXsXNuQzvdiz/70x100/1730453366.jpeg?s=638cd313b3fc882478969ab032763a4c65f81486",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_0198a_hWD52TFvYHevjXsXNuQzvdiz/150x210/1730453366.jpeg?s=e6441fe636a8fd408be07201d78bb38bc777db4c",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_0198a_hWD52TFvYHevjXsXNuQzvdiz/310x430/1730453366.jpeg?s=09c6af044974580edea1460c4beefea008acff91",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_0198a_hWD52TFvYHevjXsXNuQzvdiz/f800/1730453366.jpeg?s=b6fd1326738159654ac44101e44147f4e977d969",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_0198a_hWD52TFvYHevjXsXNuQzvdiz/f800/1730453366.jpeg?s=b6fd1326738159654ac44101e44147f4e977d969",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_0198a_hWD52TFvYHevjXsXNuQzvdiz/f800/1730453366.jpeg?s=b6fd1326738159654ac44101e44147f4e977d969",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_0198a_hWD52TFvYHevjXsXNuQzvdiz",
+        "timestamp": 1730453366,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_0198a_hWD52TFvYHevjXsXNuQzvdiz/1730453366.jpeg?s=9577ab99eb29478fccea4e62a929071bea38b537",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 65,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "10.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "200.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 21061, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 190,00 €, 200,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.04172990843653679,
+      "matched_queries": []
+    }
+  }
+]

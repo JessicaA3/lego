@@ -1,0 +1,332 @@
+[
+  {
+    "id": 5946176687,
+    "title": "Set Lego 71437 Treno Super Mario Bros",
+    "price": {
+      "amount": "95.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5946176687-set-lego-71437-treno-super-mario-bros",
+    "user": {
+      "id": 49459848,
+      "login": "ciore35",
+      "profile_url": "https://www.vinted.fr/member/49459848-ciore35",
+      "photo": {
+        "id": 214169769,
+        "width": 800,
+        "height": 690,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_025cb_P4TRGvuunV9sMQGqgsJHhrVr/f800/1729241329.jpeg?s=4e584bbb3ac9a90688298c2bb4a5af0125dbf78a",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_025cb_P4TRGvuunV9sMQGqgsJHhrVr/310x310/1729241329.jpeg?s=b0922b895b701975c2c9953e4e4ada02370095ef",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_025cb_P4TRGvuunV9sMQGqgsJHhrVr/150x150/1729241329.jpeg?s=a77ae723a29f933c2b2b5fd9702e12f328e83306",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_025cb_P4TRGvuunV9sMQGqgsJHhrVr/100x100/1729241329.jpeg?s=8744725945da5f3362b57846db625683f08c7488",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_025cb_P4TRGvuunV9sMQGqgsJHhrVr/50x50/1729241329.jpeg?s=6b61a16d46f3931c3b70c86362b28ee8d20b5c9b",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_025cb_P4TRGvuunV9sMQGqgsJHhrVr/20x20/1729241329.jpeg?s=21664bc18e8d7f2b67cd71b13d6116d3120e50ac",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_025cb_P4TRGvuunV9sMQGqgsJHhrVr",
+          "timestamp": 1729241329,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_025cb_P4TRGvuunV9sMQGqgsJHhrVr/1729241329.jpeg?s=a42b8ef34a9555f84beb7291fd7a2b44f2ddeacd",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5946176687-set-lego-71437-treno-super-mario-bros",
+    "promoted": false,
+    "photo": {
+      "id": 24110395469,
+      "image_no": 1,
+      "width": 800,
+      "height": 650,
+      "dominant_color": "#A18898",
+      "dominant_color_opaque": "#E3DBE0",
+      "url": "https://images1.vinted.net/t/03_014ed_quREdrVLbn1SopKU3PhryUPS/f800/1741621898.jpeg?s=8335c9686b0b65336bd3ef61843e99af3562d289",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_014ed_quREdrVLbn1SopKU3PhryUPS/70x100/1741621898.jpeg?s=335773da7f716fd2c73b5479e0df7a93c47e4feb",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_014ed_quREdrVLbn1SopKU3PhryUPS/150x210/1741621898.jpeg?s=8ba7e7c9d7df61fe6f1075efd1c2bc15941fe693",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_014ed_quREdrVLbn1SopKU3PhryUPS/310x430/1741621898.jpeg?s=1b9d891b1f357a7c73b404f7f3acc40aa2cccd32",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_014ed_quREdrVLbn1SopKU3PhryUPS/f800/1741621898.jpeg?s=8335c9686b0b65336bd3ef61843e99af3562d289",
+          "width": 428,
+          "height": 348,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_014ed_quREdrVLbn1SopKU3PhryUPS/f800/1741621898.jpeg?s=8335c9686b0b65336bd3ef61843e99af3562d289",
+          "width": 624,
+          "height": 507,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_014ed_quREdrVLbn1SopKU3PhryUPS/f800/1741621898.jpeg?s=8335c9686b0b65336bd3ef61843e99af3562d289",
+          "width": 364,
+          "height": 295,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_014ed_quREdrVLbn1SopKU3PhryUPS",
+        "timestamp": 1741621898,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_014ed_quREdrVLbn1SopKU3PhryUPS/1741621898.jpeg?s=eb63bde024f791e3283bded73e67edb4fbd880a1",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 10,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "5.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "100.45",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Set Lego 71437 Treno Super Mario Bros, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 95,00 €, 100,45 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 37.042183,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5956951000,
+    "title": "Lego Super Mario 71437 The Bowser Express Train",
+    "price": {
+      "amount": "83.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5956951000-lego-super-mario-71437-the-bowser-express-train",
+    "user": {
+      "id": 225779075,
+      "login": "tara-bricks",
+      "profile_url": "https://www.vinted.fr/member/225779075-tara-bricks",
+      "photo": {
+        "id": 206233604,
+        "width": 768,
+        "height": 768,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_00ca6_nVCMrm6jcX1jN1pLcDdjSfQB/f800/1725110234.jpeg?s=df23c36ab4eb7de1daa1cc5fe82594cddb86bb32",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_00ca6_nVCMrm6jcX1jN1pLcDdjSfQB/310x310/1725110234.jpeg?s=4d3dac09da31276503442ef49b14dae70cb6ed71",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_00ca6_nVCMrm6jcX1jN1pLcDdjSfQB/150x150/1725110234.jpeg?s=053036a3901b4b45099d383c0806e987a7b98ac6",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_00ca6_nVCMrm6jcX1jN1pLcDdjSfQB/100x100/1725110234.jpeg?s=b492cb58fcfcf9e82e1d366d5c3e3e64c1ba861e",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_00ca6_nVCMrm6jcX1jN1pLcDdjSfQB/50x50/1725110234.jpeg?s=3ef3f7f126686733553da3fa5dbbf0623a0f17f3",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_00ca6_nVCMrm6jcX1jN1pLcDdjSfQB/20x20/1725110234.jpeg?s=5a934825b363e8c8d960d7183e351224546c8c39",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_00ca6_nVCMrm6jcX1jN1pLcDdjSfQB",
+          "timestamp": 1725110234,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_00ca6_nVCMrm6jcX1jN1pLcDdjSfQB/1725110234.jpeg?s=726a5ec79135f0851c1c475790290575e9787d6c",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": true
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5956951000-lego-super-mario-71437-the-bowser-express-train",
+    "promoted": false,
+    "photo": {
+      "id": 24154988902,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#836170",
+      "dominant_color_opaque": "#DAD0D4",
+      "url": "https://images1.vinted.net/t/04_00fd6_ugrR8uJTuznrKtMjH6wEj7zN/f800/1741793863.jpeg?s=c9f8de244a3cf039a00cc92939ff9e2db2ee9807",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00fd6_ugrR8uJTuznrKtMjH6wEj7zN/70x100/1741793863.jpeg?s=f3a7b1b087f9eda29210f214af2f598c847e0819",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00fd6_ugrR8uJTuznrKtMjH6wEj7zN/150x210/1741793863.jpeg?s=e1959652ccafbb059c2f802cfc4ae8ba2f8b030a",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00fd6_ugrR8uJTuznrKtMjH6wEj7zN/310x430/1741793863.jpeg?s=105fb26f58abcb008fdc38e405d8ee9f52bcfc9e",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00fd6_ugrR8uJTuznrKtMjH6wEj7zN/f800/1741793863.jpeg?s=c9f8de244a3cf039a00cc92939ff9e2db2ee9807",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00fd6_ugrR8uJTuznrKtMjH6wEj7zN/f800/1741793863.jpeg?s=c9f8de244a3cf039a00cc92939ff9e2db2ee9807",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00fd6_ugrR8uJTuznrKtMjH6wEj7zN/f800/1741793863.jpeg?s=c9f8de244a3cf039a00cc92939ff9e2db2ee9807",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00fd6_ugrR8uJTuznrKtMjH6wEj7zN",
+        "timestamp": 1741793863,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00fd6_ugrR8uJTuznrKtMjH6wEj7zN/1741793863.jpeg?s=eb8f0459cc8c028e682ad18671107b1c66abcdc9",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 30,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.85",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "87.85",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "18-24 mois / 86 cm",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "18-24 mois / 86 cm · Neuf sans étiquette",
+      "accessibility_label": "Lego Super Mario 71437 The Bowser Express Train, marque: LEGO, état: Neuf sans étiquette, taille: 18-24 mois / 86 cm, 83,00 €, 87,85 € Protection acheteurs (Pro) incluse"
+    },
+    "search_tracking_params": {
+      "score": 37.03422,
+      "matched_queries": []
+    }
+  }
+]

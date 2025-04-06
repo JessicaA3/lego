@@ -1,0 +1,332 @@
+[
+  {
+    "id": 6066472862,
+    "title": "Lego Harry Potter 76446: Knight Bus Adventure, Nuevo.",
+    "price": {
+      "amount": "39.95",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6066472862-lego-harry-potter-76446-knight-bus-adventure-nuevo",
+    "user": {
+      "id": 169291523,
+      "login": "madridfashi0n",
+      "profile_url": "https://www.vinted.fr/member/169291523-madridfashi0n",
+      "photo": {
+        "id": 202230974,
+        "width": 800,
+        "height": 621,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/f800/1722511025.jpeg?s=e1636b548653ae1f7c2157a6ace37d22e466337f",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/310x310/1722511025.jpeg?s=16d2e6414a55975ba9d03c83b561958a253df1a6",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/150x150/1722511025.jpeg?s=78b97b7e6d07ca798d3ba232784e981316f892a7",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/100x100/1722511025.jpeg?s=bf27f08f62df7a763c1086027a44ad8fcfe83618",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/50x50/1722511025.jpeg?s=7708fbbf05b7824de46a4814b944fc29eecb7347",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/20x20/1722511025.jpeg?s=0d51923aff90a5bd87fb542cec6fb1320ef5cd35",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_01529_gM183jzkXhwDU6t74xKnhyHv",
+          "timestamp": 1722511025,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_01529_gM183jzkXhwDU6t74xKnhyHv/1722511025.jpeg?s=60c8a479bfcdcd2063bca32035b44bb03ff1b3dc",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": true
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6066472862-lego-harry-potter-76446-knight-bus-adventure-nuevo",
+    "promoted": false,
+    "photo": {
+      "id": 24610624139,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#615378",
+      "dominant_color_opaque": "#D0CBD7",
+      "url": "https://images1.vinted.net/t/04_018bf_W6v1CkapRfZf8oiSC142iiSW/f800/1743436143.jpeg?s=19f8a4a929a02981c2a4976730a04d5b1178a3e8",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_018bf_W6v1CkapRfZf8oiSC142iiSW/70x100/1743436143.jpeg?s=d1cd9cd2624aa5fccc007ff2c7e41a518ec084ca",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_018bf_W6v1CkapRfZf8oiSC142iiSW/150x210/1743436143.jpeg?s=dc068087bdb730d70fd799863ede5801fd691492",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_018bf_W6v1CkapRfZf8oiSC142iiSW/310x430/1743436143.jpeg?s=949ab35334c6e4b47be5ecf6eaf678e3a4a816e8",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_018bf_W6v1CkapRfZf8oiSC142iiSW/f800/1743436143.jpeg?s=19f8a4a929a02981c2a4976730a04d5b1178a3e8",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_018bf_W6v1CkapRfZf8oiSC142iiSW/f800/1743436143.jpeg?s=19f8a4a929a02981c2a4976730a04d5b1178a3e8",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_018bf_W6v1CkapRfZf8oiSC142iiSW/f800/1743436143.jpeg?s=19f8a4a929a02981c2a4976730a04d5b1178a3e8",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_018bf_W6v1CkapRfZf8oiSC142iiSW",
+        "timestamp": 1743436143,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_018bf_W6v1CkapRfZf8oiSC142iiSW/1743436143.jpeg?s=3fb0eeecf2de68faee03d54778b91422779ef805",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 7,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "2.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "42.65",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "Lego Harry Potter 76446: Knight Bus Adventure, Nuevo., marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 39,95 €, 42,65 € Protection acheteurs (Pro) incluse"
+    },
+    "search_tracking_params": {
+      "score": 37.868206,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6006813753,
+    "title": "Lego Harry Potter 76424+76446 (Flying Ford +Bus Adventure)",
+    "price": {
+      "amount": "65.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6006813753-lego-harry-potter-7642476446-flying-ford-bus-adventure",
+    "user": {
+      "id": 72306508,
+      "login": "tawa82",
+      "profile_url": "https://www.vinted.fr/member/72306508-tawa82",
+      "photo": {
+        "id": 73017575,
+        "width": 800,
+        "height": 540,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_01ac6_owa9cCUXwsF4DZUa3nqHRptG/f800/1637067100.jpeg?s=89a10759cab93346eb784da814130ab178b8fa3c",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_01ac6_owa9cCUXwsF4DZUa3nqHRptG/310x310/1637067100.jpeg?s=f15f6d62ce06cff63aa572bd991a686292d3ee3f",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_01ac6_owa9cCUXwsF4DZUa3nqHRptG/150x150/1637067100.jpeg?s=6919c9c9fdf1fe2fa65ee53d57420d3c6017ac84",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_01ac6_owa9cCUXwsF4DZUa3nqHRptG/100x100/1637067100.jpeg?s=b9942d37bfc513c16099cb9af4ae86e544adefa2",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_01ac6_owa9cCUXwsF4DZUa3nqHRptG/50x50/1637067100.jpeg?s=a9ec26cdb580cb23568f73f27d46ad1a55bb8c5f",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_01ac6_owa9cCUXwsF4DZUa3nqHRptG/20x20/1637067100.jpeg?s=81971346aae4ae3351baefda6b610560c60a768c",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_01ac6_owa9cCUXwsF4DZUa3nqHRptG",
+          "timestamp": 1637067100,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_01ac6_owa9cCUXwsF4DZUa3nqHRptG/1637067100.jpeg?s=abb1a292edeb99e211ff3c3c68953aedc11f3acb",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6006813753-lego-harry-potter-7642476446-flying-ford-bus-adventure",
+    "promoted": false,
+    "photo": {
+      "id": 24392189025,
+      "image_no": 1,
+      "width": 602,
+      "height": 800,
+      "dominant_color": "#3E487A",
+      "dominant_color_opaque": "#C5C8D7",
+      "url": "https://images1.vinted.net/t/03_01a28_48v88Far1fuFkkpu37Qk6dSJ/f800/1742661893.jpeg?s=ae7292d1af22302e29b5c2e5580720893ba4ae91",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_01a28_48v88Far1fuFkkpu37Qk6dSJ/70x100/1742661893.jpeg?s=6e2102c0d292679d3f6c4d0fdde288cb262cb586",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_01a28_48v88Far1fuFkkpu37Qk6dSJ/150x210/1742661893.jpeg?s=887b5392409bc66803f3c258d1dc157b190839f3",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_01a28_48v88Far1fuFkkpu37Qk6dSJ/310x430/1742661893.jpeg?s=562f10dace6f85623ba33e4fef41243a5f7c73ec",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_01a28_48v88Far1fuFkkpu37Qk6dSJ/f800/1742661893.jpeg?s=ae7292d1af22302e29b5c2e5580720893ba4ae91",
+          "width": 322,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_01a28_48v88Far1fuFkkpu37Qk6dSJ/f800/1742661893.jpeg?s=ae7292d1af22302e29b5c2e5580720893ba4ae91",
+          "width": 469,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_01a28_48v88Far1fuFkkpu37Qk6dSJ/f800/1742661893.jpeg?s=ae7292d1af22302e29b5c2e5580720893ba4ae91",
+          "width": 274,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_01a28_48v88Far1fuFkkpu37Qk6dSJ",
+        "timestamp": 1742661893,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_01a28_48v88Far1fuFkkpu37Qk6dSJ/1742661893.jpeg?s=92b1c5b2991f6bd230dfa7916332f98e7e2fbf09",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 8,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "3.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "68.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego Harry Potter 76424+76446 (Flying Ford +Bus Adventure), marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 65,00 €, 68,95 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 37.254776,
+      "matched_queries": []
+    }
+  }
+]

@@ -1,0 +1,3577 @@
+[
+  {
+    "id": 5997626677,
+    "title": "LEGO 77072 sin abrir",
+    "price": {
+      "amount": "72.5",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5997626677-lego-77072-sin-abrir",
+    "user": {
+      "id": 182962598,
+      "login": "yufuspain",
+      "profile_url": "https://www.vinted.fr/member/182962598-yufuspain",
+      "photo": {
+        "id": 178778201,
+        "width": 742,
+        "height": 742,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_004b7_1JjAiactpZVVULbhvuZCqyqb/f800/1706784764.jpeg?s=cf660784f51406a81766a8b8e8707fc0f6aeaa63",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_004b7_1JjAiactpZVVULbhvuZCqyqb/310x310/1706784764.jpeg?s=deeeaae9e494e666bcca76ac52d65115f217f0fd",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_004b7_1JjAiactpZVVULbhvuZCqyqb/150x150/1706784764.jpeg?s=2cbc17caaaa228fe47c4506d694a87c2efe51124",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_004b7_1JjAiactpZVVULbhvuZCqyqb/100x100/1706784764.jpeg?s=b9cd3d9c4687099d0f328346b8dbba302cea7851",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_004b7_1JjAiactpZVVULbhvuZCqyqb/50x50/1706784764.jpeg?s=a44d2789f73a18f227a975e559696491d65f91fa",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_004b7_1JjAiactpZVVULbhvuZCqyqb/20x20/1706784764.jpeg?s=76a3e22d6356cb428582605e2672fc7de018466e",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_004b7_1JjAiactpZVVULbhvuZCqyqb",
+          "timestamp": 1706784764,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_004b7_1JjAiactpZVVULbhvuZCqyqb/1706784764.jpeg?s=f58d52638fec6113e472919e3b682a03a6a9fd47",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5997626677-lego-77072-sin-abrir",
+    "promoted": false,
+    "photo": {
+      "id": 24323910031,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#896272",
+      "dominant_color_opaque": "#DCD0D5",
+      "url": "https://images1.vinted.net/t/03_025fd_jYGjPtU4VmVjWCw9efLXc9Ze/f800/1742398518.jpeg?s=137cc1f18a5dbaa1b66904763f2abbb725671269",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_025fd_jYGjPtU4VmVjWCw9efLXc9Ze/70x100/1742398518.jpeg?s=54e3ad71146c98737de0f20bfa6599bcf147c355",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_025fd_jYGjPtU4VmVjWCw9efLXc9Ze/150x210/1742398518.jpeg?s=5378fd630f2b2fc3f649d6d06affa8f59b4304eb",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_025fd_jYGjPtU4VmVjWCw9efLXc9Ze/310x430/1742398518.jpeg?s=8632c7c7e9c4f065718d1562a8f778cf6e4b6b32",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_025fd_jYGjPtU4VmVjWCw9efLXc9Ze/f800/1742398518.jpeg?s=137cc1f18a5dbaa1b66904763f2abbb725671269",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_025fd_jYGjPtU4VmVjWCw9efLXc9Ze/f800/1742398518.jpeg?s=137cc1f18a5dbaa1b66904763f2abbb725671269",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_025fd_jYGjPtU4VmVjWCw9efLXc9Ze/f800/1742398518.jpeg?s=137cc1f18a5dbaa1b66904763f2abbb725671269",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_025fd_jYGjPtU4VmVjWCw9efLXc9Ze",
+        "timestamp": 1742398518,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_025fd_jYGjPtU4VmVjWCw9efLXc9Ze/1742398518.jpeg?s=e5e289a905adcc4ffb69c635d76ae1ef8c7fd183",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 14,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.33",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "76.83",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Neuf avec étiquette",
+      "accessibility_label": "LEGO 77072 sin abrir, marque: LEGO, état: Neuf avec étiquette, 72,50 €, 76,83 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 2.136549234390259,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6084344668,
+    "title": "LEGO Fortnite 77072 Banane pelée",
+    "price": {
+      "amount": "70.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6084344668-lego-fortnite-77072-banane-pelee",
+    "user": {
+      "id": 193835149,
+      "login": "pdvdmfc",
+      "profile_url": "https://www.vinted.fr/member/193835149-pdvdmfc",
+      "photo": {
+        "id": 209559726,
+        "width": 216,
+        "height": 216,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_01c3d_v4CyyymcCeiHANVvpdmW3xjr/f800/1726901585.jpeg?s=5055136bfd4496ea91f894723ad861b98123466d",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_01c3d_v4CyyymcCeiHANVvpdmW3xjr/310x310/1726901585.jpeg?s=c20b4ce84d84233c09b10c1cac792166075ab0a0",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_01c3d_v4CyyymcCeiHANVvpdmW3xjr/150x150/1726901585.jpeg?s=2f3d134526e39e5e0b2864a910a5c86f5cadc715",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_01c3d_v4CyyymcCeiHANVvpdmW3xjr/100x100/1726901585.jpeg?s=096a81a069c8d0c01918ae202a5994c113d96986",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_01c3d_v4CyyymcCeiHANVvpdmW3xjr/50x50/1726901585.jpeg?s=f77bc615569144241adf664f34450c9156989f30",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_01c3d_v4CyyymcCeiHANVvpdmW3xjr/20x20/1726901585.jpeg?s=d615397369049459b843f53cb4de108e31d8fa22",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_01c3d_v4CyyymcCeiHANVvpdmW3xjr",
+          "timestamp": 1726901585,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_01c3d_v4CyyymcCeiHANVvpdmW3xjr/1726901585.jpeg?s=cc7c1825778e314da92851f61df9fbe276a69116",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6084344668-lego-fortnite-77072-banane-pelee",
+    "promoted": false,
+    "photo": {
+      "id": 24685225885,
+      "image_no": 1,
+      "width": 800,
+      "height": 466,
+      "dominant_color": "#705456",
+      "dominant_color_opaque": "#D4CCCC",
+      "url": "https://images1.vinted.net/t/04_022fb_wPCbKZvnpGqsY94wmnsS7kTB/f800/1743715943.jpeg?s=bb9af93d74c09e48007050add3c2f98c960dc8ab",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_022fb_wPCbKZvnpGqsY94wmnsS7kTB/70x100/1743715943.jpeg?s=8b990e39d2cec85cc7028fab8433f31de6aa2440",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_022fb_wPCbKZvnpGqsY94wmnsS7kTB/150x210/1743715943.jpeg?s=9b2383d98a69644cc2f95adc872dcba25f90f31c",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_022fb_wPCbKZvnpGqsY94wmnsS7kTB/310x430/1743715943.jpeg?s=b0f31ad81290d1c7d061f2431d9aaea1d13439f6",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_022fb_wPCbKZvnpGqsY94wmnsS7kTB/f800/1743715943.jpeg?s=bb9af93d74c09e48007050add3c2f98c960dc8ab",
+          "width": 428,
+          "height": 249,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_022fb_wPCbKZvnpGqsY94wmnsS7kTB/f800/1743715943.jpeg?s=bb9af93d74c09e48007050add3c2f98c960dc8ab",
+          "width": 624,
+          "height": 363,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_022fb_wPCbKZvnpGqsY94wmnsS7kTB/f800/1743715943.jpeg?s=bb9af93d74c09e48007050add3c2f98c960dc8ab",
+          "width": 364,
+          "height": 212,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_022fb_wPCbKZvnpGqsY94wmnsS7kTB",
+        "timestamp": 1743715943,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_022fb_wPCbKZvnpGqsY94wmnsS7kTB/1743715943.jpeg?s=199ca0d899964b8eb1293fa4238158b8dc8e91e5",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 7,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "74.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "LEGO Fortnite 77072 Banane pelée, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 70,00 €, 74,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 1.986668825149536,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5989774419,
+    "title": "Lego Fortnite 77072",
+    "price": {
+      "amount": "84.99",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5989774419-lego-fortnite-77072",
+    "user": {
+      "id": 60641947,
+      "login": "kolocotronis",
+      "profile_url": "https://www.vinted.fr/member/60641947-kolocotronis",
+      "photo": {
+        "id": 184019030,
+        "width": 800,
+        "height": 600,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_00651_hn1dgS11vSri852yx9vPHwmL/f800/1710338879.jpeg?s=1860cfbbcbd2f602fda60e8895f30e0971b7ca5b",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_00651_hn1dgS11vSri852yx9vPHwmL/310x310/1710338879.jpeg?s=d966935ed19fc5f54ddd43e78531cc2118d1a9c3",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_00651_hn1dgS11vSri852yx9vPHwmL/150x150/1710338879.jpeg?s=700ed31de3f4ae5afa9aa2cf416e4b8b05ef236f",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_00651_hn1dgS11vSri852yx9vPHwmL/100x100/1710338879.jpeg?s=cbed5193de5029a87c552ca9ed5bbff562a792f5",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_00651_hn1dgS11vSri852yx9vPHwmL/50x50/1710338879.jpeg?s=a834dfca0edb05ea4b5096e77aa993f7a224dd04",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_00651_hn1dgS11vSri852yx9vPHwmL/20x20/1710338879.jpeg?s=e5a9e1f551aae694dd640509b1852584cc9f80f7",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_00651_hn1dgS11vSri852yx9vPHwmL",
+          "timestamp": 1710338879,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_00651_hn1dgS11vSri852yx9vPHwmL/1710338879.jpeg?s=68313fd7e1e8302bb1da6836e9a3a86d1f053606",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5989774419-lego-fortnite-77072",
+    "promoted": false,
+    "photo": {
+      "id": 24291213894,
+      "image_no": 1,
+      "width": 534,
+      "height": 800,
+      "dominant_color": "#7E574C",
+      "dominant_color_opaque": "#D8CDC9",
+      "url": "https://images1.vinted.net/t/04_00334_aNy2EUmXDihFnp8Ka9RDZ8gr/f800/1742287212.jpeg?s=d1c710ab6e010b8b909f9642b078cc005cde3f0c",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00334_aNy2EUmXDihFnp8Ka9RDZ8gr/70x100/1742287212.jpeg?s=5be13484bcd41169c85f58a62a9ad4433ae8936b",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00334_aNy2EUmXDihFnp8Ka9RDZ8gr/150x210/1742287212.jpeg?s=d8b1306958cbde57760c5f2c5d34b8125e89c64f",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00334_aNy2EUmXDihFnp8Ka9RDZ8gr/310x430/1742287212.jpeg?s=b020c100291929ed4f9f2d249906797d6b89b62b",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00334_aNy2EUmXDihFnp8Ka9RDZ8gr/f800/1742287212.jpeg?s=d1c710ab6e010b8b909f9642b078cc005cde3f0c",
+          "width": 285,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00334_aNy2EUmXDihFnp8Ka9RDZ8gr/f800/1742287212.jpeg?s=d1c710ab6e010b8b909f9642b078cc005cde3f0c",
+          "width": 416,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00334_aNy2EUmXDihFnp8Ka9RDZ8gr/f800/1742287212.jpeg?s=d1c710ab6e010b8b909f9642b078cc005cde3f0c",
+          "width": 243,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00334_aNy2EUmXDihFnp8Ka9RDZ8gr",
+        "timestamp": 1742287212,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00334_aNy2EUmXDihFnp8Ka9RDZ8gr/1742287212.jpeg?s=2a5a0c8b8048267b8797ba73f11d605e6044a50a",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 9,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "89.94",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego Fortnite 77072, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 84,99 €, 89,94 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 1.794768810272217,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6003296564,
+    "title": "LEGO 77072 Peely Bone",
+    "price": {
+      "amount": "75.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6003296564-lego-77072-peely-bone",
+    "user": {
+      "id": 27705644,
+      "login": "kevincb177",
+      "profile_url": "https://www.vinted.fr/member/27705644-kevincb177",
+      "photo": null,
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6003296564-lego-77072-peely-bone",
+    "promoted": false,
+    "photo": {
+      "id": 24347736959,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#5A5359",
+      "dominant_color_opaque": "#CECBCD",
+      "url": "https://images1.vinted.net/t/04_00e9a_ERXZp4v2BhZ2doURrfRybpik/f800/1742491434.jpeg?s=12c0e5bda790d1b074b8eb9729b994bddeaf59af",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00e9a_ERXZp4v2BhZ2doURrfRybpik/70x100/1742491434.jpeg?s=0fb0db6c685be6520a1cdcd2c7c62a7c6bcd97cb",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00e9a_ERXZp4v2BhZ2doURrfRybpik/150x210/1742491434.jpeg?s=266ee4baa60087577b8f446aad4fa8796186835f",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00e9a_ERXZp4v2BhZ2doURrfRybpik/310x430/1742491434.jpeg?s=beb4d4bc38f3d0bee09dbc7eea2176c280bbdf05",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00e9a_ERXZp4v2BhZ2doURrfRybpik/f800/1742491434.jpeg?s=12c0e5bda790d1b074b8eb9729b994bddeaf59af",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00e9a_ERXZp4v2BhZ2doURrfRybpik/f800/1742491434.jpeg?s=12c0e5bda790d1b074b8eb9729b994bddeaf59af",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00e9a_ERXZp4v2BhZ2doURrfRybpik/f800/1742491434.jpeg?s=12c0e5bda790d1b074b8eb9729b994bddeaf59af",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00e9a_ERXZp4v2BhZ2doURrfRybpik",
+        "timestamp": 1742491434,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00e9a_ERXZp4v2BhZ2doURrfRybpik/1742491434.jpeg?s=ae29812deb93636eb85de16990d496dea8070b3e",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 23,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "79.45",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "LEGO 77072 Peely Bone, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 75,00 €, 79,45 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 1.721999645233154,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5783222467,
+    "title": "Neuf - Lego 77072",
+    "price": {
+      "amount": "94.9",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5783222467-neuf-lego-77072",
+    "user": {
+      "id": 252738403,
+      "login": "madeinbrick",
+      "profile_url": "https://www.vinted.fr/member/252738403-madeinbrick",
+      "photo": {
+        "id": 229612162,
+        "width": 600,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_00ae7_KnuTjpCFEBLnSU9xFroeki6t/f800/1739024425.jpeg?s=c0183e6f010b78392f6fcbb78830d9a2553b4f73",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_00ae7_KnuTjpCFEBLnSU9xFroeki6t/310x310/1739024425.jpeg?s=47ecd7a8c206bdf014e1dcc53be5815f3aee1da2",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_00ae7_KnuTjpCFEBLnSU9xFroeki6t/150x150/1739024425.jpeg?s=87f406991ffe4b086e189771e0d0e2c2a6a69e7b",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_00ae7_KnuTjpCFEBLnSU9xFroeki6t/100x100/1739024425.jpeg?s=805139cd386644b20708bb383aa510e7996f4be8",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_00ae7_KnuTjpCFEBLnSU9xFroeki6t/50x50/1739024425.jpeg?s=f64ffa2b236eb522efd155b5ceecaf3653b8cd80",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_00ae7_KnuTjpCFEBLnSU9xFroeki6t/20x20/1739024425.jpeg?s=8dbbbb69eccf3d79cdba7d40dbd1832482bbde94",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_00ae7_KnuTjpCFEBLnSU9xFroeki6t",
+          "timestamp": 1739024425,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_00ae7_KnuTjpCFEBLnSU9xFroeki6t/1739024425.jpeg?s=e1c7485fb27f7dca448f97d609396d7bf0532674",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5783222467-neuf-lego-77072",
+    "promoted": false,
+    "photo": {
+      "id": 23433572718,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#7C615B",
+      "dominant_color_opaque": "#D8D0CE",
+      "url": "https://images1.vinted.net/t/04_00f5d_qA5nQmiPnPwE9M7XWgmNDHTT/f800/1739026074.jpeg?s=6c97253095839ddf485bec9e38930a03982c6c31",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00f5d_qA5nQmiPnPwE9M7XWgmNDHTT/70x100/1739026074.jpeg?s=b27006bdd370d0e1b231bdb3154507da12825598",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00f5d_qA5nQmiPnPwE9M7XWgmNDHTT/150x210/1739026074.jpeg?s=4461d624bdeff95a12f2eb9d92bad9731b11990e",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00f5d_qA5nQmiPnPwE9M7XWgmNDHTT/310x430/1739026074.jpeg?s=d8de1ab6963e1400631c1c1d886886e2fcd8d5ef",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00f5d_qA5nQmiPnPwE9M7XWgmNDHTT/f800/1739026074.jpeg?s=6c97253095839ddf485bec9e38930a03982c6c31",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00f5d_qA5nQmiPnPwE9M7XWgmNDHTT/f800/1739026074.jpeg?s=6c97253095839ddf485bec9e38930a03982c6c31",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00f5d_qA5nQmiPnPwE9M7XWgmNDHTT/f800/1739026074.jpeg?s=6c97253095839ddf485bec9e38930a03982c6c31",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00f5d_qA5nQmiPnPwE9M7XWgmNDHTT",
+        "timestamp": 1739026074,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00f5d_qA5nQmiPnPwE9M7XWgmNDHTT/1739026074.jpeg?s=3f6b2bc6e9233ad3d19ba7fd00a99b8df3c2dad1",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 17,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "5.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "100.35",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Neuf - Lego 77072, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 94,90 €, 100,35 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 1.554300546646118,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5967755331,
+    "title": "Lego Fortnite 77072: Peely Bone",
+    "price": {
+      "amount": "74.95",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5967755331-lego-fortnite-77072-peely-bone",
+    "user": {
+      "id": 169291523,
+      "login": "madridfashi0n",
+      "profile_url": "https://www.vinted.fr/member/169291523-madridfashi0n",
+      "photo": {
+        "id": 202230974,
+        "width": 800,
+        "height": 621,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/f800/1722511025.jpeg?s=e1636b548653ae1f7c2157a6ace37d22e466337f",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/310x310/1722511025.jpeg?s=16d2e6414a55975ba9d03c83b561958a253df1a6",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/150x150/1722511025.jpeg?s=78b97b7e6d07ca798d3ba232784e981316f892a7",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/100x100/1722511025.jpeg?s=bf27f08f62df7a763c1086027a44ad8fcfe83618",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/50x50/1722511025.jpeg?s=7708fbbf05b7824de46a4814b944fc29eecb7347",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_01529_gM183jzkXhwDU6t74xKnhyHv/20x20/1722511025.jpeg?s=0d51923aff90a5bd87fb542cec6fb1320ef5cd35",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_01529_gM183jzkXhwDU6t74xKnhyHv",
+          "timestamp": 1722511025,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_01529_gM183jzkXhwDU6t74xKnhyHv/1722511025.jpeg?s=60c8a479bfcdcd2063bca32035b44bb03ff1b3dc",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": true
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5967755331-lego-fortnite-77072-peely-bone",
+    "promoted": false,
+    "photo": {
+      "id": 24200080475,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#7C4940",
+      "dominant_color_opaque": "#D8C8C6",
+      "url": "https://images1.vinted.net/t/04_0223a_FYPzDyotREHkeJdzL7o5FDDJ/f800/1741969532.jpeg?s=be4534d449ade08858d215a9e3c7c5b6d3aaade2",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_0223a_FYPzDyotREHkeJdzL7o5FDDJ/70x100/1741969532.jpeg?s=1842c2a1709e58ff53e94a4e4e4cec5979f8a399",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_0223a_FYPzDyotREHkeJdzL7o5FDDJ/150x210/1741969532.jpeg?s=aac41446ebb41867effdf0fc62b92cd8fcb312c3",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_0223a_FYPzDyotREHkeJdzL7o5FDDJ/310x430/1741969532.jpeg?s=2a415a3abf951fd0b21e7faaa43f1306390f8b7f",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_0223a_FYPzDyotREHkeJdzL7o5FDDJ/f800/1741969532.jpeg?s=be4534d449ade08858d215a9e3c7c5b6d3aaade2",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_0223a_FYPzDyotREHkeJdzL7o5FDDJ/f800/1741969532.jpeg?s=be4534d449ade08858d215a9e3c7c5b6d3aaade2",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_0223a_FYPzDyotREHkeJdzL7o5FDDJ/f800/1741969532.jpeg?s=be4534d449ade08858d215a9e3c7c5b6d3aaade2",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_0223a_FYPzDyotREHkeJdzL7o5FDDJ",
+        "timestamp": 1741969532,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_0223a_FYPzDyotREHkeJdzL7o5FDDJ/1741969532.jpeg?s=af2acf220d17d336937b4e8a775b4fe56889caa9",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 23,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "79.4",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "9 ans / 134 cm",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "9 ans / 134 cm · Neuf sans étiquette",
+      "accessibility_label": "Lego Fortnite 77072: Peely Bone, marque: LEGO, état: Neuf sans étiquette, taille: 9 ans / 134 cm, 74,95 €, 79,40 € Protection acheteurs (Pro) incluse"
+    },
+    "search_tracking_params": {
+      "score": 0.874070405960083,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5755944990,
+    "title": "Lego Fornite 77072 Peely Bone Nuovo",
+    "price": {
+      "amount": "110.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5755944990-lego-fornite-77072-peely-bone-nuovo",
+    "user": {
+      "id": 87033140,
+      "login": "nicoandre96",
+      "profile_url": "https://www.vinted.fr/member/87033140-nicoandre96",
+      "photo": {
+        "id": 86693582,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_0231b_XGqiKnpQgUZ8JHEXFybc675p/f800/1649848314.jpeg?s=54947f12a2de350c2439be1a3d3912082b4e2616",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_0231b_XGqiKnpQgUZ8JHEXFybc675p/310x310/1649848314.jpeg?s=50994c8ac688b1be5d0babc1d837b2cbf58d1388",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_0231b_XGqiKnpQgUZ8JHEXFybc675p/150x150/1649848314.jpeg?s=7fddad5732662066023a457caab17a8d68c6fec6",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_0231b_XGqiKnpQgUZ8JHEXFybc675p/100x100/1649848314.jpeg?s=1594d4a31ec3b65eea0361c519eb7acc66785d42",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_0231b_XGqiKnpQgUZ8JHEXFybc675p/50x50/1649848314.jpeg?s=8bddbb600ce2e65a82d6b5ecd1ec65f42aa26177",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_0231b_XGqiKnpQgUZ8JHEXFybc675p/20x20/1649848314.jpeg?s=5c9a2da422cf5ec2704f927cfc225f6d72e22870",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_0231b_XGqiKnpQgUZ8JHEXFybc675p",
+          "timestamp": 1649848314,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_0231b_XGqiKnpQgUZ8JHEXFybc675p/1649848314.jpeg?s=239699f8587cdb1499939c0355d4d6523a44a007",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5755944990-lego-fornite-77072-peely-bone-nuovo",
+    "promoted": false,
+    "photo": {
+      "id": 23319953908,
+      "image_no": 1,
+      "width": 612,
+      "height": 800,
+      "dominant_color": "#795B57",
+      "dominant_color_opaque": "#D7CECD",
+      "url": "https://images1.vinted.net/t/04_00602_TDudnJQrYUPZe6q6edQZnhZA/f800/1738539669.jpeg?s=9a08b4b7f8ce703ddd2561180abacffa872ae6ac",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00602_TDudnJQrYUPZe6q6edQZnhZA/70x100/1738539669.jpeg?s=4ce25ebe983f69f3f5c2c664040078a344a34b6e",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00602_TDudnJQrYUPZe6q6edQZnhZA/150x210/1738539669.jpeg?s=6448dd44d996fdc3b5f4bdee6bdef42c35c30245",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00602_TDudnJQrYUPZe6q6edQZnhZA/310x430/1738539669.jpeg?s=a748e82f4966a60e2071f921be814cd30739766a",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00602_TDudnJQrYUPZe6q6edQZnhZA/f800/1738539669.jpeg?s=9a08b4b7f8ce703ddd2561180abacffa872ae6ac",
+          "width": 327,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00602_TDudnJQrYUPZe6q6edQZnhZA/f800/1738539669.jpeg?s=9a08b4b7f8ce703ddd2561180abacffa872ae6ac",
+          "width": 477,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00602_TDudnJQrYUPZe6q6edQZnhZA/f800/1738539669.jpeg?s=9a08b4b7f8ce703ddd2561180abacffa872ae6ac",
+          "width": 278,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00602_TDudnJQrYUPZe6q6edQZnhZA",
+        "timestamp": 1738539669,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00602_TDudnJQrYUPZe6q6edQZnhZA/1738539669.jpeg?s=f18e5910b7dc5f2d16ec7fc564349104b7dda073",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 4,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "6.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "116.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Neuf avec étiquette",
+      "accessibility_label": "Lego Fornite 77072 Peely Bone Nuovo, marque: LEGO, état: Neuf avec étiquette, 110,00 €, 116,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 0.7079603672027588,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6008674487,
+    "title": "Lego 77072 Banano Pelado Fortnite",
+    "price": {
+      "amount": "79.99",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6008674487-lego-77072-banano-pelado-fortnite",
+    "user": {
+      "id": 42620787,
+      "login": "frandiazc",
+      "profile_url": "https://www.vinted.fr/member/42620787-frandiazc",
+      "photo": {
+        "id": 37454491,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/f800/1603647216.jpeg?s=c6619aeccb69d7ff0b701051c78355afb2647561",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/310x310/1603647216.jpeg?s=884b5c921c6597b36df1ca4ffddc1a8e5d289525",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/150x150/1603647216.jpeg?s=a200e05e00198fd966b5457696fb3c56974b6c15",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/100x100/1603647216.jpeg?s=123371ee6c098430a3b8079b737539f6d1a7b10d",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/50x50/1603647216.jpeg?s=1fbd538b9e04a4bacb6a0cbbe399123a1d79a9fc",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/20x20/1603647216.jpeg?s=6f7a14e56bc6763040e5cae77897dffb88a1a651",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_00874_TreRq3RtX8kW6ouRMEUNnmYV",
+          "timestamp": 1603647216,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/1603647216.jpeg?s=93e7c8753c185cb9adcb669e8b062088770e5662",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6008674487-lego-77072-banano-pelado-fortnite",
+    "promoted": false,
+    "photo": {
+      "id": 24370572306,
+      "image_no": 1,
+      "width": 602,
+      "height": 800,
+      "dominant_color": "#775859",
+      "dominant_color_opaque": "#D6CDCD",
+      "url": "https://images1.vinted.net/t/04_022d9_QKUPWeJjaM8TuDkFsFpJdvjc/f800/1742584410.jpeg?s=9ae387883c68d5224a60c2d67a23d46b42cdb3b9",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_022d9_QKUPWeJjaM8TuDkFsFpJdvjc/70x100/1742584410.jpeg?s=289acd569d34b44bb3424c33c2ae8f8f0ae2b661",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_022d9_QKUPWeJjaM8TuDkFsFpJdvjc/150x210/1742584410.jpeg?s=778ed5c1c1d193f9824cc71f1a8b0dc5da67f5a3",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_022d9_QKUPWeJjaM8TuDkFsFpJdvjc/310x430/1742584410.jpeg?s=7594e247fe39b04d65a274767d5d0e044a060007",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_022d9_QKUPWeJjaM8TuDkFsFpJdvjc/f800/1742584410.jpeg?s=9ae387883c68d5224a60c2d67a23d46b42cdb3b9",
+          "width": 322,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_022d9_QKUPWeJjaM8TuDkFsFpJdvjc/f800/1742584410.jpeg?s=9ae387883c68d5224a60c2d67a23d46b42cdb3b9",
+          "width": 469,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_022d9_QKUPWeJjaM8TuDkFsFpJdvjc/f800/1742584410.jpeg?s=9ae387883c68d5224a60c2d67a23d46b42cdb3b9",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_022d9_QKUPWeJjaM8TuDkFsFpJdvjc",
+        "timestamp": 1742584410,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_022d9_QKUPWeJjaM8TuDkFsFpJdvjc/1742584410.jpeg?s=9e19b5795f50effe7bfed832300772a64c9dcbe5",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 8,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "84.69",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 77072 Banano Pelado Fortnite, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 79,99 €, 84,69 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.007266108877956867,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6014114041,
+    "title": "Lego Fortnite - Banano Pelado - 77072",
+    "price": {
+      "amount": "80.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6014114041-lego-fortnite-banano-pelado-77072",
+    "user": {
+      "id": 197845799,
+      "login": "angelillou93",
+      "profile_url": "https://www.vinted.fr/member/197845799-angelillou93",
+      "photo": {
+        "id": 227306455,
+        "width": 600,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_01c42_xPK8rHbuS6WVUsREgkjmcc3p/f800/1737560477.jpeg?s=a1c132ff66e6bfbc624d5595e93c1190fc93ab18",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_01c42_xPK8rHbuS6WVUsREgkjmcc3p/310x310/1737560477.jpeg?s=28c783acc8e151ba8d811028858b7131db859641",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_01c42_xPK8rHbuS6WVUsREgkjmcc3p/150x150/1737560477.jpeg?s=5a59aeb6ed532ffc27678f1e214760a3449e9439",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_01c42_xPK8rHbuS6WVUsREgkjmcc3p/100x100/1737560477.jpeg?s=63c3a673f1041e5f38dac80d820faadfbfa95746",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_01c42_xPK8rHbuS6WVUsREgkjmcc3p/50x50/1737560477.jpeg?s=afc8623f9605ce49c3ce43b90f8e10c6f4fa5d22",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_01c42_xPK8rHbuS6WVUsREgkjmcc3p/20x20/1737560477.jpeg?s=400669606dd638da2bc58eed405463d12a27158c",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_01c42_xPK8rHbuS6WVUsREgkjmcc3p",
+          "timestamp": 1737560477,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_01c42_xPK8rHbuS6WVUsREgkjmcc3p/1737560477.jpeg?s=c4d8cdb86ca2a797bf33bf2271f1c92d76e27b94",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6014114041-lego-fortnite-banano-pelado-77072",
+    "promoted": false,
+    "photo": {
+      "id": 24393385964,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#8A8C8E",
+      "dominant_color_opaque": "#DCDDDD",
+      "url": "https://images1.vinted.net/t/02_01016_32xJ2V22S1Gf3cQ5XPtoPhfL/f800/1742664068.jpeg?s=bfe84c5d42eb6688db5646d15eea45ee7562fef2",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_01016_32xJ2V22S1Gf3cQ5XPtoPhfL/70x100/1742664068.jpeg?s=9f799bdbec2ae671d2a958b22e718bd57c3ab765",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_01016_32xJ2V22S1Gf3cQ5XPtoPhfL/150x210/1742664068.jpeg?s=2eef8439b7f5d1a9581a250657976af134c20971",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_01016_32xJ2V22S1Gf3cQ5XPtoPhfL/310x430/1742664068.jpeg?s=bfb6d50f2a922a4ce34b1585afdce5d6ea8af23f",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_01016_32xJ2V22S1Gf3cQ5XPtoPhfL/f800/1742664068.jpeg?s=bfe84c5d42eb6688db5646d15eea45ee7562fef2",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_01016_32xJ2V22S1Gf3cQ5XPtoPhfL/f800/1742664068.jpeg?s=bfe84c5d42eb6688db5646d15eea45ee7562fef2",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_01016_32xJ2V22S1Gf3cQ5XPtoPhfL/f800/1742664068.jpeg?s=bfe84c5d42eb6688db5646d15eea45ee7562fef2",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_01016_32xJ2V22S1Gf3cQ5XPtoPhfL",
+        "timestamp": 1742664068,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_01016_32xJ2V22S1Gf3cQ5XPtoPhfL/1742664068.jpeg?s=378d96ffb25845925fcdbf8a2d9956cdf0881855",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 8,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "84.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego Fortnite - Banano Pelado - 77072, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 80,00 €, 84,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.02206176891922951,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5631143662,
+    "title": "LEGO Fortnite Banane pelée (77072) Boite neuve et scellée",
+    "price": {
+      "amount": "95.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5631143662-lego-fortnite-banane-pelee-77072-boite-neuve-et-scellee",
+    "user": {
+      "id": 220293151,
+      "login": "lea.didier73793",
+      "profile_url": "https://www.vinted.fr/member/220293151-leadidier73793",
+      "photo": {
+        "id": 236909295,
+        "width": 360,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_01c1b_LscUH11QHWFwMggr6bcXJ5Pp/f800/1743154462.jpeg?s=9d61730fd0da48cdbb1282918b59d131e26c413f",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_01c1b_LscUH11QHWFwMggr6bcXJ5Pp/310x310/1743154462.jpeg?s=995d7d40842d7b5e16dad642d1afb31a01a3c804",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_01c1b_LscUH11QHWFwMggr6bcXJ5Pp/150x150/1743154462.jpeg?s=9d024395d17e88f551287e7ff0be22f5ebced82c",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_01c1b_LscUH11QHWFwMggr6bcXJ5Pp/100x100/1743154462.jpeg?s=cf49759adf4b745e5e8c16e5033bec76bb19d1e0",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_01c1b_LscUH11QHWFwMggr6bcXJ5Pp/50x50/1743154462.jpeg?s=ef0aaaa9aa4ccfe710270a5d5e8bf20f5c1cf144",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_01c1b_LscUH11QHWFwMggr6bcXJ5Pp/20x20/1743154462.jpeg?s=015ee6c9125053381fbd9430ac9df5d02edcce7c",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_01c1b_LscUH11QHWFwMggr6bcXJ5Pp",
+          "timestamp": 1743154462,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_01c1b_LscUH11QHWFwMggr6bcXJ5Pp/1743154462.jpeg?s=145bedfa934ad3aa53a195dff639af04c7edb51b",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5631143662-lego-fortnite-banane-pelee-77072-boite-neuve-et-scellee",
+    "promoted": false,
+    "photo": {
+      "id": 22806810991,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#69514A",
+      "dominant_color_opaque": "#D2CBC9",
+      "url": "https://images1.vinted.net/t/03_0219b_5CxzTn1g3hmGn1jL1Sk934sx/f800/1736528276.jpeg?s=0a58b92c0fbf2cbe9cfcd4a4964711b4be23a190",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_0219b_5CxzTn1g3hmGn1jL1Sk934sx/70x100/1736528276.jpeg?s=76e923db654c6491e9c2c4b726e027048bfba9cf",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_0219b_5CxzTn1g3hmGn1jL1Sk934sx/150x210/1736528276.jpeg?s=c3102bcef370d7898aef593c5241c66c7ec7c83e",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_0219b_5CxzTn1g3hmGn1jL1Sk934sx/310x430/1736528276.jpeg?s=59e92e18633bdf272d44117fc401de447859b996",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_0219b_5CxzTn1g3hmGn1jL1Sk934sx/f800/1736528276.jpeg?s=0a58b92c0fbf2cbe9cfcd4a4964711b4be23a190",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_0219b_5CxzTn1g3hmGn1jL1Sk934sx/f800/1736528276.jpeg?s=0a58b92c0fbf2cbe9cfcd4a4964711b4be23a190",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_0219b_5CxzTn1g3hmGn1jL1Sk934sx/f800/1736528276.jpeg?s=0a58b92c0fbf2cbe9cfcd4a4964711b4be23a190",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_0219b_5CxzTn1g3hmGn1jL1Sk934sx",
+        "timestamp": 1736528276,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_0219b_5CxzTn1g3hmGn1jL1Sk934sx/1736528276.jpeg?s=f292b7a994030e468d82adda4a0a8ac5c3987fbd",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 32,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "5.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "100.45",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "LEGO Fortnite Banane pelée (77072) Boite neuve et scellée, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 95,00 €, 100,45 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.0285960491746664,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6092709036,
+    "title": "Lego 77072",
+    "price": {
+      "amount": "69.95",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6092709036-lego-77072",
+    "user": {
+      "id": 52502099,
+      "login": "cristinagr123",
+      "profile_url": "https://www.vinted.fr/member/52502099-cristinagr123",
+      "photo": {
+        "id": 48449912,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_004c4_guDfMBtenMoGqgGBYGP9eYLB/f800/1612739121.jpeg?s=1e9144df6ea116da7d238c7dc733820b6e2a2d7c",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_004c4_guDfMBtenMoGqgGBYGP9eYLB/310x310/1612739121.jpeg?s=72346ff08480716d29ac89c1dba637154766f385",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_004c4_guDfMBtenMoGqgGBYGP9eYLB/150x150/1612739121.jpeg?s=eda47bc3930c039c80bb804ab09095459f68e031",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_004c4_guDfMBtenMoGqgGBYGP9eYLB/100x100/1612739121.jpeg?s=084ce43fa724837e4723ae7b6c5c3556ec7c3d4f",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_004c4_guDfMBtenMoGqgGBYGP9eYLB/50x50/1612739121.jpeg?s=8a3a28d73a8cbd85407c3961b866a6f696e54281",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_004c4_guDfMBtenMoGqgGBYGP9eYLB/20x20/1612739121.jpeg?s=9bbaa2db58ad1f7bb3081e50025903e3491cc64f",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_004c4_guDfMBtenMoGqgGBYGP9eYLB",
+          "timestamp": 1612739121,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_004c4_guDfMBtenMoGqgGBYGP9eYLB/1612739121.jpeg?s=672d4092873c15be5cd4c5d264be5aaa132c8d77",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6092709036-lego-77072",
+    "promoted": false,
+    "photo": {
+      "id": 24720710942,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#806654",
+      "dominant_color_opaque": "#D9D1CC",
+      "url": "https://images1.vinted.net/t/04_00932_bn7yxTg8HzS6jYEAsu5TzWtr/f800/1743865757.jpeg?s=baa81bf29165550e268751bab671892b3e919b35",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00932_bn7yxTg8HzS6jYEAsu5TzWtr/70x100/1743865757.jpeg?s=2c25f57623b719687f6bd81b6c1c5c146170e38e",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00932_bn7yxTg8HzS6jYEAsu5TzWtr/150x210/1743865757.jpeg?s=475841b50e5465c9b955a2012b7eed1e9dd34cba",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00932_bn7yxTg8HzS6jYEAsu5TzWtr/310x430/1743865757.jpeg?s=1721fbe95f30bc36842aa3c1197349e6115b5793",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00932_bn7yxTg8HzS6jYEAsu5TzWtr/f800/1743865757.jpeg?s=baa81bf29165550e268751bab671892b3e919b35",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00932_bn7yxTg8HzS6jYEAsu5TzWtr/f800/1743865757.jpeg?s=baa81bf29165550e268751bab671892b3e919b35",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00932_bn7yxTg8HzS6jYEAsu5TzWtr/f800/1743865757.jpeg?s=baa81bf29165550e268751bab671892b3e919b35",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00932_bn7yxTg8HzS6jYEAsu5TzWtr",
+        "timestamp": 1743865757,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00932_bn7yxTg8HzS6jYEAsu5TzWtr/1743865757.jpeg?s=f8905dbc126597259d6748f60d2530a606558b69",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 4,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "74.15",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "Lego 77072, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 69,95 €, 74,15 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.04339887574315071,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5873848697,
+    "title": "Lego set 77072 Peely Bone (MISB)",
+    "price": {
+      "amount": "89.99",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5873848697-lego-set-77072-peely-bone-misb",
+    "user": {
+      "id": 121491795,
+      "login": "martijn3d",
+      "profile_url": "https://www.vinted.fr/member/121491795-martijn3d",
+      "photo": {
+        "id": 231970427,
+        "width": 600,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_01ff4_XAPa13WzN65FEvDQ1BYmeCCA/f800/1740410906.jpeg?s=2760143652acf90c7393b923f0544759a3b7f4b5",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_01ff4_XAPa13WzN65FEvDQ1BYmeCCA/310x310/1740410906.jpeg?s=694e4ce72d28c01a1521185e1b23c8440d17d45c",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_01ff4_XAPa13WzN65FEvDQ1BYmeCCA/150x150/1740410906.jpeg?s=118381d23500dda1c267a8c5e3a30caebcf9a048",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_01ff4_XAPa13WzN65FEvDQ1BYmeCCA/100x100/1740410906.jpeg?s=1882fad93424007ff77862273ad609f85dc1bbc7",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_01ff4_XAPa13WzN65FEvDQ1BYmeCCA/50x50/1740410906.jpeg?s=26512c7ce7e6b2467e2162913a4c3331db20bcf5",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_01ff4_XAPa13WzN65FEvDQ1BYmeCCA/20x20/1740410906.jpeg?s=75fb31ebb7e9ac454988aaddb400108ca097cc55",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_01ff4_XAPa13WzN65FEvDQ1BYmeCCA",
+          "timestamp": 1740410906,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_01ff4_XAPa13WzN65FEvDQ1BYmeCCA/1740410906.jpeg?s=efeb102d1878f430531c2f2d3c2ff2866fe71d15",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5873848697-lego-set-77072-peely-bone-misb",
+    "promoted": false,
+    "photo": {
+      "id": 23808721221,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#695348",
+      "dominant_color_opaque": "#D2CBC8",
+      "url": "https://images1.vinted.net/t/04_00c23_ZsvGGt2Swd1U3a4yLhLqezyQ/f800/1740436796.jpeg?s=12d76f4afb8c8bef2560f639310d70ac591413dd",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00c23_ZsvGGt2Swd1U3a4yLhLqezyQ/70x100/1740436796.jpeg?s=e6fac595d8497056601afb4323bedbe977332af4",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00c23_ZsvGGt2Swd1U3a4yLhLqezyQ/150x210/1740436796.jpeg?s=c5146aa07c0846fe818a7be7c5401a4463cb0322",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00c23_ZsvGGt2Swd1U3a4yLhLqezyQ/310x430/1740436796.jpeg?s=7b9227d9d909c4f0fbd9ede8f408da98400a8ab2",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00c23_ZsvGGt2Swd1U3a4yLhLqezyQ/f800/1740436796.jpeg?s=12d76f4afb8c8bef2560f639310d70ac591413dd",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00c23_ZsvGGt2Swd1U3a4yLhLqezyQ/f800/1740436796.jpeg?s=12d76f4afb8c8bef2560f639310d70ac591413dd",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00c23_ZsvGGt2Swd1U3a4yLhLqezyQ/f800/1740436796.jpeg?s=12d76f4afb8c8bef2560f639310d70ac591413dd",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00c23_ZsvGGt2Swd1U3a4yLhLqezyQ",
+        "timestamp": 1740436796,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00c23_ZsvGGt2Swd1U3a4yLhLqezyQ/1740436796.jpeg?s=7272519e40fda5089e208472525ad5100b275a34",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 0,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "5.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "95.19",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "Lego set 77072 Peely Bone (MISB), marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 89,99 €, 95,19 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.1923454403877258,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6014792152,
+    "title": "Lego 77072",
+    "price": {
+      "amount": "85.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6014792152-lego-77072",
+    "user": {
+      "id": 75016311,
+      "login": "fabio88fe",
+      "profile_url": "https://www.vinted.fr/member/75016311-fabio88fe",
+      "photo": {
+        "id": 145056774,
+        "width": 800,
+        "height": 460,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_013af_xtsCtqzZUX4JfGTTKyTqiCB3/f800/1686596097.jpeg?s=e8f266bba403a506f1daa9f0c1a51a9a75a4222e",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_013af_xtsCtqzZUX4JfGTTKyTqiCB3/310x310/1686596097.jpeg?s=db5f4a47b8535c1146c89d96a4dcd454c4268c9a",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_013af_xtsCtqzZUX4JfGTTKyTqiCB3/150x150/1686596097.jpeg?s=fa54178ff0078beab234911b5be1a7e8b8bcd4d0",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_013af_xtsCtqzZUX4JfGTTKyTqiCB3/100x100/1686596097.jpeg?s=e0262dd3bc8e6cc07a9eef08f26f3493142327a9",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_013af_xtsCtqzZUX4JfGTTKyTqiCB3/50x50/1686596097.jpeg?s=d95d7390b2dc864b6f7ec7420e4cb7062f78241f",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_013af_xtsCtqzZUX4JfGTTKyTqiCB3/20x20/1686596097.jpeg?s=24964190ccc99048075fd772d8830db7fc76f2d2",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_013af_xtsCtqzZUX4JfGTTKyTqiCB3",
+          "timestamp": 1686596097,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_013af_xtsCtqzZUX4JfGTTKyTqiCB3/1686596097.jpeg?s=a50452d78f1ddb97578038242cf24748b50fea10",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6014792152-lego-77072",
+    "promoted": false,
+    "photo": {
+      "id": 24396216510,
+      "image_no": 1,
+      "width": 524,
+      "height": 800,
+      "dominant_color": "#5A4130",
+      "dominant_color_opaque": "#CEC6C1",
+      "url": "https://images1.vinted.net/t/02_02360_sQso4uuBmrgxqDFWWoJA7dM4/f800/1742670550.jpeg?s=f5542f6f001240ce002f60e7aea78b15a41c532b",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_02360_sQso4uuBmrgxqDFWWoJA7dM4/70x100/1742670550.jpeg?s=ee555f73497d688d6d620dc721aa03003dd7ac76",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_02360_sQso4uuBmrgxqDFWWoJA7dM4/150x210/1742670550.jpeg?s=efed14a059ddd515945b500761f26bde2b63877b",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_02360_sQso4uuBmrgxqDFWWoJA7dM4/310x430/1742670550.jpeg?s=6bc5b98027c1817ca342f5d944faacc1e27387ae",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_02360_sQso4uuBmrgxqDFWWoJA7dM4/f800/1742670550.jpeg?s=f5542f6f001240ce002f60e7aea78b15a41c532b",
+          "width": 280,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_02360_sQso4uuBmrgxqDFWWoJA7dM4/f800/1742670550.jpeg?s=f5542f6f001240ce002f60e7aea78b15a41c532b",
+          "width": 409,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_02360_sQso4uuBmrgxqDFWWoJA7dM4/f800/1742670550.jpeg?s=f5542f6f001240ce002f60e7aea78b15a41c532b",
+          "width": 238,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_02360_sQso4uuBmrgxqDFWWoJA7dM4",
+        "timestamp": 1742670550,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_02360_sQso4uuBmrgxqDFWWoJA7dM4/1742670550.jpeg?s=818e44effb8b01d76a0a6acb175d61597b654745",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 7,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "89.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 77072, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 85,00 €, 89,95 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.208597406744957,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5808579916,
+    "title": "Lego 77072 - Fortnite Peely Bone",
+    "price": {
+      "amount": "89.9",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5808579916-lego-77072-fortnite-peely-bone",
+    "user": {
+      "id": 249863438,
+      "login": "manuescano",
+      "profile_url": "https://www.vinted.fr/member/249863438-manuescano",
+      "photo": {
+        "id": 227783923,
+        "width": 800,
+        "height": 380,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_00aca_svHHSBrgS6gp2U64qqLDMZiV/f800/1737882633.jpeg?s=d24e770d10ce00ccb9b157b888dfb97cf8886675",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_00aca_svHHSBrgS6gp2U64qqLDMZiV/310x310/1737882633.jpeg?s=85e39ec0b69a906f7a98540e40eaea97014713a5",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_00aca_svHHSBrgS6gp2U64qqLDMZiV/150x150/1737882633.jpeg?s=1dcd805c278866b6f8a0ac34b3faa345fe850e55",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_00aca_svHHSBrgS6gp2U64qqLDMZiV/100x100/1737882633.jpeg?s=29694ccf5b76f2879558210d9f781f6f4af7d7bd",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_00aca_svHHSBrgS6gp2U64qqLDMZiV/50x50/1737882633.jpeg?s=6b92bca9dfc06d4532b673d078b8a21963877e5c",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_00aca_svHHSBrgS6gp2U64qqLDMZiV/20x20/1737882633.jpeg?s=a8814385d216a5b8c7352d566bad3e527a81c7ab",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_00aca_svHHSBrgS6gp2U64qqLDMZiV",
+          "timestamp": 1737882633,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_00aca_svHHSBrgS6gp2U64qqLDMZiV/1737882633.jpeg?s=0fdc52e9bf93e7925651b847980d49203798d96d",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5808579916-lego-77072-fortnite-peely-bone",
+    "promoted": false,
+    "photo": {
+      "id": 23537857665,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#694A3A",
+      "dominant_color_opaque": "#D2C9C4",
+      "url": "https://images1.vinted.net/t/04_01616_uZExKYB6AXgkqXPSrHvDqJz9/f800/1739400877.jpeg?s=8049f70d05efe80fcbda4a6ac8df3d166bdc54d0",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01616_uZExKYB6AXgkqXPSrHvDqJz9/70x100/1739400877.jpeg?s=cc639b53e62610a8b69e0d42675f0b6cb356a264",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01616_uZExKYB6AXgkqXPSrHvDqJz9/150x210/1739400877.jpeg?s=ead12d82bee1a71219b9a2628a594b5e55b2d9a5",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01616_uZExKYB6AXgkqXPSrHvDqJz9/310x430/1739400877.jpeg?s=86af1b0afc033adada4d3d3149194916b4b63487",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01616_uZExKYB6AXgkqXPSrHvDqJz9/f800/1739400877.jpeg?s=8049f70d05efe80fcbda4a6ac8df3d166bdc54d0",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01616_uZExKYB6AXgkqXPSrHvDqJz9/f800/1739400877.jpeg?s=8049f70d05efe80fcbda4a6ac8df3d166bdc54d0",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01616_uZExKYB6AXgkqXPSrHvDqJz9/f800/1739400877.jpeg?s=8049f70d05efe80fcbda4a6ac8df3d166bdc54d0",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01616_uZExKYB6AXgkqXPSrHvDqJz9",
+        "timestamp": 1739400877,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01616_uZExKYB6AXgkqXPSrHvDqJz9/1739400877.jpeg?s=2cd22ccbdb01774ddcfd65435fdee6dc7c0a69a1",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 7,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "5.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "95.1",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "16 ans / 176 cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "16 ans / 176 cm · Neuf avec étiquette",
+      "accessibility_label": "Lego 77072 - Fortnite Peely Bone, marque: LEGO, état: Neuf avec étiquette, taille: 16 ans / 176 cm, 89,90 €, 95,10 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.1217031702399254,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5686344706,
+    "title": "Lego Fornite Peely Bone Modelo: 77072",
+    "price": {
+      "amount": "139.99",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5686344706-lego-fornite-peely-bone-modelo-77072",
+    "user": {
+      "id": 180249200,
+      "login": "lilith2715",
+      "profile_url": "https://www.vinted.fr/member/180249200-lilith2715",
+      "photo": {
+        "id": 179586562,
+        "width": 799,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_01cfc_M8o847fx8KRmd4FN4aQsbtjK/f800/1707324451.jpeg?s=45ff21bbc9c6508226efad464ae74b4b9c98225c",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_01cfc_M8o847fx8KRmd4FN4aQsbtjK/310x310/1707324451.jpeg?s=d1ee8d4ac33eabbef225a345f4220e7cbfea653e",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_01cfc_M8o847fx8KRmd4FN4aQsbtjK/150x150/1707324451.jpeg?s=855053fe26980456cb39d0ee5a17390143ec65b7",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_01cfc_M8o847fx8KRmd4FN4aQsbtjK/100x100/1707324451.jpeg?s=a766f63c00db6de8ab503fcc245f784360302d39",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_01cfc_M8o847fx8KRmd4FN4aQsbtjK/50x50/1707324451.jpeg?s=83e3926ec30ba86664a0d87f0745d16cbc7a0d61",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_01cfc_M8o847fx8KRmd4FN4aQsbtjK/20x20/1707324451.jpeg?s=d5d078e24880b650976a2feca52559fe7aec93b4",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_01cfc_M8o847fx8KRmd4FN4aQsbtjK",
+          "timestamp": 1707324451,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_01cfc_M8o847fx8KRmd4FN4aQsbtjK/1707324451.jpeg?s=bb31f2bc559bcb9346cd0d8fdd6172efe4efbb4d",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5686344706-lego-fornite-peely-bone-modelo-77072",
+    "promoted": false,
+    "photo": {
+      "id": 23032390088,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#896F5D",
+      "dominant_color_opaque": "#DCD4CE",
+      "url": "https://images1.vinted.net/t/02_003b0_GGh3ViuMCmGMrAfZubPBuiJE/f800/1737407909.jpeg?s=e1de1cc7b21c0e4bca97b5792113db9ac36441cb",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_003b0_GGh3ViuMCmGMrAfZubPBuiJE/70x100/1737407909.jpeg?s=09dca6a5f116199c6698289c68483a4c3458bca1",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_003b0_GGh3ViuMCmGMrAfZubPBuiJE/150x210/1737407909.jpeg?s=19633f9a62c1010c03b488e8a6a6f8985d331377",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_003b0_GGh3ViuMCmGMrAfZubPBuiJE/310x430/1737407909.jpeg?s=40e9b1e87f33b25fee76d2fbeaf6c99197f35b67",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_003b0_GGh3ViuMCmGMrAfZubPBuiJE/f800/1737407909.jpeg?s=e1de1cc7b21c0e4bca97b5792113db9ac36441cb",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_003b0_GGh3ViuMCmGMrAfZubPBuiJE/f800/1737407909.jpeg?s=e1de1cc7b21c0e4bca97b5792113db9ac36441cb",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_003b0_GGh3ViuMCmGMrAfZubPBuiJE/f800/1737407909.jpeg?s=e1de1cc7b21c0e4bca97b5792113db9ac36441cb",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_003b0_GGh3ViuMCmGMrAfZubPBuiJE",
+        "timestamp": 1737407909,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_003b0_GGh3ViuMCmGMrAfZubPBuiJE/1737407909.jpeg?s=d3485a768eb0a4bbe30086457a5177e9c2cdfb5b",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 2,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "7.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "147.69",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "Lego Fornite Peely Bone Modelo: 77072, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 139,99 €, 147,69 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.2636639475822449,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5691843804,
+    "title": "Peely Bone 77072",
+    "price": {
+      "amount": "85.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5691843804-peely-bone-77072",
+    "user": {
+      "id": 85238545,
+      "login": "messalines",
+      "profile_url": "https://www.vinted.fr/member/85238545-messalines",
+      "photo": {
+        "id": 87629375,
+        "width": 800,
+        "height": 600,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_00151_wt7aar8PYLuG1Ha6pXUw13pe/f800/1650718639.jpeg?s=5d6e0abeb70f5745cf27de34d54050345bd52b69",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_00151_wt7aar8PYLuG1Ha6pXUw13pe/310x310/1650718639.jpeg?s=b95738cb70f277073174516e3c5106531133a8cd",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_00151_wt7aar8PYLuG1Ha6pXUw13pe/150x150/1650718639.jpeg?s=9976fffdb756905d4cdcbf497436df5c5bcef34d",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_00151_wt7aar8PYLuG1Ha6pXUw13pe/100x100/1650718639.jpeg?s=8445ef91b268fc848dae5c2ffcdffcdbb0db373c",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_00151_wt7aar8PYLuG1Ha6pXUw13pe/50x50/1650718639.jpeg?s=e9d692530b30c7d5d9a21bb26e9eab61e4960dda",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_00151_wt7aar8PYLuG1Ha6pXUw13pe/20x20/1650718639.jpeg?s=5217cde97b7f39b6b270f385e40ec0c0ed48bcf7",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_00151_wt7aar8PYLuG1Ha6pXUw13pe",
+          "timestamp": 1650718639,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_00151_wt7aar8PYLuG1Ha6pXUw13pe/1650718639.jpeg?s=d4ec640a2ca2c712871bc7db5e44c23c633d6716",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5691843804-peely-bone-77072",
+    "promoted": false,
+    "photo": {
+      "id": 23054843875,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#776562",
+      "dominant_color_opaque": "#D6D1D0",
+      "url": "https://images1.vinted.net/t/03_01ebf_2djCizZ9vR4d3TbaWQ3njqRX/f800/1737530107.jpeg?s=04de0f050c01116b745fbda8b104ff2f4ee2e40c",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_01ebf_2djCizZ9vR4d3TbaWQ3njqRX/70x100/1737530107.jpeg?s=4bffbcd7ee6a9d44bf992b1ce5d24570d7fedaaa",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_01ebf_2djCizZ9vR4d3TbaWQ3njqRX/150x210/1737530107.jpeg?s=6549dac2dc7151161b6e22ffa06cf62b4033662a",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_01ebf_2djCizZ9vR4d3TbaWQ3njqRX/310x430/1737530107.jpeg?s=ca108cea14a35e051b5a748f40ef327ff55c8c74",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_01ebf_2djCizZ9vR4d3TbaWQ3njqRX/f800/1737530107.jpeg?s=04de0f050c01116b745fbda8b104ff2f4ee2e40c",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_01ebf_2djCizZ9vR4d3TbaWQ3njqRX/f800/1737530107.jpeg?s=04de0f050c01116b745fbda8b104ff2f4ee2e40c",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_01ebf_2djCizZ9vR4d3TbaWQ3njqRX/f800/1737530107.jpeg?s=04de0f050c01116b745fbda8b104ff2f4ee2e40c",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_01ebf_2djCizZ9vR4d3TbaWQ3njqRX",
+        "timestamp": 1737530107,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_01ebf_2djCizZ9vR4d3TbaWQ3njqRX/1737530107.jpeg?s=b32ac884300df44789efeef703b783ea00b5f2ef",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 6,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "89.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "16 ans / 176 cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "16 ans / 176 cm · Neuf avec étiquette",
+      "accessibility_label": "Peely Bone 77072, marque: LEGO, état: Neuf avec étiquette, taille: 16 ans / 176 cm, 85,00 €, 89,95 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.2814203202724457,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6005931022,
+    "title": "Set Lego 77072 - Banano Fortnite",
+    "price": {
+      "amount": "89.99",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6005931022-set-lego-77072-banano-fortnite",
+    "user": {
+      "id": 42752976,
+      "login": "beadebeatriz",
+      "profile_url": "https://www.vinted.fr/member/42752976-beadebeatriz",
+      "photo": {
+        "id": 45375046,
+        "width": 450,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_018cc_LX6FCLS5ZC3hkEK9c5Lwv29F/f800/1610466552.jpeg?s=a17a45eeed05918984ed6f45dd66953a3f882364",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_018cc_LX6FCLS5ZC3hkEK9c5Lwv29F/310x310/1610466552.jpeg?s=7d9781181b04348303e28f185bf639de1a7d59e8",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_018cc_LX6FCLS5ZC3hkEK9c5Lwv29F/150x150/1610466552.jpeg?s=22f9e641bd01cb2a86d8cfbd8ca301b4ddd42374",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_018cc_LX6FCLS5ZC3hkEK9c5Lwv29F/100x100/1610466552.jpeg?s=517fa65489ee5fdf24e065a658b878ca02cd0fb6",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_018cc_LX6FCLS5ZC3hkEK9c5Lwv29F/50x50/1610466552.jpeg?s=e35759803731f935e3f7af2cecf30aa517c21c07",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_018cc_LX6FCLS5ZC3hkEK9c5Lwv29F/20x20/1610466552.jpeg?s=fdb4dca5825cef4187561b2ddbb2d1edc99137fe",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_018cc_LX6FCLS5ZC3hkEK9c5Lwv29F",
+          "timestamp": 1610466552,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_018cc_LX6FCLS5ZC3hkEK9c5Lwv29F/1610466552.jpeg?s=55b5efeca0aebc8eb14bd7b39bce7fba302ccd14",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6005931022-set-lego-77072-banano-fortnite",
+    "promoted": false,
+    "photo": {
+      "id": 24358884168,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#B1818C",
+      "dominant_color_opaque": "#E8D9DD",
+      "url": "https://images1.vinted.net/t/04_01056_8XmhJttTJTvRHGq2FH7s68Au/f800/1742554837.jpeg?s=7411cb08c838ef53107f1c0fd0258b0b38684c8c",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01056_8XmhJttTJTvRHGq2FH7s68Au/70x100/1742554837.jpeg?s=ed6fbf7bf642c85c3b49a9c40699c561fd72a2b7",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01056_8XmhJttTJTvRHGq2FH7s68Au/150x210/1742554837.jpeg?s=18f311a4ef9af0da46fa8793aaf9e3deb1c99352",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01056_8XmhJttTJTvRHGq2FH7s68Au/310x430/1742554837.jpeg?s=d35b7e2f42f3e4455fe93f9c25fd225cb5f57acb",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01056_8XmhJttTJTvRHGq2FH7s68Au/f800/1742554837.jpeg?s=7411cb08c838ef53107f1c0fd0258b0b38684c8c",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01056_8XmhJttTJTvRHGq2FH7s68Au/f800/1742554837.jpeg?s=7411cb08c838ef53107f1c0fd0258b0b38684c8c",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01056_8XmhJttTJTvRHGq2FH7s68Au/f800/1742554837.jpeg?s=7411cb08c838ef53107f1c0fd0258b0b38684c8c",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01056_8XmhJttTJTvRHGq2FH7s68Au",
+        "timestamp": 1742554837,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01056_8XmhJttTJTvRHGq2FH7s68Au/1742554837.jpeg?s=9d8f4cbdb075b9fc95e1037c38bf5fcc987f401c",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 4,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "5.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "95.19",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Set Lego 77072 - Banano Fortnite, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 89,99 €, 95,19 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.2938373684883118,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5943551945,
+    "title": "Lego Fortnite Banana Nuovo Sigillato",
+    "price": {
+      "amount": "110.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5943551945-lego-fortnite-banana-nuovo-sigillato",
+    "user": {
+      "id": 87033140,
+      "login": "nicoandre96",
+      "profile_url": "https://www.vinted.fr/member/87033140-nicoandre96",
+      "photo": {
+        "id": 86693582,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_0231b_XGqiKnpQgUZ8JHEXFybc675p/f800/1649848314.jpeg?s=54947f12a2de350c2439be1a3d3912082b4e2616",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_0231b_XGqiKnpQgUZ8JHEXFybc675p/310x310/1649848314.jpeg?s=50994c8ac688b1be5d0babc1d837b2cbf58d1388",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_0231b_XGqiKnpQgUZ8JHEXFybc675p/150x150/1649848314.jpeg?s=7fddad5732662066023a457caab17a8d68c6fec6",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_0231b_XGqiKnpQgUZ8JHEXFybc675p/100x100/1649848314.jpeg?s=1594d4a31ec3b65eea0361c519eb7acc66785d42",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_0231b_XGqiKnpQgUZ8JHEXFybc675p/50x50/1649848314.jpeg?s=8bddbb600ce2e65a82d6b5ecd1ec65f42aa26177",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_0231b_XGqiKnpQgUZ8JHEXFybc675p/20x20/1649848314.jpeg?s=5c9a2da422cf5ec2704f927cfc225f6d72e22870",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_0231b_XGqiKnpQgUZ8JHEXFybc675p",
+          "timestamp": 1649848314,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_0231b_XGqiKnpQgUZ8JHEXFybc675p/1649848314.jpeg?s=239699f8587cdb1499939c0355d4d6523a44a007",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5943551945-lego-fortnite-banana-nuovo-sigillato",
+    "promoted": false,
+    "photo": {
+      "id": 24099651112,
+      "image_no": 1,
+      "width": 606,
+      "height": 800,
+      "dominant_color": "#5A4536",
+      "dominant_color_opaque": "#CEC7C3",
+      "url": "https://images1.vinted.net/t/04_008ca_amQjdoBtf5geinsQapPdQywn/f800/1741596947.jpeg?s=a9cceccf325a9e474227d1fb9892a18604f26e95",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_008ca_amQjdoBtf5geinsQapPdQywn/70x100/1741596947.jpeg?s=155bfe8759bc47dde80dc7b5fb216750bf611c39",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_008ca_amQjdoBtf5geinsQapPdQywn/150x210/1741596947.jpeg?s=6e617e8723f90e0ff3e0924a8e8b2fe38f9fd943",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_008ca_amQjdoBtf5geinsQapPdQywn/310x430/1741596947.jpeg?s=e445f235cd4c188375d23e6ea0a55a23e8e83048",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_008ca_amQjdoBtf5geinsQapPdQywn/f800/1741596947.jpeg?s=a9cceccf325a9e474227d1fb9892a18604f26e95",
+          "width": 324,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_008ca_amQjdoBtf5geinsQapPdQywn/f800/1741596947.jpeg?s=a9cceccf325a9e474227d1fb9892a18604f26e95",
+          "width": 472,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_008ca_amQjdoBtf5geinsQapPdQywn/f800/1741596947.jpeg?s=a9cceccf325a9e474227d1fb9892a18604f26e95",
+          "width": 275,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_008ca_amQjdoBtf5geinsQapPdQywn",
+        "timestamp": 1741596947,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_008ca_amQjdoBtf5geinsQapPdQywn/1741596947.jpeg?s=46d2268ceadb2077ada4a672055936cfdc7e8851",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 3,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "6.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "116.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Neuf avec étiquette",
+      "accessibility_label": "Lego Fortnite Banana Nuovo Sigillato, marque: LEGO, état: Neuf avec étiquette, 110,00 €, 116,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.3483235538005829,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6085493584,
+    "title": "Set 77072 Lego Banano Pelado - Peely Bone Fortnite",
+    "price": {
+      "amount": "89.99",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6085493584-set-77072-lego-banano-pelado-peely-bone-fortnite",
+    "user": {
+      "id": 85775310,
+      "login": "rudigerin",
+      "profile_url": "https://www.vinted.fr/member/85775310-rudigerin",
+      "photo": {
+        "id": 165421077,
+        "width": 519,
+        "height": 519,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_0051b_4nWBDvKMbHrBuLHaKUpZsiho/f800/1699083146.jpeg?s=fbe251cd737bd066679fdd2e13ebe4fd382574fd",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_0051b_4nWBDvKMbHrBuLHaKUpZsiho/310x310/1699083146.jpeg?s=ce27bcedd25f5bce104ae26486d4de6e3aa3616d",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_0051b_4nWBDvKMbHrBuLHaKUpZsiho/150x150/1699083146.jpeg?s=9dcd53e8d8101f5d3df46c044e67437092e7ee59",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_0051b_4nWBDvKMbHrBuLHaKUpZsiho/100x100/1699083146.jpeg?s=49d4304862f329c1ef31a56c6c6d8ee3ff44c973",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_0051b_4nWBDvKMbHrBuLHaKUpZsiho/50x50/1699083146.jpeg?s=d2f1599b2dac66fcf7fc55569e4d66ac1bc7cd2e",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_0051b_4nWBDvKMbHrBuLHaKUpZsiho/20x20/1699083146.jpeg?s=8d7311cbaa6df1595623d4be3cf59c6fc9ec9d73",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_0051b_4nWBDvKMbHrBuLHaKUpZsiho",
+          "timestamp": 1699083146,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_0051b_4nWBDvKMbHrBuLHaKUpZsiho/1699083146.jpeg?s=ebd78fc021fab5a554b2256afdf99d9b47686c63",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6085493584-set-77072-lego-banano-pelado-peely-bone-fortnite",
+    "promoted": false,
+    "photo": {
+      "id": 24690078003,
+      "image_no": 1,
+      "width": 450,
+      "height": 800,
+      "dominant_color": "#7E5F4E",
+      "dominant_color_opaque": "#D8CFCA",
+      "url": "https://images1.vinted.net/t/01_01979_n45yqbr4MVZnBVwih8st56SD/f800/1743760170.jpeg?s=cb865be24b7e6d0b22d1897fb4bd8057af07dcd4",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/01_01979_n45yqbr4MVZnBVwih8st56SD/70x100/1743760170.jpeg?s=1a0e77af208673156cb638354c2b5b63d59d1af5",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/01_01979_n45yqbr4MVZnBVwih8st56SD/150x210/1743760170.jpeg?s=6c84a159a9e7727cd0679de67bbb20d7e9ed3a31",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/01_01979_n45yqbr4MVZnBVwih8st56SD/310x430/1743760170.jpeg?s=c88a4ee3fa50d078188edd206a482912638442a0",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/01_01979_n45yqbr4MVZnBVwih8st56SD/f800/1743760170.jpeg?s=cb865be24b7e6d0b22d1897fb4bd8057af07dcd4",
+          "width": 241,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/01_01979_n45yqbr4MVZnBVwih8st56SD/f800/1743760170.jpeg?s=cb865be24b7e6d0b22d1897fb4bd8057af07dcd4",
+          "width": 351,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/01_01979_n45yqbr4MVZnBVwih8st56SD/f800/1743760170.jpeg?s=cb865be24b7e6d0b22d1897fb4bd8057af07dcd4",
+          "width": 204,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "01_01979_n45yqbr4MVZnBVwih8st56SD",
+        "timestamp": 1743760170,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/01_01979_n45yqbr4MVZnBVwih8st56SD/1743760170.jpeg?s=d9464f047cc28d0444c54ca96a299dd2bfc8b328",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 0,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "5.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "95.19",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Neuf avec étiquette",
+      "accessibility_label": "Set 77072 Lego Banano Pelado - Peely Bone Fortnite, marque: LEGO, état: Neuf avec étiquette, 89,99 €, 95,19 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.3619261384010315,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5601093869,
+    "title": "Lego fornite banana",
+    "price": {
+      "amount": "130.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5601093869-lego-fornite-banana",
+    "user": {
+      "id": 36880389,
+      "login": "hectorcardenal-17",
+      "profile_url": "https://www.vinted.fr/member/36880389-hectorcardenal-17",
+      "photo": {
+        "id": 30347523,
+        "width": 800,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/f800/1605203854.jpeg?s=cd3385805fd4404fcdc92fce0418a9313f5173ad",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/310x310/1605203854.jpeg?s=5ad61464953acc4ea3d8b8f10451e30acd7cb6c6",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/150x150/1605203854.jpeg?s=66f09dd606022cd9712daf7438a4839abb13f1f4",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/100x100/1605203854.jpeg?s=ec22174629b2a96e644603f2184d9bd701368c7c",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/50x50/1605203854.jpeg?s=1c0689e63bd58ba53247f8d0f6faabbcd71eeef9",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/20x20/1605203854.jpeg?s=bfc25ae22c4692ac1641c034b9694155dabb321e",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_022db_TCfpJyp8x9NuKKkvaVfqYwdC",
+          "timestamp": 1605203854,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/1605203854.jpeg?s=c7252ade281f4da938d1bf7bc9fe1b6af8e95ff5",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5601093869-lego-fornite-banana",
+    "promoted": false,
+    "photo": {
+      "id": 22685507775,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#8F6D54",
+      "dominant_color_opaque": "#DDD3CC",
+      "url": "https://images1.vinted.net/t/03_001a4_mbmPNXC2rVsuNhnbPRxCi1Fh/f800/1736015210.jpeg?s=8371243541b3c6f2a1e3d8e2e98f45a42e1cef48",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_001a4_mbmPNXC2rVsuNhnbPRxCi1Fh/70x100/1736015210.jpeg?s=786bc0a661e2020fab870f132ea519cce5b15b97",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_001a4_mbmPNXC2rVsuNhnbPRxCi1Fh/150x210/1736015210.jpeg?s=85d75e671ddb5161a63160b8617fceadae1cf16f",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_001a4_mbmPNXC2rVsuNhnbPRxCi1Fh/310x430/1736015210.jpeg?s=2b831788b2f4e023fd5b0828824f36d5c8e7e903",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_001a4_mbmPNXC2rVsuNhnbPRxCi1Fh/f800/1736015210.jpeg?s=8371243541b3c6f2a1e3d8e2e98f45a42e1cef48",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_001a4_mbmPNXC2rVsuNhnbPRxCi1Fh/f800/1736015210.jpeg?s=8371243541b3c6f2a1e3d8e2e98f45a42e1cef48",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_001a4_mbmPNXC2rVsuNhnbPRxCi1Fh/f800/1736015210.jpeg?s=8371243541b3c6f2a1e3d8e2e98f45a42e1cef48",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_001a4_mbmPNXC2rVsuNhnbPRxCi1Fh",
+        "timestamp": 1736015210,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_001a4_mbmPNXC2rVsuNhnbPRxCi1Fh/1736015210.jpeg?s=0b17904dc7d7badb4b0172cfd297ef9d37b6d632",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 5,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "7.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "137.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Prématuré, jusqu'à 44cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Prématuré, jusqu'à 44cm · Neuf avec étiquette",
+      "accessibility_label": "Lego fornite banana, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 130,00 €, 137,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.434274286031723,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5793673213,
+    "title": "Lego Fortnite 77072 Peely Bone NIEUW in Doos",
+    "price": {
+      "amount": "84.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5793673213-lego-fortnite-77072-peely-bone-nieuw-in-doos",
+    "user": {
+      "id": 179908082,
+      "login": "tigoreijnen",
+      "profile_url": "https://www.vinted.fr/member/179908082-tigoreijnen",
+      "photo": {
+        "id": 174388890,
+        "width": 800,
+        "height": 796,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_01f1b_agiTq5hLSa45sCGBtyrcYucH/f800/1703960506.jpeg?s=e3a29c243829623ac7981313d5181e547af1dde2",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_01f1b_agiTq5hLSa45sCGBtyrcYucH/310x310/1703960506.jpeg?s=a1064b0aad036ce608305ccb7222fad1e69f5b70",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_01f1b_agiTq5hLSa45sCGBtyrcYucH/150x150/1703960506.jpeg?s=6190d36f4edebb6fe950f49f02c5090a6c15e014",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_01f1b_agiTq5hLSa45sCGBtyrcYucH/100x100/1703960506.jpeg?s=ca248f5f4f2c3f58ed6859180fdf2c76ef08232d",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_01f1b_agiTq5hLSa45sCGBtyrcYucH/50x50/1703960506.jpeg?s=f527184b56e7141c4d9e832ecde2cfe53c027167",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_01f1b_agiTq5hLSa45sCGBtyrcYucH/20x20/1703960506.jpeg?s=d726c2f614c532336e843846b315052fe93fe6a4",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_01f1b_agiTq5hLSa45sCGBtyrcYucH",
+          "timestamp": 1703960506,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_01f1b_agiTq5hLSa45sCGBtyrcYucH/1703960506.jpeg?s=ca55319ee0a3e71004e78180a1b90dcbee9deb77",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5793673213-lego-fortnite-77072-peely-bone-nieuw-in-doos",
+    "promoted": false,
+    "photo": {
+      "id": 23476543244,
+      "image_no": 1,
+      "width": 800,
+      "height": 450,
+      "dominant_color": "#55413A",
+      "dominant_color_opaque": "#CCC6C4",
+      "url": "https://images1.vinted.net/t/04_026e0_UvzRc54PMca7LZRpxpzARoTz/f800/1739177128.jpeg?s=c3d565aebb15ef01385d57e2fbc5bc7efda23a7d",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_026e0_UvzRc54PMca7LZRpxpzARoTz/70x100/1739177128.jpeg?s=3b0b7d831e94570e4ac8872d96ffbbfea7d71f41",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_026e0_UvzRc54PMca7LZRpxpzARoTz/150x210/1739177128.jpeg?s=4fc0661398746721347f0e57f3b8e3334584b012",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_026e0_UvzRc54PMca7LZRpxpzARoTz/310x430/1739177128.jpeg?s=66c26d8140f943d3721ecbf6431e084212b0f53c",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_026e0_UvzRc54PMca7LZRpxpzARoTz/f800/1739177128.jpeg?s=c3d565aebb15ef01385d57e2fbc5bc7efda23a7d",
+          "width": 428,
+          "height": 240,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_026e0_UvzRc54PMca7LZRpxpzARoTz/f800/1739177128.jpeg?s=c3d565aebb15ef01385d57e2fbc5bc7efda23a7d",
+          "width": 624,
+          "height": 351,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_026e0_UvzRc54PMca7LZRpxpzARoTz/f800/1739177128.jpeg?s=c3d565aebb15ef01385d57e2fbc5bc7efda23a7d",
+          "width": 364,
+          "height": 204,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_026e0_UvzRc54PMca7LZRpxpzARoTz",
+        "timestamp": 1739177128,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_026e0_UvzRc54PMca7LZRpxpzARoTz/1739177128.jpeg?s=9407cefbadff15a0166576f933070da6ecdad58e",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 45,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.9",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "88.9",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego Fortnite 77072 Peely Bone NIEUW in Doos, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 84,00 €, 88,90 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.453332781791687,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5807331837,
+    "title": "Lego 77072",
+    "price": {
+      "amount": "90.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5807331837-lego-77072",
+    "user": {
+      "id": 242864308,
+      "login": "leospagnu14",
+      "profile_url": "https://www.vinted.fr/member/242864308-leospagnu14",
+      "photo": {
+        "id": 218943716,
+        "width": 450,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_01fba_QkTFV5Py3gjPiTE2pcDbeGcd/f800/1732037137.jpeg?s=a0dd8b879c9aa3b2e951aebb75d02b7de92e01e1",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_01fba_QkTFV5Py3gjPiTE2pcDbeGcd/310x310/1732037137.jpeg?s=999527e39ee70893a572c0d6b3b311d1de718b0c",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_01fba_QkTFV5Py3gjPiTE2pcDbeGcd/150x150/1732037137.jpeg?s=06da03c2ebe9cf6a8bc2611add3a552f47245db2",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_01fba_QkTFV5Py3gjPiTE2pcDbeGcd/100x100/1732037137.jpeg?s=9a4213631442886584f2d5a7939aca74e6791931",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_01fba_QkTFV5Py3gjPiTE2pcDbeGcd/50x50/1732037137.jpeg?s=8b939734df507b662cd47c099a5e8f9d78adc64f",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_01fba_QkTFV5Py3gjPiTE2pcDbeGcd/20x20/1732037137.jpeg?s=bea1e58e97b01dd88ab1d334fdc8e25d0ad138a4",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_01fba_QkTFV5Py3gjPiTE2pcDbeGcd",
+          "timestamp": 1732037137,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_01fba_QkTFV5Py3gjPiTE2pcDbeGcd/1732037137.jpeg?s=e5d7233cab2d8c930251dfe7ab22c495491d6379",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5807331837-lego-77072",
+    "promoted": false,
+    "photo": {
+      "id": 23532715067,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#90705B",
+      "dominant_color_opaque": "#DED4CE",
+      "url": "https://images1.vinted.net/t/03_0208f_56VydCjd43h423EwvVUMxng3/f800/1739383085.jpeg?s=1774b600a8cbd0599abcc75f4a973c40647a020e",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_0208f_56VydCjd43h423EwvVUMxng3/70x100/1739383085.jpeg?s=a000e95dc004dc5da862ca8128f3faac9a522247",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_0208f_56VydCjd43h423EwvVUMxng3/150x210/1739383085.jpeg?s=ae304131199da1a582127f503b114faccd2934bd",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_0208f_56VydCjd43h423EwvVUMxng3/310x430/1739383085.jpeg?s=45381adb79bd46bc04b5cda3149bf68f50285b09",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_0208f_56VydCjd43h423EwvVUMxng3/f800/1739383085.jpeg?s=1774b600a8cbd0599abcc75f4a973c40647a020e",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_0208f_56VydCjd43h423EwvVUMxng3/f800/1739383085.jpeg?s=1774b600a8cbd0599abcc75f4a973c40647a020e",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_0208f_56VydCjd43h423EwvVUMxng3/f800/1739383085.jpeg?s=1774b600a8cbd0599abcc75f4a973c40647a020e",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_0208f_56VydCjd43h423EwvVUMxng3",
+        "timestamp": 1739383085,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_0208f_56VydCjd43h423EwvVUMxng3/1739383085.jpeg?s=1f1aed5800172777fe8dcc0e7deeccdbc24b5ab9",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 2,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "5.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "95.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "16 ans / 176 cm",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "16 ans / 176 cm · Neuf sans étiquette",
+      "accessibility_label": "Lego 77072, marque: LEGO, état: Neuf sans étiquette, taille: 16 ans / 176 cm, 90,00 €, 95,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.5343328714370728,
+      "matched_queries": []
+    }
+  }
+]

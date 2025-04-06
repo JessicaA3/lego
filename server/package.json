@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0",
+    "mongodb": "^6.15.0",
     "node-fetch": "^2.7.0",
     "parse-domain": "^8.2.2",
     "puppeteer": "^24.3.0",

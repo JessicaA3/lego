@@ -1,0 +1,772 @@
+[
+  {
+    "id": 6088511592,
+    "title": "Lego Super Mario 72032 Mario Kart",
+    "price": {
+      "amount": "15.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6088511592-lego-super-mario-72032-mario-kart",
+    "user": {
+      "id": 49969573,
+      "login": "flahs890",
+      "profile_url": "https://www.vinted.fr/member/49969573-flahs890",
+      "photo": {
+        "id": 70655101,
+        "width": 800,
+        "height": 754,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_014cb_ehoW7pFeDTWNmxi2RivoZVpS/f800/1634939757.jpeg?s=1d6fd5f89cc29a253bee9aa7678a449bf311da1f",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_014cb_ehoW7pFeDTWNmxi2RivoZVpS/310x310/1634939757.jpeg?s=c6fb3b057f34fc634fe59216d8451a643329f60a",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_014cb_ehoW7pFeDTWNmxi2RivoZVpS/150x150/1634939757.jpeg?s=4cd42f55358582672d50cd11ae41c856f66b88cc",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_014cb_ehoW7pFeDTWNmxi2RivoZVpS/100x100/1634939757.jpeg?s=780e560886b9e5dda8a6dda877b5222c0e73671a",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_014cb_ehoW7pFeDTWNmxi2RivoZVpS/50x50/1634939757.jpeg?s=e465db5c4d837fe20910118d24285e01aad5d46a",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_014cb_ehoW7pFeDTWNmxi2RivoZVpS/20x20/1634939757.jpeg?s=5fc6e2261bb663f256c8337911aaa8a4d9ff0a8d",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_014cb_ehoW7pFeDTWNmxi2RivoZVpS",
+          "timestamp": 1634939757,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_014cb_ehoW7pFeDTWNmxi2RivoZVpS/1634939757.jpeg?s=18d9731f1898262b054e09ddb4e76dbe95506a38",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6088511592-lego-super-mario-72032-mario-kart",
+    "promoted": false,
+    "photo": {
+      "id": 24702994296,
+      "image_no": 1,
+      "width": 800,
+      "height": 553,
+      "dominant_color": "#828793",
+      "dominant_color_opaque": "#DADBDF",
+      "url": "https://images1.vinted.net/t/04_014cb_HsLe7pM8pJTqtrGi6MqU6cB3/f800/1743794132.jpeg?s=8412e656aa1e404e507412062c5fdaf0e1358ec9",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_014cb_HsLe7pM8pJTqtrGi6MqU6cB3/70x100/1743794132.jpeg?s=771297765e8617fd6f2bc39f1ea9d96a58d8cb78",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_014cb_HsLe7pM8pJTqtrGi6MqU6cB3/150x210/1743794132.jpeg?s=178b4c6c07e9516596c1bc14b333764cf2725d0c",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_014cb_HsLe7pM8pJTqtrGi6MqU6cB3/310x430/1743794132.jpeg?s=ff92c57428ad0e9c2235c23dbc6519ba266b927f",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_014cb_HsLe7pM8pJTqtrGi6MqU6cB3/f800/1743794132.jpeg?s=8412e656aa1e404e507412062c5fdaf0e1358ec9",
+          "width": 428,
+          "height": 295,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_014cb_HsLe7pM8pJTqtrGi6MqU6cB3/f800/1743794132.jpeg?s=8412e656aa1e404e507412062c5fdaf0e1358ec9",
+          "width": 624,
+          "height": 431,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_014cb_HsLe7pM8pJTqtrGi6MqU6cB3/f800/1743794132.jpeg?s=8412e656aa1e404e507412062c5fdaf0e1358ec9",
+          "width": 364,
+          "height": 251,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_014cb_HsLe7pM8pJTqtrGi6MqU6cB3",
+        "timestamp": 1743794132,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_014cb_HsLe7pM8pJTqtrGi6MqU6cB3/1743794132.jpeg?s=faf4aa5a4a00bc4c4d193cccc2e8a7ef27a2496e",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 7,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "1.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "16.45",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego Super Mario 72032 Mario Kart, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 15,00 €, 16,45 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 3.687949895858765,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5851388067,
+    "title": "Lego super Mario 72032 kart standard neuf",
+    "price": {
+      "amount": "20.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5851388067-lego-super-mario-72032-kart-standard-neuf",
+    "user": {
+      "id": 19853891,
+      "login": "aureliecharly22",
+      "profile_url": "https://www.vinted.fr/member/19853891-aureliecharly22",
+      "photo": null,
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5851388067-lego-super-mario-72032-kart-standard-neuf",
+    "promoted": false,
+    "photo": {
+      "id": 23715589265,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#896240",
+      "dominant_color_opaque": "#DCD0C6",
+      "url": "https://images1.vinted.net/t/04_005ec_p1sf1sraevJXRKNJfPMFWvTt/f800/1740128867.jpeg?s=e41bbdc192cf045ead00d8ea8dbf633dfc2c37a8",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_005ec_p1sf1sraevJXRKNJfPMFWvTt/70x100/1740128867.jpeg?s=6aa2f904f0215be5c2ae45e024e86fd7529eb402",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_005ec_p1sf1sraevJXRKNJfPMFWvTt/150x210/1740128867.jpeg?s=0f0176d7f4dc664878b1197446df98d5e0b78b93",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_005ec_p1sf1sraevJXRKNJfPMFWvTt/310x430/1740128867.jpeg?s=033c5a4d1dc48e36127761da02664cdc0befc154",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_005ec_p1sf1sraevJXRKNJfPMFWvTt/f800/1740128867.jpeg?s=e41bbdc192cf045ead00d8ea8dbf633dfc2c37a8",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_005ec_p1sf1sraevJXRKNJfPMFWvTt/f800/1740128867.jpeg?s=e41bbdc192cf045ead00d8ea8dbf633dfc2c37a8",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_005ec_p1sf1sraevJXRKNJfPMFWvTt/f800/1740128867.jpeg?s=e41bbdc192cf045ead00d8ea8dbf633dfc2c37a8",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_005ec_p1sf1sraevJXRKNJfPMFWvTt",
+        "timestamp": 1740128867,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_005ec_p1sf1sraevJXRKNJfPMFWvTt/1740128867.jpeg?s=f5fa3e2a00ea13e7af1cccc256b7add8d7fc2b88",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 12,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "1.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "21.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego super Mario 72032 kart standard neuf, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 20,00 €, 21,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 3.120762825012207,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5999771360,
+    "title": "LEGO Mario Kart 72032",
+    "price": {
+      "amount": "18.99",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5999771360-lego-mario-kart-72032",
+    "user": {
+      "id": 134150368,
+      "login": "efxdragon",
+      "profile_url": "https://www.vinted.fr/member/134150368-efxdragon",
+      "photo": {
+        "id": 130758685,
+        "width": 800,
+        "height": 450,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_00eda_Cs5nUxXUYiGb4ncaiiDaqwGe/f800/1677521798.jpeg?s=dc8ded43054ad6b04a1fc7da05fff3ec9a2c7ec1",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_00eda_Cs5nUxXUYiGb4ncaiiDaqwGe/310x310/1677521798.jpeg?s=6b1aa833ed1b6f3941ed42d5c37ede8f321b385d",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_00eda_Cs5nUxXUYiGb4ncaiiDaqwGe/150x150/1677521798.jpeg?s=8d424d997e13426af86455a1503b0a67c65328fd",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_00eda_Cs5nUxXUYiGb4ncaiiDaqwGe/100x100/1677521798.jpeg?s=12bb5441a004639d05cc479adaf8dcafa2c5132b",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_00eda_Cs5nUxXUYiGb4ncaiiDaqwGe/50x50/1677521798.jpeg?s=6317258e1811864f461c6cdf28007061285c8976",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_00eda_Cs5nUxXUYiGb4ncaiiDaqwGe/20x20/1677521798.jpeg?s=c03e976da1db683dd6b19ebcdb27d638a2b0ce60",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_00eda_Cs5nUxXUYiGb4ncaiiDaqwGe",
+          "timestamp": 1677521798,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_00eda_Cs5nUxXUYiGb4ncaiiDaqwGe/1677521798.jpeg?s=aa6ec1268fba9cd24ba56ed0de2133546368f4fb",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5999771360-lego-mario-kart-72032",
+    "promoted": false,
+    "photo": {
+      "id": 24332911653,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#797E83",
+      "dominant_color_opaque": "#D7D8DA",
+      "url": "https://images1.vinted.net/t/03_00a5c_v2vVTS6bxyPeVA4wHR6ciknv/f800/1742424346.jpeg?s=a149ba5a8550645476c7da6528c02dd5d9f8ba48",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_00a5c_v2vVTS6bxyPeVA4wHR6ciknv/70x100/1742424346.jpeg?s=0986b54c0a2fc8f541943a8908ddb0b47133cb7f",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_00a5c_v2vVTS6bxyPeVA4wHR6ciknv/150x210/1742424346.jpeg?s=a8508d32ac21b390361902bd37db68657cf422c0",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_00a5c_v2vVTS6bxyPeVA4wHR6ciknv/310x430/1742424346.jpeg?s=6ab083103109e36cefad6a6f16bd51ce8c29673b",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_00a5c_v2vVTS6bxyPeVA4wHR6ciknv/f800/1742424346.jpeg?s=a149ba5a8550645476c7da6528c02dd5d9f8ba48",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_00a5c_v2vVTS6bxyPeVA4wHR6ciknv/f800/1742424346.jpeg?s=a149ba5a8550645476c7da6528c02dd5d9f8ba48",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_00a5c_v2vVTS6bxyPeVA4wHR6ciknv/f800/1742424346.jpeg?s=a149ba5a8550645476c7da6528c02dd5d9f8ba48",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_00a5c_v2vVTS6bxyPeVA4wHR6ciknv",
+        "timestamp": 1742424346,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_00a5c_v2vVTS6bxyPeVA4wHR6ciknv/1742424346.jpeg?s=349b4ae9812ceef355c259d2a292227f1992c7c3",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 8,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "1.65",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "20.64",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "LEGO Mario Kart 72032, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 18,99 €, 20,64 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 2.952886581420898,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6032406654,
+    "title": "Lego 72032",
+    "price": {
+      "amount": "19.99",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6032406654-lego-72032",
+    "user": {
+      "id": 118120783,
+      "login": "vitoralonso66",
+      "profile_url": "https://www.vinted.fr/member/118120783-vitoralonso66",
+      "photo": {
+        "id": 203080492,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_012ef_YqvBNFeFkiEkuUzMogy5oiwQ/f800/1723110168.jpeg?s=dea7660038e23836310bd3d63c209f9d42f86462",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_012ef_YqvBNFeFkiEkuUzMogy5oiwQ/310x310/1723110168.jpeg?s=a04d304f5266381aede6927cfd47a5a0d4f548f3",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_012ef_YqvBNFeFkiEkuUzMogy5oiwQ/150x150/1723110168.jpeg?s=80e06f22c7080901bc29fae83534f88b94b7ce71",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_012ef_YqvBNFeFkiEkuUzMogy5oiwQ/100x100/1723110168.jpeg?s=db8a3132a290a80bb86fb67dbbdf51d232ab978e",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_012ef_YqvBNFeFkiEkuUzMogy5oiwQ/50x50/1723110168.jpeg?s=5cf6719843af3482be22efb9a73c742a29fdcfef",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_012ef_YqvBNFeFkiEkuUzMogy5oiwQ/20x20/1723110168.jpeg?s=233794e5d46b55807f5687469bc640e00e10292e",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_012ef_YqvBNFeFkiEkuUzMogy5oiwQ",
+          "timestamp": 1723110168,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_012ef_YqvBNFeFkiEkuUzMogy5oiwQ/1723110168.jpeg?s=07fb66135c69d51b4749559735aef255942dd7b2",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6032406654-lego-72032",
+    "promoted": false,
+    "photo": {
+      "id": 24468541783,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#5F4E48",
+      "dominant_color_opaque": "#CFCAC8",
+      "url": "https://images1.vinted.net/t/04_0102a_AKB6h1xVaGHGkCAvUFVdtWrN/f800/1742915628.jpeg?s=0f47c49c67596d341d02cf881c3f36e72a0667ac",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_0102a_AKB6h1xVaGHGkCAvUFVdtWrN/70x100/1742915628.jpeg?s=1db585ca85bd89dd178d74bb4818d07ecb4c5a51",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_0102a_AKB6h1xVaGHGkCAvUFVdtWrN/150x210/1742915628.jpeg?s=758bba8ba2a48ed1ba4656326853ae4dbfe407d1",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_0102a_AKB6h1xVaGHGkCAvUFVdtWrN/310x430/1742915628.jpeg?s=9fca60429346250bcebe7e54576244db60879e22",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_0102a_AKB6h1xVaGHGkCAvUFVdtWrN/f800/1742915628.jpeg?s=0f47c49c67596d341d02cf881c3f36e72a0667ac",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_0102a_AKB6h1xVaGHGkCAvUFVdtWrN/f800/1742915628.jpeg?s=0f47c49c67596d341d02cf881c3f36e72a0667ac",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_0102a_AKB6h1xVaGHGkCAvUFVdtWrN/f800/1742915628.jpeg?s=0f47c49c67596d341d02cf881c3f36e72a0667ac",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_0102a_AKB6h1xVaGHGkCAvUFVdtWrN",
+        "timestamp": 1742915628,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_0102a_AKB6h1xVaGHGkCAvUFVdtWrN/1742915628.jpeg?s=5bb9cdb3e7acdb8c9a159b9788b1c6d110632484",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 4,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "1.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "21.69",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Prématuré, jusqu'à 44cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Prématuré, jusqu'à 44cm · Neuf avec étiquette",
+      "accessibility_label": "Lego 72032, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 19,99 €, 21,69 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 2.698925971984863,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5914421924,
+    "title": "Lego super mario 72032",
+    "price": {
+      "amount": "21.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5914421924-lego-super-mario-72032",
+    "user": {
+      "id": 83960676,
+      "login": "spiderman73",
+      "profile_url": "https://www.vinted.fr/member/83960676-spiderman73",
+      "photo": {
+        "id": 173142540,
+        "width": 640,
+        "height": 640,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_00f74_rrNfkyxzYN2mC1LwhjQYxUqf/f800/1702903200.jpeg?s=8c75ba545a9b7c3f3fa69b4e9ed4216be1bf8038",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_00f74_rrNfkyxzYN2mC1LwhjQYxUqf/310x310/1702903200.jpeg?s=fa9bfa5d155730200f6ee30bcebe2dfb7e6fbad1",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_00f74_rrNfkyxzYN2mC1LwhjQYxUqf/150x150/1702903200.jpeg?s=2155076ea60491c0a0f604b78f057cbdb3fcbea2",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_00f74_rrNfkyxzYN2mC1LwhjQYxUqf/100x100/1702903200.jpeg?s=0dac4f785eb1d6e742efdca262b4e2ba65bfde16",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_00f74_rrNfkyxzYN2mC1LwhjQYxUqf/50x50/1702903200.jpeg?s=8a4ef080fb25cf487b9385d7dd261b0be6cc3a2b",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_00f74_rrNfkyxzYN2mC1LwhjQYxUqf/20x20/1702903200.jpeg?s=a02bdf494cc880173902f5d67ace52c8a02db402",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_00f74_rrNfkyxzYN2mC1LwhjQYxUqf",
+          "timestamp": 1702903200,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_00f74_rrNfkyxzYN2mC1LwhjQYxUqf/1702903200.jpeg?s=ca1eda481652143e6518698394a540a53473e6dd",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5914421924-lego-super-mario-72032",
+    "promoted": false,
+    "photo": {
+      "id": 23978040230,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#997258",
+      "dominant_color_opaque": "#E0D5CD",
+      "url": "https://images1.vinted.net/t/03_00a1a_pg4KbyHtFwEr9bRbk52gAnLV/f800/1741109647.jpeg?s=88b762466b6b3b9e57a7cf8f2d67f464ab163be1",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_00a1a_pg4KbyHtFwEr9bRbk52gAnLV/70x100/1741109647.jpeg?s=6a3626fa75aa90a989f8eb2c52cd1dbd47a6489d",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_00a1a_pg4KbyHtFwEr9bRbk52gAnLV/150x210/1741109647.jpeg?s=99ead2993aec7adf183c0fe4553685c9217fa08e",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_00a1a_pg4KbyHtFwEr9bRbk52gAnLV/310x430/1741109647.jpeg?s=3d224656ee12aa53daca2811d22c4ed2e6529ac0",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_00a1a_pg4KbyHtFwEr9bRbk52gAnLV/f800/1741109647.jpeg?s=88b762466b6b3b9e57a7cf8f2d67f464ab163be1",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_00a1a_pg4KbyHtFwEr9bRbk52gAnLV/f800/1741109647.jpeg?s=88b762466b6b3b9e57a7cf8f2d67f464ab163be1",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_00a1a_pg4KbyHtFwEr9bRbk52gAnLV/f800/1741109647.jpeg?s=88b762466b6b3b9e57a7cf8f2d67f464ab163be1",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_00a1a_pg4KbyHtFwEr9bRbk52gAnLV",
+        "timestamp": 1741109647,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_00a1a_pg4KbyHtFwEr9bRbk52gAnLV/1741109647.jpeg?s=d331bff793c0936bec084effa56815c8b4a2e88e",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 6,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "1.75",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "22.75",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego super mario 72032, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 21,00 €, 22,75 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 2.430433511734009,
+      "matched_queries": []
+    }
+  }
+]

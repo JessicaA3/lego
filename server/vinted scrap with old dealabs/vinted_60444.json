@@ -1,0 +1,827 @@
+[
+  {
+    "id": 6004400688,
+    "title": "Lego 60444 formula 1",
+    "price": {
+      "amount": "62.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6004400688-lego-60444-formula-1",
+    "user": {
+      "id": 17442621,
+      "login": "marie8349",
+      "profile_url": "https://www.vinted.fr/member/17442621-marie8349",
+      "photo": {
+        "id": 31297083,
+        "width": 236,
+        "height": 313,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_00232_MR1wUkCWJ2VVwoJc7pnQ3LMC/f800/1605206025.jpeg?s=f8625d7ad49659bc0bf1664de7885e09633bc887",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_00232_MR1wUkCWJ2VVwoJc7pnQ3LMC/310x310/1605206025.jpeg?s=e8d9a50a6677d3120217f0dac72a7f4eca7993e5",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_00232_MR1wUkCWJ2VVwoJc7pnQ3LMC/150x150/1605206025.jpeg?s=60c679b73bdc49685f4362619dbaed969ce7e5b6",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_00232_MR1wUkCWJ2VVwoJc7pnQ3LMC/100x100/1605206025.jpeg?s=b3e11a87332d006a61ccfb2412b1d6e6581122d0",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_00232_MR1wUkCWJ2VVwoJc7pnQ3LMC/50x50/1605206025.jpeg?s=cbb5a8fbde3f82b20322049924216b1de74ba61f",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_00232_MR1wUkCWJ2VVwoJc7pnQ3LMC/20x20/1605206025.jpeg?s=ccd3a47c4d31215b245cfb82ff917197184510ca",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_00232_MR1wUkCWJ2VVwoJc7pnQ3LMC",
+          "timestamp": 1605206025,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_00232_MR1wUkCWJ2VVwoJc7pnQ3LMC/1605206025.jpeg?s=4cc59e382ec810db1b5199afa5adc8968a51014d",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6004400688-lego-60444-formula-1",
+    "promoted": false,
+    "photo": {
+      "id": 24352423870,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#8D7C66",
+      "dominant_color_opaque": "#DDD8D1",
+      "url": "https://images1.vinted.net/t/04_013c7_UcaQqN2zkHTW6QwgqBmtNrWS/f800/1742505122.jpeg?s=e4616b0116da04cd1c592c82a86936338eb5e147",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_013c7_UcaQqN2zkHTW6QwgqBmtNrWS/70x100/1742505122.jpeg?s=2556781a182ffec3b5925ac46c6552e8ad676d22",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_013c7_UcaQqN2zkHTW6QwgqBmtNrWS/150x210/1742505122.jpeg?s=3c2f0fbca236a3491f792733f08bfacbe8bd1589",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_013c7_UcaQqN2zkHTW6QwgqBmtNrWS/310x430/1742505122.jpeg?s=6fdd38e7336423c0a26dc7be7447d20af9f74733",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_013c7_UcaQqN2zkHTW6QwgqBmtNrWS/f800/1742505122.jpeg?s=e4616b0116da04cd1c592c82a86936338eb5e147",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_013c7_UcaQqN2zkHTW6QwgqBmtNrWS/f800/1742505122.jpeg?s=e4616b0116da04cd1c592c82a86936338eb5e147",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_013c7_UcaQqN2zkHTW6QwgqBmtNrWS/f800/1742505122.jpeg?s=e4616b0116da04cd1c592c82a86936338eb5e147",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_013c7_UcaQqN2zkHTW6QwgqBmtNrWS",
+        "timestamp": 1742505122,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_013c7_UcaQqN2zkHTW6QwgqBmtNrWS/1742505122.jpeg?s=0084f799a38e18095ad4ff8409c59769ea924994",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 11,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "3.8",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "65.8",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 60444 formula 1, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 62,00 €, 65,80 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 2.681921005249023,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6080812141,
+    "title": "Lego 60444 Garage de F1 et voitures Mercedes-AMG et Alpine - City",
+    "price": {
+      "amount": "62.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6080812141-lego-60444-garage-de-f1-et-voitures-mercedes-amg-et-alpine-city",
+    "user": {
+      "id": 166541842,
+      "login": "jojoetclaude",
+      "profile_url": "https://www.vinted.fr/member/166541842-jojoetclaude",
+      "photo": {
+        "id": 162176038,
+        "width": 650,
+        "height": 400,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_0233b_q42KxQGUVqdDiRuinCDK9zhe/f800/1697394384.jpeg?s=27c047a0db21807a0ac4aab7dd58932b9b4934f2",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_0233b_q42KxQGUVqdDiRuinCDK9zhe/310x310/1697394384.jpeg?s=bbd5b521b66747d18423482a79f5e84552458e76",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_0233b_q42KxQGUVqdDiRuinCDK9zhe/150x150/1697394384.jpeg?s=ab481dfe4b58b2f666a6b89b22f7c48b4fd31288",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_0233b_q42KxQGUVqdDiRuinCDK9zhe/100x100/1697394384.jpeg?s=ed0660d5477fa85b6aa1b9bf6e3feb6897f86dfc",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_0233b_q42KxQGUVqdDiRuinCDK9zhe/50x50/1697394384.jpeg?s=3e8dd00e5f24cfaf38b663f783472d2423488c62",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_0233b_q42KxQGUVqdDiRuinCDK9zhe/20x20/1697394384.jpeg?s=bfef9e0e4ba06f08c8e2d6e5be823ba0f1defc7d",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_0233b_q42KxQGUVqdDiRuinCDK9zhe",
+          "timestamp": 1697394384,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_0233b_q42KxQGUVqdDiRuinCDK9zhe/1697394384.jpeg?s=3f815a59d68d10ded7e7ab291e0be88f8d2d1ecc",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6080812141-lego-60444-garage-de-f1-et-voitures-mercedes-amg-et-alpine-city",
+    "promoted": false,
+    "photo": {
+      "id": 24670352817,
+      "image_no": 1,
+      "width": 800,
+      "height": 517,
+      "dominant_color": "#86817D",
+      "dominant_color_opaque": "#DBD9D8",
+      "url": "https://images1.vinted.net/t/03_01ffa_73diBbY4kktcoDs1z3HEHUAj/f800/1743676673.jpeg?s=db5a4237d7720700fdde289b54e2515c3867bf5a",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_01ffa_73diBbY4kktcoDs1z3HEHUAj/70x100/1743676673.jpeg?s=d4236af21b9d5f592eaaf7150cf7bc0afbfc545d",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_01ffa_73diBbY4kktcoDs1z3HEHUAj/150x210/1743676673.jpeg?s=9c824888c156dfce42e021427d7fd1e06c85128c",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_01ffa_73diBbY4kktcoDs1z3HEHUAj/310x430/1743676673.jpeg?s=7aa4b26b5c2e9419787902e64927f3b2c22abb49",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_01ffa_73diBbY4kktcoDs1z3HEHUAj/f800/1743676673.jpeg?s=db5a4237d7720700fdde289b54e2515c3867bf5a",
+          "width": 428,
+          "height": 277,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_01ffa_73diBbY4kktcoDs1z3HEHUAj/f800/1743676673.jpeg?s=db5a4237d7720700fdde289b54e2515c3867bf5a",
+          "width": 624,
+          "height": 403,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_01ffa_73diBbY4kktcoDs1z3HEHUAj/f800/1743676673.jpeg?s=db5a4237d7720700fdde289b54e2515c3867bf5a",
+          "width": 364,
+          "height": 235,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_01ffa_73diBbY4kktcoDs1z3HEHUAj",
+        "timestamp": 1743676673,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_01ffa_73diBbY4kktcoDs1z3HEHUAj/1743676673.jpeg?s=b4889c59173715df0449218dedd41a198a3d12dd",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 9,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "3.8",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "65.8",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 60444 Garage de F1 et voitures Mercedes-AMG et Alpine - City, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 62,00 €, 65,80 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 1.270035743713379,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6068117809,
+    "title": "Lego 60444",
+    "price": {
+      "amount": "68.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6068117809-lego-60444",
+    "user": {
+      "id": 205712437,
+      "login": "michelesilvestri79",
+      "profile_url": "https://www.vinted.fr/member/205712437-michelesilvestri79",
+      "photo": {
+        "id": 192984608,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/f800/1715949577.jpeg?s=3787bed5014f2efadec9117d1d1055c15df7ef51",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/310x310/1715949577.jpeg?s=bff1c8e58ecc8b959550b3aa14054f06722c9957",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/150x150/1715949577.jpeg?s=522cf1827c24dc0ff9beb17f15d8c876e655af87",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/100x100/1715949577.jpeg?s=975c6a8563ffa044c5e32315c725eaa32fcf4bc5",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/50x50/1715949577.jpeg?s=f6a2d36dd9865d7cd7b856c5b96d79ab0c6ce26b",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/20x20/1715949577.jpeg?s=bcb6e72e4f9074bf15037584bc1f74ab1ea0cac9",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_010ab_p5d2qk1Ghi8X7okWUDPa11hH",
+          "timestamp": 1715949577,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/1715949577.jpeg?s=33fb4fb69c1127910069edabbd50f43d91beabd1",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6068117809-lego-60444",
+    "promoted": false,
+    "photo": {
+      "id": 24617424355,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#90898B",
+      "dominant_color_opaque": "#DEDCDC",
+      "url": "https://images1.vinted.net/t/04_00d07_HRAfu8Us1zvv95vU2gqaFJDW/f800/1743450294.jpeg?s=e420c425480f2699d8a8fb93c304f06dd4e271dd",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00d07_HRAfu8Us1zvv95vU2gqaFJDW/70x100/1743450294.jpeg?s=5cf4dd6937b5d94c8215b080f8cc930c81a481ce",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00d07_HRAfu8Us1zvv95vU2gqaFJDW/150x210/1743450294.jpeg?s=4f6d0e8d3c2385415e19944b9923930959ee0cee",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00d07_HRAfu8Us1zvv95vU2gqaFJDW/310x430/1743450294.jpeg?s=d97876cd23462d7aca60846ea2f1a4cbd30bb76b",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00d07_HRAfu8Us1zvv95vU2gqaFJDW/f800/1743450294.jpeg?s=e420c425480f2699d8a8fb93c304f06dd4e271dd",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00d07_HRAfu8Us1zvv95vU2gqaFJDW/f800/1743450294.jpeg?s=e420c425480f2699d8a8fb93c304f06dd4e271dd",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00d07_HRAfu8Us1zvv95vU2gqaFJDW/f800/1743450294.jpeg?s=e420c425480f2699d8a8fb93c304f06dd4e271dd",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00d07_HRAfu8Us1zvv95vU2gqaFJDW",
+        "timestamp": 1743450294,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00d07_HRAfu8Us1zvv95vU2gqaFJDW/1743450294.jpeg?s=612483569601b21f19c158502352d774b11b02d8",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 4,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.1",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "72.1",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "7 ans / 122 cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "7 ans / 122 cm · Neuf avec étiquette",
+      "accessibility_label": "Lego 60444, marque: LEGO, état: Neuf avec étiquette, taille: 7 ans / 122 cm, 68,00 €, 72,10 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.04092074185609818,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5977953340,
+    "title": "Lego F1 60444",
+    "price": {
+      "amount": "70.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5977953340-lego-f1-60444",
+    "user": {
+      "id": 187386866,
+      "login": "andre121977",
+      "profile_url": "https://www.vinted.fr/member/187386866-andre121977",
+      "photo": {
+        "id": 226291934,
+        "width": 800,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_020d4_VWb27a4A4rbAFoYVNEcuELdk/f800/1736937347.jpeg?s=f5432b3d708e70416f523ab37210f693689b716e",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_020d4_VWb27a4A4rbAFoYVNEcuELdk/310x310/1736937347.jpeg?s=c90be5a6d7465148f5964a6fd297aaf006d957cd",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_020d4_VWb27a4A4rbAFoYVNEcuELdk/150x150/1736937347.jpeg?s=b4851d4aa4aa49cb71eef9a1230fd8ba96b99293",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_020d4_VWb27a4A4rbAFoYVNEcuELdk/100x100/1736937347.jpeg?s=fd1b8873f127b8d9d4f2581a49012b876f68df48",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_020d4_VWb27a4A4rbAFoYVNEcuELdk/50x50/1736937347.jpeg?s=5332ef58dda1d2a04dbb901d1f8a05df8a1b6f3e",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_020d4_VWb27a4A4rbAFoYVNEcuELdk/20x20/1736937347.jpeg?s=b78d38a97449b9df4244c8fc0f0aa11cf557eea6",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_020d4_VWb27a4A4rbAFoYVNEcuELdk",
+          "timestamp": 1736937347,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_020d4_VWb27a4A4rbAFoYVNEcuELdk/1736937347.jpeg?s=fb88435acc24c1d308ff30d89e64807947a6b9d4",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5977953340-lego-f1-60444",
+    "promoted": false,
+    "photo": {
+      "id": 24242728798,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#8B8B85",
+      "dominant_color_opaque": "#DCDCDA",
+      "url": "https://images1.vinted.net/t/04_025c9_WVZhqqeyBHpqQTuwNy3w7EzW/f800/1742125401.jpeg?s=45769e07cf3ef9cd48c59ae515a97d0e4a4f2562",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_025c9_WVZhqqeyBHpqQTuwNy3w7EzW/70x100/1742125401.jpeg?s=03e70cea8e19b4d74c8e1d29562ef640e49da87e",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_025c9_WVZhqqeyBHpqQTuwNy3w7EzW/150x210/1742125401.jpeg?s=a706ad7e897f47594320a621e3b4b6ac66883edd",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_025c9_WVZhqqeyBHpqQTuwNy3w7EzW/310x430/1742125401.jpeg?s=8efb6cbf9bddd3e58a6aaf2fb325dd5aa9904870",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_025c9_WVZhqqeyBHpqQTuwNy3w7EzW/f800/1742125401.jpeg?s=45769e07cf3ef9cd48c59ae515a97d0e4a4f2562",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_025c9_WVZhqqeyBHpqQTuwNy3w7EzW/f800/1742125401.jpeg?s=45769e07cf3ef9cd48c59ae515a97d0e4a4f2562",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_025c9_WVZhqqeyBHpqQTuwNy3w7EzW/f800/1742125401.jpeg?s=45769e07cf3ef9cd48c59ae515a97d0e4a4f2562",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_025c9_WVZhqqeyBHpqQTuwNy3w7EzW",
+        "timestamp": 1742125401,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_025c9_WVZhqqeyBHpqQTuwNy3w7EzW/1742125401.jpeg?s=13a0273bf3a37d160e10b160c55f22dbd1330d5f",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 1,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "74.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego F1 60444, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 70,00 €, 74,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.06058849021792412,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6074634448,
+    "title": "Lego 60444 garaje F1",
+    "price": {
+      "amount": "70.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6074634448-lego-60444-garaje-f1",
+    "user": {
+      "id": 24038420,
+      "login": "davidcdz",
+      "profile_url": "https://www.vinted.fr/member/24038420-davidcdz",
+      "photo": {
+        "id": 197872484,
+        "width": 370,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/f800/1719328509.jpeg?s=13db45c78fa5551b405ccb81f494f2eb6e54952b",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/310x310/1719328509.jpeg?s=7fce14ad792cb5320fe26411da15e30db7042822",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/150x150/1719328509.jpeg?s=8adea5bbdd64fd24b461c41c19a9b2be60bbad0b",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/100x100/1719328509.jpeg?s=40c3cb319c39714a0c0a6f816344e3cad43adb76",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/50x50/1719328509.jpeg?s=aff62a3753fe40ff2173c4edbd3bd7b25bb7b0cc",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/20x20/1719328509.jpeg?s=011288ffeb03dea6ed01750fb09c9f90ca0c8dfb",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr",
+          "timestamp": 1719328509,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/1719328509.jpeg?s=666ea95b33a5b6ff917ca6c066b4e6cd0de1eafd",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6074634448-lego-60444-garaje-f1",
+    "promoted": false,
+    "photo": {
+      "id": 24644560377,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#959189",
+      "dominant_color_opaque": "#DFDEDC",
+      "url": "https://images1.vinted.net/t/04_02311_p2RJqe1sAveNYA2LUvnCp7tv/f800/1743582218.jpeg?s=fec747e2a094ea00be70e4a409e037a9c98bb71f",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_02311_p2RJqe1sAveNYA2LUvnCp7tv/70x100/1743582218.jpeg?s=cde16cef28e5d6d09ae62798bab1bae7a1e9a52a",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_02311_p2RJqe1sAveNYA2LUvnCp7tv/150x210/1743582218.jpeg?s=2c9be6db7ce2c2a95a7c852ea1c5037473e9acf9",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_02311_p2RJqe1sAveNYA2LUvnCp7tv/310x430/1743582218.jpeg?s=890b5c700ced0c44c310b7dc7e7431b3902c7922",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_02311_p2RJqe1sAveNYA2LUvnCp7tv/f800/1743582218.jpeg?s=fec747e2a094ea00be70e4a409e037a9c98bb71f",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_02311_p2RJqe1sAveNYA2LUvnCp7tv/f800/1743582218.jpeg?s=fec747e2a094ea00be70e4a409e037a9c98bb71f",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_02311_p2RJqe1sAveNYA2LUvnCp7tv/f800/1743582218.jpeg?s=fec747e2a094ea00be70e4a409e037a9c98bb71f",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_02311_p2RJqe1sAveNYA2LUvnCp7tv",
+        "timestamp": 1743582218,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_02311_p2RJqe1sAveNYA2LUvnCp7tv/1743582218.jpeg?s=33d09f2df4f6bace2873b3258dc49d9284002776",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 1,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "74.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "7 ans / 122 cm",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "7 ans / 122 cm · Neuf sans étiquette",
+      "accessibility_label": "Lego 60444 garaje F1, marque: LEGO, état: Neuf sans étiquette, taille: 7 ans / 122 cm, 70,00 €, 74,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.1258734911680222,
+      "matched_queries": []
+    }
+  }
+]

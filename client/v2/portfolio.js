@@ -125,11 +125,23 @@ const renderLegoSetIds = deals => {
  * Render page selector
  * @param  {Object} pagination
  */
+/*
 const renderIndicators = pagination => {
   const {count} = pagination;
 
   spanNbDeals.innerHTML = count;
 };
+*/
+const renderIndicators = pagination => {
+  const {count, p5, p25, p50, lifetime} = pagination;
+
+  spanNbDeals.innerHTML = count;
+  document.querySelector('#p5').textContent = p5 ?? '–';
+  document.querySelector('#p25').textContent = p25 ?? '–';
+  document.querySelector('#p50').textContent = p50 ?? '–';
+  document.querySelector('#lifetime').textContent = lifetime ?? '–';
+};
+
 /*
 const render = (deals, pagination) => {
   renderDeals(deals);
@@ -177,6 +189,15 @@ selectPage.addEventListener('change', async (event) => {
   setCurrentDeals(deals); // Met à jour les données
   render(currentDeals, currentPagination); // Met à jour l'affichage
 });
+
+// Listener pour filtrer par ID de Lego set
+selectLegoSetIds.addEventListener('change', () => {
+  const selectedId = selectLegoSetIds.value;
+  const filteredDeals = currentDeals.filter(deal => deal.id === selectedId);
+
+  renderDeals(filteredDeals);
+});
+
 
 // Fonction render() inchangée
 const render = (deals, pagination) => {

@@ -22,7 +22,9 @@ async function scrape(url) {
             title: deal.querySelector('.thread-title a')?.innerText.trim(),
             price: deal.querySelector('.text--b.size--all-xl')?.innerText.trim(),
             discount: deal.querySelector('.textBadge')?.innerText.trim() || 'No discount',
-            link: deal.querySelector('.thread-title a')?.href
+            link: deal.querySelector('.thread-title a')?.href,
+            temperature: deal.querySelector('.vote-temp')?.innerText.trim(),
+            image: deal.querySelector('.thread-image')?.src
         })).filter(deal => deal.title); // Supprime les résultats vides
     });
 

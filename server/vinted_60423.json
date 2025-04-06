@@ -1,0 +1,2092 @@
+[
+  {
+    "id": 5766874454,
+    "title": "Lego 60423",
+    "price": {
+      "amount": "64.5",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5766874454-lego-60423",
+    "user": {
+      "id": 120757834,
+      "login": "adriaantenvoorde",
+      "profile_url": "https://www.vinted.fr/member/120757834-adriaantenvoorde",
+      "photo": {
+        "id": 130557411,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_0186a_rHnH7nknsPqrJwdaTn37i8Cp/f800/1677417642.jpeg?s=89da5fc41f60f4072f141dd673aa7135460016ab",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_0186a_rHnH7nknsPqrJwdaTn37i8Cp/310x310/1677417642.jpeg?s=667edcbd1854fcb5b06f78d959b1fb2b0399955a",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_0186a_rHnH7nknsPqrJwdaTn37i8Cp/150x150/1677417642.jpeg?s=0349bd918a3e00709d9796fdf631d5edfef28c90",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_0186a_rHnH7nknsPqrJwdaTn37i8Cp/100x100/1677417642.jpeg?s=4886ddff90bc4203b34424fd2d15df4334987168",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_0186a_rHnH7nknsPqrJwdaTn37i8Cp/50x50/1677417642.jpeg?s=514bb164a24af0d5f03dcaf7bad81f99310457a5",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_0186a_rHnH7nknsPqrJwdaTn37i8Cp/20x20/1677417642.jpeg?s=1bd1aa3169f2696c785de7d99e0c2fe10644fd83",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_0186a_rHnH7nknsPqrJwdaTn37i8Cp",
+          "timestamp": 1677417642,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_0186a_rHnH7nknsPqrJwdaTn37i8Cp/1677417642.jpeg?s=78d85243d2c72b15246a3b77e059194df9df63c6",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5766874454-lego-60423",
+    "promoted": false,
+    "photo": {
+      "id": 23365272371,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#5F3D30",
+      "dominant_color_opaque": "#CFC5C1",
+      "url": "https://images1.vinted.net/t/04_0143c_9BQpxTEmk4GEuksaPEYKidzL/f800/1738751309.jpeg?s=1e05f353c176192863100a12f64b1c56f84f246b",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_0143c_9BQpxTEmk4GEuksaPEYKidzL/70x100/1738751309.jpeg?s=2fb080f3d4495e30395085fc3da58c31f45e2b5d",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_0143c_9BQpxTEmk4GEuksaPEYKidzL/150x210/1738751309.jpeg?s=b83e732c82d72f4323ac6e20b6044a974e473dd5",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_0143c_9BQpxTEmk4GEuksaPEYKidzL/310x430/1738751309.jpeg?s=a21cf99c177975f7504d20258ea3293c984679c3",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_0143c_9BQpxTEmk4GEuksaPEYKidzL/f800/1738751309.jpeg?s=1e05f353c176192863100a12f64b1c56f84f246b",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_0143c_9BQpxTEmk4GEuksaPEYKidzL/f800/1738751309.jpeg?s=1e05f353c176192863100a12f64b1c56f84f246b",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_0143c_9BQpxTEmk4GEuksaPEYKidzL/f800/1738751309.jpeg?s=1e05f353c176192863100a12f64b1c56f84f246b",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_0143c_9BQpxTEmk4GEuksaPEYKidzL",
+        "timestamp": 1738751309,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_0143c_9BQpxTEmk4GEuksaPEYKidzL/1738751309.jpeg?s=c32e43862d25993db71fec81d569850c5921e19d",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 19,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "3.93",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "68.43",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "Lego 60423, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 64,50 €, 68,43 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 2.530792236328125,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5858306083,
+    "title": "Lot de 2 croisements compatibles rails LEGO",
+    "price": {
+      "amount": "8.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5858306083-lot-de-2-croisements-compatibles-rails-lego",
+    "user": {
+      "id": 207752094,
+      "login": "000smiley000",
+      "profile_url": "https://www.vinted.fr/member/207752094-000smiley000",
+      "photo": {
+        "id": 194261876,
+        "width": 800,
+        "height": 400,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/f800/1716817693.jpeg?s=9cec2c04a616d3e731069d3ff7d1c661f3d57d32",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/310x310/1716817693.jpeg?s=93dfd09a835e7b13509d6245a88ec5f1718e285c",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/150x150/1716817693.jpeg?s=4b65f75c4b92575e84e140233748acf8636ae722",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/100x100/1716817693.jpeg?s=03bcec6d3f123d6237fcd7babaf7b9786483b4e0",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/50x50/1716817693.jpeg?s=9330ee89dfecb31aea127fd4ff4ca7b7194c5188",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/20x20/1716817693.jpeg?s=fc98464e344cb11ba25119e454b997321f23b7a9",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu",
+          "timestamp": 1716817693,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/1716817693.jpeg?s=1dacc097f2f2bbd9926747cc74ff05def389e483",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5858306083-lot-de-2-croisements-compatibles-rails-lego",
+    "promoted": false,
+    "photo": {
+      "id": 23744585258,
+      "image_no": 1,
+      "width": 602,
+      "height": 800,
+      "dominant_color": "#A5A099",
+      "dominant_color_opaque": "#E4E3E0",
+      "url": "https://images1.vinted.net/t/04_00d54_hsYDbTTUfnZJPueHf7xHScS8/f800/1740232264.jpeg?s=00ca28333b7a2e7fc8a8513cb40dcafee4fec326",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00d54_hsYDbTTUfnZJPueHf7xHScS8/70x100/1740232264.jpeg?s=97bd41abeb8c3c2ba0a0a2b167cc046c95ed2c18",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00d54_hsYDbTTUfnZJPueHf7xHScS8/150x210/1740232264.jpeg?s=5c4cf77ee62c6161fc04620fe0b1e5811e13f76b",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00d54_hsYDbTTUfnZJPueHf7xHScS8/310x430/1740232264.jpeg?s=28c4c8f9f5e01dc82907e9b0936cce04c185a547",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00d54_hsYDbTTUfnZJPueHf7xHScS8/f800/1740232264.jpeg?s=00ca28333b7a2e7fc8a8513cb40dcafee4fec326",
+          "width": 322,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00d54_hsYDbTTUfnZJPueHf7xHScS8/f800/1740232264.jpeg?s=00ca28333b7a2e7fc8a8513cb40dcafee4fec326",
+          "width": 469,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00d54_hsYDbTTUfnZJPueHf7xHScS8/f800/1740232264.jpeg?s=00ca28333b7a2e7fc8a8513cb40dcafee4fec326",
+          "width": 274,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00d54_hsYDbTTUfnZJPueHf7xHScS8",
+        "timestamp": 1740232264,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00d54_hsYDbTTUfnZJPueHf7xHScS8/1740232264.jpeg?s=4218c3a16431b93e3c19b10a19a0338bd3fdefb7",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 16,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "1.1",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "9.1",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "Lot de 2 croisements compatibles rails LEGO, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 8,00 €, 9,10 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 1.687730312347412,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6013440192,
+    "title": "60423. Lego City ´le tramway et la station du centre-ville ´Neuf !! 7+",
+    "price": {
+      "amount": "69.99",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6013440192-60423-lego-city-le-tramway-et-la-station-du-centre-ville-neuf-7",
+    "user": {
+      "id": 79279134,
+      "login": "landuytlud",
+      "profile_url": "https://www.vinted.fr/member/79279134-landuytlud",
+      "photo": {
+        "id": 234948843,
+        "width": 369,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_01e8d_vaHS5xKJiUKG1wZmxcjEM9At/f800/1742118202.jpeg?s=a38026f8d4b5bd8eb8584b34846951286adfcf22",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_01e8d_vaHS5xKJiUKG1wZmxcjEM9At/310x310/1742118202.jpeg?s=4c72173e2fc8e25cc3054a13bfb333d321ff8090",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_01e8d_vaHS5xKJiUKG1wZmxcjEM9At/150x150/1742118202.jpeg?s=94ed858f8bb4f345479fe83e574349a1946119a5",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_01e8d_vaHS5xKJiUKG1wZmxcjEM9At/100x100/1742118202.jpeg?s=041f29ebb6e412fdda1d8592c73663b10224146b",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_01e8d_vaHS5xKJiUKG1wZmxcjEM9At/50x50/1742118202.jpeg?s=8f56c928f900f3ad7dca2883eec6753e7a5f41b0",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_01e8d_vaHS5xKJiUKG1wZmxcjEM9At/20x20/1742118202.jpeg?s=c0b96f51623dcb2345ecc67549155373d8f228bb",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_01e8d_vaHS5xKJiUKG1wZmxcjEM9At",
+          "timestamp": 1742118202,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_01e8d_vaHS5xKJiUKG1wZmxcjEM9At/1742118202.jpeg?s=1744ab9b98f8e2d14d48bafe2256fe5d21f99676",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6013440192-60423-lego-city-le-tramway-et-la-station-du-centre-ville-neuf-7",
+    "promoted": false,
+    "photo": {
+      "id": 24390582744,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#745248",
+      "dominant_color_opaque": "#D5CBC8",
+      "url": "https://images1.vinted.net/t/02_02475_rRt2hyKzrTnXazsjxsHCUyq4/f800/1742659175.jpeg?s=973aac54253e305e58035d700d3e80e4f70f9af5",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_02475_rRt2hyKzrTnXazsjxsHCUyq4/70x100/1742659175.jpeg?s=caa9593be4474e795ec736c6ffdf003341fba817",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_02475_rRt2hyKzrTnXazsjxsHCUyq4/150x210/1742659175.jpeg?s=b8910c4f9a2aae15ab087b1cb384480d6274b566",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_02475_rRt2hyKzrTnXazsjxsHCUyq4/310x430/1742659175.jpeg?s=27f780274df2e680e89f203ac8fca99f2ca77b81",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_02475_rRt2hyKzrTnXazsjxsHCUyq4/f800/1742659175.jpeg?s=973aac54253e305e58035d700d3e80e4f70f9af5",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_02475_rRt2hyKzrTnXazsjxsHCUyq4/f800/1742659175.jpeg?s=973aac54253e305e58035d700d3e80e4f70f9af5",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_02475_rRt2hyKzrTnXazsjxsHCUyq4/f800/1742659175.jpeg?s=973aac54253e305e58035d700d3e80e4f70f9af5",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_02475_rRt2hyKzrTnXazsjxsHCUyq4",
+        "timestamp": 1742659175,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_02475_rRt2hyKzrTnXazsjxsHCUyq4/1742659175.jpeg?s=68b1db96a52cf430a28b787324887e59f54c5138",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 12,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "74.19",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "60423. Lego City ´le tramway et la station du centre-ville ´Neuf !! 7+, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 69,99 €, 74,19 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 0.8227450847625732,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6009814900,
+    "title": "Lego city 60423 le tramway",
+    "price": {
+      "amount": "69.99",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6009814900-lego-city-60423-le-tramway",
+    "user": {
+      "id": 212405374,
+      "login": "superlego677",
+      "profile_url": "https://www.vinted.fr/member/212405374-superlego677",
+      "photo": null,
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6009814900-lego-city-60423-le-tramway",
+    "promoted": false,
+    "photo": {
+      "id": 24375439252,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#997672",
+      "dominant_color_opaque": "#E0D6D5",
+      "url": "https://images1.vinted.net/t/04_02084_Ddx2gBgdnFrf35mJ3PGHPokh/f800/r1/1742630184.jpeg?s=c80ee83e332bfeebc38ca8a88ea5a6917ed18d5a",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_02084_Ddx2gBgdnFrf35mJ3PGHPokh/70x100/r1/1742630184.jpeg?s=bc22fbfa567458be9f7893d6b47e771f5014ea2b",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_02084_Ddx2gBgdnFrf35mJ3PGHPokh/150x210/r1/1742630184.jpeg?s=df9b7503ffd9e9c86c9592a7c675680cdd77540a",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_02084_Ddx2gBgdnFrf35mJ3PGHPokh/310x430/r1/1742630184.jpeg?s=1ad0c247993a94d483b78dad601f8085963b180d",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_02084_Ddx2gBgdnFrf35mJ3PGHPokh/f800/r1/1742630184.jpeg?s=c80ee83e332bfeebc38ca8a88ea5a6917ed18d5a",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_02084_Ddx2gBgdnFrf35mJ3PGHPokh/f800/r1/1742630184.jpeg?s=c80ee83e332bfeebc38ca8a88ea5a6917ed18d5a",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_02084_Ddx2gBgdnFrf35mJ3PGHPokh/f800/r1/1742630184.jpeg?s=c80ee83e332bfeebc38ca8a88ea5a6917ed18d5a",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_02084_Ddx2gBgdnFrf35mJ3PGHPokh",
+        "timestamp": 1742630184,
+        "orientation": 1
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_02084_Ddx2gBgdnFrf35mJ3PGHPokh/r1/1742630184.jpeg?s=aadf01733d11428fc1ea25899474b37e5f254217",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 10,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "74.19",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego city 60423 le tramway, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 69,99 €, 74,19 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.02437431551516056,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5964835663,
+    "title": "Grand circuit de rails et aiguillages compatibles LEGO",
+    "price": {
+      "amount": "30.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5964835663-grand-circuit-de-rails-et-aiguillages-compatibles-lego",
+    "user": {
+      "id": 207752094,
+      "login": "000smiley000",
+      "profile_url": "https://www.vinted.fr/member/207752094-000smiley000",
+      "photo": {
+        "id": 194261876,
+        "width": 800,
+        "height": 400,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/f800/1716817693.jpeg?s=9cec2c04a616d3e731069d3ff7d1c661f3d57d32",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/310x310/1716817693.jpeg?s=93dfd09a835e7b13509d6245a88ec5f1718e285c",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/150x150/1716817693.jpeg?s=4b65f75c4b92575e84e140233748acf8636ae722",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/100x100/1716817693.jpeg?s=03bcec6d3f123d6237fcd7babaf7b9786483b4e0",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/50x50/1716817693.jpeg?s=9330ee89dfecb31aea127fd4ff4ca7b7194c5188",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/20x20/1716817693.jpeg?s=fc98464e344cb11ba25119e454b997321f23b7a9",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu",
+          "timestamp": 1716817693,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/1716817693.jpeg?s=1dacc097f2f2bbd9926747cc74ff05def389e483",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5964835663-grand-circuit-de-rails-et-aiguillages-compatibles-lego",
+    "promoted": false,
+    "photo": {
+      "id": 24187833814,
+      "image_no": 1,
+      "width": 602,
+      "height": 800,
+      "dominant_color": "#C2B7A6",
+      "dominant_color_opaque": "#EDE9E4",
+      "url": "https://images1.vinted.net/t/04_00119_6V9ExsbpfrAQKRCfDSMiRZYn/f800/1741938372.jpeg?s=11854d1fe509781d816934c8f6bf0364a250ff14",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00119_6V9ExsbpfrAQKRCfDSMiRZYn/70x100/1741938372.jpeg?s=e65e7c5001190d5c0b1858b4e6767a781394e7f8",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00119_6V9ExsbpfrAQKRCfDSMiRZYn/150x210/1741938372.jpeg?s=31b7ecd382ae7cf44b47e2cc75518ea5db510492",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00119_6V9ExsbpfrAQKRCfDSMiRZYn/310x430/1741938372.jpeg?s=5e527c0c2c50ed479f7b48d67751fc9326ddc4be",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00119_6V9ExsbpfrAQKRCfDSMiRZYn/f800/1741938372.jpeg?s=11854d1fe509781d816934c8f6bf0364a250ff14",
+          "width": 322,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00119_6V9ExsbpfrAQKRCfDSMiRZYn/f800/1741938372.jpeg?s=11854d1fe509781d816934c8f6bf0364a250ff14",
+          "width": 469,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00119_6V9ExsbpfrAQKRCfDSMiRZYn/f800/1741938372.jpeg?s=11854d1fe509781d816934c8f6bf0364a250ff14",
+          "width": 274,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00119_6V9ExsbpfrAQKRCfDSMiRZYn",
+        "timestamp": 1741938372,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00119_6V9ExsbpfrAQKRCfDSMiRZYn/1741938372.jpeg?s=6942912974a6377a52f557671a00b2ff6559a082",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 16,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "2.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "32.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "Grand circuit de rails et aiguillages compatibles LEGO, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 30,00 €, 32,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.02973425947129726,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5758085208,
+    "title": "Lego 60423 Tramway City NEUF et scellé",
+    "price": {
+      "amount": "64.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5758085208-lego-60423-tramway-city-neuf-et-scelle",
+    "user": {
+      "id": 45963865,
+      "login": "mattdm31",
+      "profile_url": "https://www.vinted.fr/member/45963865-mattdm31",
+      "photo": null,
+      "business": true
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5758085208-lego-60423-tramway-city-neuf-et-scelle",
+    "promoted": false,
+    "photo": {
+      "id": 23328801443,
+      "image_no": 1,
+      "width": 800,
+      "height": 360,
+      "dominant_color": "#8A686D",
+      "dominant_color_opaque": "#DCD2D3",
+      "url": "https://images1.vinted.net/t/04_003fb_43h6jDmcQheqVsAqTEdiTyvd/f800/1738591081.jpeg?s=b2ed12d996431b1bc3a909a98d17f1ffb75c6890",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_003fb_43h6jDmcQheqVsAqTEdiTyvd/70x100/1738591081.jpeg?s=64bc6071297a181d15c96d474d8b8a945a26eb83",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_003fb_43h6jDmcQheqVsAqTEdiTyvd/150x210/1738591081.jpeg?s=8657c60172fbe974323cb11d8f295b9cdafc7ddf",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_003fb_43h6jDmcQheqVsAqTEdiTyvd/310x430/1738591081.jpeg?s=8cd9f6f07d37a23aab915f52c9750a80ee34ee73",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_003fb_43h6jDmcQheqVsAqTEdiTyvd/f800/1738591081.jpeg?s=b2ed12d996431b1bc3a909a98d17f1ffb75c6890",
+          "width": 428,
+          "height": 192,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_003fb_43h6jDmcQheqVsAqTEdiTyvd/f800/1738591081.jpeg?s=b2ed12d996431b1bc3a909a98d17f1ffb75c6890",
+          "width": 624,
+          "height": 281,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_003fb_43h6jDmcQheqVsAqTEdiTyvd/f800/1738591081.jpeg?s=b2ed12d996431b1bc3a909a98d17f1ffb75c6890",
+          "width": 364,
+          "height": 164,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_003fb_43h6jDmcQheqVsAqTEdiTyvd",
+        "timestamp": 1738591081,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_003fb_43h6jDmcQheqVsAqTEdiTyvd/1738591081.jpeg?s=0335d5bcf5d1c4e28a92927e7c4e98e58f5be865",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 6,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "3.9",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "67.9",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 60423 Tramway City NEUF et scellé, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 64,00 €, 67,90 € Protection acheteurs (Pro) incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.04834160581231117,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5867462125,
+    "title": "Lego City 60423 Tramway du centre-ville NEUF et scellé",
+    "price": {
+      "amount": "59.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5867462125-lego-city-60423-tramway-du-centre-ville-neuf-et-scelle",
+    "user": {
+      "id": 45963865,
+      "login": "mattdm31",
+      "profile_url": "https://www.vinted.fr/member/45963865-mattdm31",
+      "photo": null,
+      "business": true
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5867462125-lego-city-60423-tramway-du-centre-ville-neuf-et-scelle",
+    "promoted": false,
+    "photo": {
+      "id": 23782529061,
+      "image_no": 1,
+      "width": 800,
+      "height": 360,
+      "dominant_color": "#8A686D",
+      "dominant_color_opaque": "#DCD2D3",
+      "url": "https://images1.vinted.net/t/02_01245_gd7CFu2dFv85yZUK2CW4CcfZ/f800/1740337310.jpeg?s=51e6778a89f50f87c66c3ee35d475717e58b229c",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_01245_gd7CFu2dFv85yZUK2CW4CcfZ/70x100/1740337310.jpeg?s=721db5e7e5cd17ac28e3b53ef9749316187a1634",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_01245_gd7CFu2dFv85yZUK2CW4CcfZ/150x210/1740337310.jpeg?s=d13f67cb986681cae57b0172e896be58bd6565a6",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_01245_gd7CFu2dFv85yZUK2CW4CcfZ/310x430/1740337310.jpeg?s=7c3ea2541cf16848307b1a3f7ebfbace24bed3ef",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_01245_gd7CFu2dFv85yZUK2CW4CcfZ/f800/1740337310.jpeg?s=51e6778a89f50f87c66c3ee35d475717e58b229c",
+          "width": 428,
+          "height": 192,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_01245_gd7CFu2dFv85yZUK2CW4CcfZ/f800/1740337310.jpeg?s=51e6778a89f50f87c66c3ee35d475717e58b229c",
+          "width": 624,
+          "height": 281,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_01245_gd7CFu2dFv85yZUK2CW4CcfZ/f800/1740337310.jpeg?s=51e6778a89f50f87c66c3ee35d475717e58b229c",
+          "width": 364,
+          "height": 164,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_01245_gd7CFu2dFv85yZUK2CW4CcfZ",
+        "timestamp": 1740337310,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_01245_gd7CFu2dFv85yZUK2CW4CcfZ/1740337310.jpeg?s=dfe8d2e0f4e6a0b885b15a2b9108c1031062717c",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 22,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "3.65",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "62.65",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego City 60423 Tramway du centre-ville NEUF et scellé, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 59,00 €, 62,65 € Protection acheteurs (Pro) incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.1177667081356049,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6035298527,
+    "title": "Croisements et lot de rails compatibles LEGO",
+    "price": {
+      "amount": "13.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6035298527-croisements-et-lot-de-rails-compatibles-lego",
+    "user": {
+      "id": 207752094,
+      "login": "000smiley000",
+      "profile_url": "https://www.vinted.fr/member/207752094-000smiley000",
+      "photo": {
+        "id": 194261876,
+        "width": 800,
+        "height": 400,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/f800/1716817693.jpeg?s=9cec2c04a616d3e731069d3ff7d1c661f3d57d32",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/310x310/1716817693.jpeg?s=93dfd09a835e7b13509d6245a88ec5f1718e285c",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/150x150/1716817693.jpeg?s=4b65f75c4b92575e84e140233748acf8636ae722",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/100x100/1716817693.jpeg?s=03bcec6d3f123d6237fcd7babaf7b9786483b4e0",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/50x50/1716817693.jpeg?s=9330ee89dfecb31aea127fd4ff4ca7b7194c5188",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/20x20/1716817693.jpeg?s=fc98464e344cb11ba25119e454b997321f23b7a9",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu",
+          "timestamp": 1716817693,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_01e66_XhqEH8JDAVs7oTtfCjQuGNmu/1716817693.jpeg?s=1dacc097f2f2bbd9926747cc74ff05def389e483",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6035298527-croisements-et-lot-de-rails-compatibles-lego",
+    "promoted": false,
+    "photo": {
+      "id": 24480652804,
+      "image_no": 1,
+      "width": 602,
+      "height": 800,
+      "dominant_color": "#8D8986",
+      "dominant_color_opaque": "#DDDCDB",
+      "url": "https://images1.vinted.net/t/03_00342_gQmrDUSkTmcjJr1bVANxHb5C/f800/1742976958.jpeg?s=60ecc6ae87ed5af44c4d0216d84271eb47fab871",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_00342_gQmrDUSkTmcjJr1bVANxHb5C/70x100/1742976958.jpeg?s=c1f1a48944b40fdb6106ffd90cad4b01d3b97ef3",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_00342_gQmrDUSkTmcjJr1bVANxHb5C/150x210/1742976958.jpeg?s=b5e1a48a8f8451ecbfa49e4c046e13c4b653a85b",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_00342_gQmrDUSkTmcjJr1bVANxHb5C/310x430/1742976958.jpeg?s=3f112d4f8233b996dfce4521bc8b7adb162b4101",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_00342_gQmrDUSkTmcjJr1bVANxHb5C/f800/1742976958.jpeg?s=60ecc6ae87ed5af44c4d0216d84271eb47fab871",
+          "width": 322,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_00342_gQmrDUSkTmcjJr1bVANxHb5C/f800/1742976958.jpeg?s=60ecc6ae87ed5af44c4d0216d84271eb47fab871",
+          "width": 469,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_00342_gQmrDUSkTmcjJr1bVANxHb5C/f800/1742976958.jpeg?s=60ecc6ae87ed5af44c4d0216d84271eb47fab871",
+          "width": 274,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_00342_gQmrDUSkTmcjJr1bVANxHb5C",
+        "timestamp": 1742976958,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_00342_gQmrDUSkTmcjJr1bVANxHb5C/1742976958.jpeg?s=70214491f1f7dddba76e728026037ffdc026253a",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 3,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "1.35",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "14.35",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "Croisements et lot de rails compatibles LEGO, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 13,00 €, 14,35 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.129464253783226,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5729185388,
+    "title": "Lego 60423 Downtown Streetcar",
+    "price": {
+      "amount": "65.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5729185388-lego-60423-downtown-streetcar",
+    "user": {
+      "id": 199161005,
+      "login": "joaorebe",
+      "profile_url": "https://www.vinted.fr/member/199161005-joaorebe",
+      "photo": {
+        "id": 188603485,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/f800/1713184996.jpeg?s=7e366dc2d02326426ab07b50c3006d6686a42872",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/310x310/1713184996.jpeg?s=ab0792a259feb9507f1cc616a8c9b9e94e30aa72",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/150x150/1713184996.jpeg?s=18f31a9ac056fac50b8cdc00e7f558fa94c6f087",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/100x100/1713184996.jpeg?s=b86394f2bfdc72b985bc24a54545549d52d140d0",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/50x50/1713184996.jpeg?s=8fd0de540735cbed038f49b82c91fc423ba38824",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/20x20/1713184996.jpeg?s=30b6a4cc87bcdbb96972f3f421916d83db8733bf",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_015a4_Bygk7S6kVwyeSms7zFhCw2tY",
+          "timestamp": 1713184996,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/1713184996.jpeg?s=42a80adf23256b8f390a69d865bc281a84196762",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5729185388-lego-60423-downtown-streetcar",
+    "promoted": false,
+    "photo": {
+      "id": 23208587089,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#77422E",
+      "dominant_color_opaque": "#D6C6C0",
+      "url": "https://images1.vinted.net/t/04_00955_d2A6JC7KFN2qYzwud7LzGRWw/f800/1738123947.jpeg?s=61abe6e7d7c34cf1522863c38dd5b324eb668060",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00955_d2A6JC7KFN2qYzwud7LzGRWw/70x100/1738123947.jpeg?s=b3524039d71666eb55b81e0342a8004733d38b89",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00955_d2A6JC7KFN2qYzwud7LzGRWw/150x210/1738123947.jpeg?s=466afd05a288dfd0b05fefbb0bbf76cdf58cda25",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00955_d2A6JC7KFN2qYzwud7LzGRWw/310x430/1738123947.jpeg?s=d5526f4f29ec723f85704043d7dfcba5831b0f8f",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00955_d2A6JC7KFN2qYzwud7LzGRWw/f800/1738123947.jpeg?s=61abe6e7d7c34cf1522863c38dd5b324eb668060",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00955_d2A6JC7KFN2qYzwud7LzGRWw/f800/1738123947.jpeg?s=61abe6e7d7c34cf1522863c38dd5b324eb668060",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00955_d2A6JC7KFN2qYzwud7LzGRWw/f800/1738123947.jpeg?s=61abe6e7d7c34cf1522863c38dd5b324eb668060",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00955_d2A6JC7KFN2qYzwud7LzGRWw",
+        "timestamp": 1738123947,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00955_d2A6JC7KFN2qYzwud7LzGRWw/1738123947.jpeg?s=04524e4571795518454a03230cc175e51175a944",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 6,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "3.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "68.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "7 ans / 122 cm",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "7 ans / 122 cm · Neuf sans étiquette",
+      "accessibility_label": "Lego 60423 Downtown Streetcar, marque: LEGO, état: Neuf sans étiquette, taille: 7 ans / 122 cm, 65,00 €, 68,95 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.1311173588037491,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5618706613,
+    "title": "Lego 60423",
+    "price": {
+      "amount": "74.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5618706613-lego-60423",
+    "user": {
+      "id": 205712437,
+      "login": "michelesilvestri79",
+      "profile_url": "https://www.vinted.fr/member/205712437-michelesilvestri79",
+      "photo": {
+        "id": 192984608,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/f800/1715949577.jpeg?s=3787bed5014f2efadec9117d1d1055c15df7ef51",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/310x310/1715949577.jpeg?s=bff1c8e58ecc8b959550b3aa14054f06722c9957",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/150x150/1715949577.jpeg?s=522cf1827c24dc0ff9beb17f15d8c876e655af87",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/100x100/1715949577.jpeg?s=975c6a8563ffa044c5e32315c725eaa32fcf4bc5",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/50x50/1715949577.jpeg?s=f6a2d36dd9865d7cd7b856c5b96d79ab0c6ce26b",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/20x20/1715949577.jpeg?s=bcb6e72e4f9074bf15037584bc1f74ab1ea0cac9",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_010ab_p5d2qk1Ghi8X7okWUDPa11hH",
+          "timestamp": 1715949577,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/1715949577.jpeg?s=33fb4fb69c1127910069edabbd50f43d91beabd1",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5618706613-lego-60423",
+    "promoted": false,
+    "photo": {
+      "id": 22756150805,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#917E7B",
+      "dominant_color_opaque": "#DED8D7",
+      "url": "https://images1.vinted.net/t/01_01c9b_5skdcKg9Vs5phowRuzgGHMpm/f800/1736284490.jpeg?s=d9c75a811be0bc21f732a56c4dfde5d43913bf3b",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/01_01c9b_5skdcKg9Vs5phowRuzgGHMpm/70x100/1736284490.jpeg?s=1ffc861fb0850cc3961adb6f06456c1607722a2b",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/01_01c9b_5skdcKg9Vs5phowRuzgGHMpm/150x210/1736284490.jpeg?s=bcd77f049f473f2c2dbfd6ad7d214580aa24b9ca",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/01_01c9b_5skdcKg9Vs5phowRuzgGHMpm/310x430/1736284490.jpeg?s=b187319dedf3cb89294f86dcf7853e5a2bda9e6f",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/01_01c9b_5skdcKg9Vs5phowRuzgGHMpm/f800/1736284490.jpeg?s=d9c75a811be0bc21f732a56c4dfde5d43913bf3b",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/01_01c9b_5skdcKg9Vs5phowRuzgGHMpm/f800/1736284490.jpeg?s=d9c75a811be0bc21f732a56c4dfde5d43913bf3b",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/01_01c9b_5skdcKg9Vs5phowRuzgGHMpm/f800/1736284490.jpeg?s=d9c75a811be0bc21f732a56c4dfde5d43913bf3b",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "01_01c9b_5skdcKg9Vs5phowRuzgGHMpm",
+        "timestamp": 1736284490,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/01_01c9b_5skdcKg9Vs5phowRuzgGHMpm/1736284490.jpeg?s=7d5a60cba79651b7459f72778edce0e462569693",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 25,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.4",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "78.4",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "8 ans / 128 cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "8 ans / 128 cm · Neuf avec étiquette",
+      "accessibility_label": "Lego 60423, marque: LEGO, état: Neuf avec étiquette, taille: 8 ans / 128 cm, 74,00 €, 78,40 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.3920452892780304,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5533737603,
+    "title": "Lego City Stadstram en station (60423)",
+    "price": {
+      "amount": "80.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5533737603-lego-city-stadstram-en-station-60423",
+    "user": {
+      "id": 36831054,
+      "login": "johnnybg_nl",
+      "profile_url": "https://www.vinted.fr/member/36831054-johnnybgnl",
+      "photo": {
+        "id": 30273351,
+        "width": 512,
+        "height": 512,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_002f9_xa6b21wsYwa1wp2kVss45czK/f800/1605205969.jpeg?s=c848700a25e5dcea728c74d441601379b67d479c",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_002f9_xa6b21wsYwa1wp2kVss45czK/310x310/1605205969.jpeg?s=498dc783426bec629fb9524e7fd10ee741106d3e",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_002f9_xa6b21wsYwa1wp2kVss45czK/150x150/1605205969.jpeg?s=69ad9edd098e297a07470759ab7f5d39c49bfbea",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_002f9_xa6b21wsYwa1wp2kVss45czK/100x100/1605205969.jpeg?s=eb693930606993253e7720bf7837a1945538b707",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_002f9_xa6b21wsYwa1wp2kVss45czK/50x50/1605205969.jpeg?s=7577a48db13749def9bd5abbd3640a4f091aa4f8",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_002f9_xa6b21wsYwa1wp2kVss45czK/20x20/1605205969.jpeg?s=c0988b3668ed00e84c8a54d3ace4ba166ac7e940",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_002f9_xa6b21wsYwa1wp2kVss45czK",
+          "timestamp": 1605205969,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_002f9_xa6b21wsYwa1wp2kVss45czK/1605205969.jpeg?s=87aa7c592db87e8af5f2aa5fe89fa87faa351553",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5533737603-lego-city-stadstram-en-station-60423",
+    "promoted": false,
+    "photo": {
+      "id": 22411403643,
+      "image_no": 1,
+      "width": 686,
+      "height": 419,
+      "dominant_color": "#7C5751",
+      "dominant_color_opaque": "#D8CDCB",
+      "url": "https://images1.vinted.net/t/03_0187b_FDw8Wm399tNEvbAJ5DxqNABR/f800/1734353684.jpeg?s=014e493c483b7f8dc1552ded75fec0b84808cfe9",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_0187b_FDw8Wm399tNEvbAJ5DxqNABR/70x100/1734353684.jpeg?s=98c9e20a344a3a15e09c9cf51b29dd5c58b56cb2",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_0187b_FDw8Wm399tNEvbAJ5DxqNABR/150x210/1734353684.jpeg?s=65d0f2cc32963dd4a14ed62066f92d57aa6c5407",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_0187b_FDw8Wm399tNEvbAJ5DxqNABR/310x430/1734353684.jpeg?s=36720b72198aec90d3ffd7a921aff1332b99799a",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_0187b_FDw8Wm399tNEvbAJ5DxqNABR/f800/1734353684.jpeg?s=014e493c483b7f8dc1552ded75fec0b84808cfe9",
+          "width": 428,
+          "height": 261,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_0187b_FDw8Wm399tNEvbAJ5DxqNABR/f800/1734353684.jpeg?s=014e493c483b7f8dc1552ded75fec0b84808cfe9",
+          "width": 624,
+          "height": 381,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_0187b_FDw8Wm399tNEvbAJ5DxqNABR/f800/1734353684.jpeg?s=014e493c483b7f8dc1552ded75fec0b84808cfe9",
+          "width": 364,
+          "height": 222,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_0187b_FDw8Wm399tNEvbAJ5DxqNABR",
+        "timestamp": 1734353684,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_0187b_FDw8Wm399tNEvbAJ5DxqNABR/1734353684.jpeg?s=6b6fb750663e150bfca776fcac18a07a2709fba2",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 5,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "84.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "Lego City Stadstram en station (60423), marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 80,00 €, 84,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.4226773381233215,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5523728985,
+    "title": "Lego City Stadstram en station (60423)",
+    "price": {
+      "amount": "75.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5523728985-lego-city-stadstram-en-station-60423",
+    "user": {
+      "id": 63127747,
+      "login": "matthiasdv",
+      "profile_url": "https://www.vinted.fr/member/63127747-matthiasdv",
+      "photo": null,
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5523728985-lego-city-stadstram-en-station-60423",
+    "promoted": false,
+    "photo": {
+      "id": 22369601255,
+      "image_no": 1,
+      "width": 800,
+      "height": 445,
+      "dominant_color": "#A6704C",
+      "dominant_color_opaque": "#E4D4C9",
+      "url": "https://images1.vinted.net/t/04_01418_MqKQZKEmUeRsf8p6pvtio1mW/f800/1734135737.jpeg?s=b0bd4364dc56e2b042b0874c9d471846aa626f7b",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01418_MqKQZKEmUeRsf8p6pvtio1mW/70x100/1734135737.jpeg?s=26e9fb967cdf46f574eeb869013c245b33192d2f",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01418_MqKQZKEmUeRsf8p6pvtio1mW/150x210/1734135737.jpeg?s=07a9e75c5d193760020fbdc84833d7769447a758",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01418_MqKQZKEmUeRsf8p6pvtio1mW/310x430/1734135737.jpeg?s=47f249afbb664145d84993d956b50486975629b5",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01418_MqKQZKEmUeRsf8p6pvtio1mW/f800/1734135737.jpeg?s=b0bd4364dc56e2b042b0874c9d471846aa626f7b",
+          "width": 428,
+          "height": 238,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01418_MqKQZKEmUeRsf8p6pvtio1mW/f800/1734135737.jpeg?s=b0bd4364dc56e2b042b0874c9d471846aa626f7b",
+          "width": 624,
+          "height": 347,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01418_MqKQZKEmUeRsf8p6pvtio1mW/f800/1734135737.jpeg?s=b0bd4364dc56e2b042b0874c9d471846aa626f7b",
+          "width": 364,
+          "height": 202,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01418_MqKQZKEmUeRsf8p6pvtio1mW",
+        "timestamp": 1734135737,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01418_MqKQZKEmUeRsf8p6pvtio1mW/1734135737.jpeg?s=2c9971f4d2f8090b09c0a11a31140643811ab1d0",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 4,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "79.45",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "7 ans / 122 cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "7 ans / 122 cm · Neuf avec étiquette",
+      "accessibility_label": "Lego City Stadstram en station (60423), marque: LEGO, état: Neuf avec étiquette, taille: 7 ans / 122 cm, 75,00 €, 79,45 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.4301179349422455,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 4835160832,
+    "title": "Lego 60423 city tram",
+    "price": {
+      "amount": "77.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/4835160832-lego-60423-city-tram",
+    "user": {
+      "id": 22865499,
+      "login": "legend_27",
+      "profile_url": "https://www.vinted.fr/member/22865499-legend27",
+      "photo": {
+        "id": 144038922,
+        "width": 800,
+        "height": 768,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_01a7e_SiSracQQYAzS8MogxEpuMQZg/f800/1685912754.jpeg?s=1202c118e6f8a643354b11b4cd064a413c35ff8d",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_01a7e_SiSracQQYAzS8MogxEpuMQZg/310x310/1685912754.jpeg?s=66f55e07f1f05592b4989c6edd460e5ee93f6f88",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_01a7e_SiSracQQYAzS8MogxEpuMQZg/150x150/1685912754.jpeg?s=72250fdb13c9104c3708aefcc4ccf22fdb64b28e",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_01a7e_SiSracQQYAzS8MogxEpuMQZg/100x100/1685912754.jpeg?s=57e381e6c1c1adc2922ef8c08240f385bdba7496",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_01a7e_SiSracQQYAzS8MogxEpuMQZg/50x50/1685912754.jpeg?s=abf46d069078e66d559b115f90a0f918297bbabf",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_01a7e_SiSracQQYAzS8MogxEpuMQZg/20x20/1685912754.jpeg?s=c90d34cc3df4c8a6b9009c53071f3556a1095e1d",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_01a7e_SiSracQQYAzS8MogxEpuMQZg",
+          "timestamp": 1685912754,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_01a7e_SiSracQQYAzS8MogxEpuMQZg/1685912754.jpeg?s=b004fcb245d40c809f06f534c0cb2548533e3dd5",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": true
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/4835160832-lego-60423-city-tram",
+    "promoted": false,
+    "photo": {
+      "id": 19632335252,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#87624D",
+      "dominant_color_opaque": "#DBD0CA",
+      "url": "https://images1.vinted.net/t/02_01c8f_fYCkJ8uG47i1DFMYvLAcTK9p/f800/1722528036.jpeg?s=ed031a7f04c1a3cdafe0c1ab5131d49d99941abf",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_01c8f_fYCkJ8uG47i1DFMYvLAcTK9p/70x100/1722528036.jpeg?s=66e5b592f4b7216f85863dab2306bbeb3e086863",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_01c8f_fYCkJ8uG47i1DFMYvLAcTK9p/150x210/1722528036.jpeg?s=d0c6585356fff99b189b367b4671c86fb6708039",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_01c8f_fYCkJ8uG47i1DFMYvLAcTK9p/310x430/1722528036.jpeg?s=e539078eae3d366dc74846ae1939bd02bca7042f",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_01c8f_fYCkJ8uG47i1DFMYvLAcTK9p/f800/1722528036.jpeg?s=ed031a7f04c1a3cdafe0c1ab5131d49d99941abf",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_01c8f_fYCkJ8uG47i1DFMYvLAcTK9p/f800/1722528036.jpeg?s=ed031a7f04c1a3cdafe0c1ab5131d49d99941abf",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_01c8f_fYCkJ8uG47i1DFMYvLAcTK9p/f800/1722528036.jpeg?s=ed031a7f04c1a3cdafe0c1ab5131d49d99941abf",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_01c8f_fYCkJ8uG47i1DFMYvLAcTK9p",
+        "timestamp": 1722528036,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_01c8f_fYCkJ8uG47i1DFMYvLAcTK9p/1722528036.jpeg?s=0e899595ed867476cc84b49de83016b22c6b1e27",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 49,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.55",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "81.55",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "Lego 60423 city tram, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 77,00 €, 81,55 € Protection acheteurs (Pro) incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.4402501285076141,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5724112142,
+    "title": "LEGO City Stadstram en station -nr  60423 -",
+    "price": {
+      "amount": "72.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5724112142-lego-city-stadstram-en-station-nr-60423",
+    "user": {
+      "id": 76739593,
+      "login": "100eurodeals",
+      "profile_url": "https://www.vinted.fr/member/76739593-100eurodeals",
+      "photo": {
+        "id": 234438333,
+        "width": 800,
+        "height": 359,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_020fa_hrFD5Gm99cM33KYW2UeYUnYF/f800/1741818888.jpeg?s=f90ae3a33f1b37d10e64f7a1adea9f8ff260dea2",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_020fa_hrFD5Gm99cM33KYW2UeYUnYF/310x310/1741818888.jpeg?s=40e5e495ca3e217f1eb578590ff43e95436510a8",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_020fa_hrFD5Gm99cM33KYW2UeYUnYF/150x150/1741818888.jpeg?s=5fa78d904576cc7c687486e3bbb9c0e66e06d54a",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_020fa_hrFD5Gm99cM33KYW2UeYUnYF/100x100/1741818888.jpeg?s=940c051574af37fbd29517f6d7552d54636b33f1",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_020fa_hrFD5Gm99cM33KYW2UeYUnYF/50x50/1741818888.jpeg?s=f9ce08f7835db5389a50df388d90e169e5692a46",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_020fa_hrFD5Gm99cM33KYW2UeYUnYF/20x20/1741818888.jpeg?s=72cb97ae53aad8a6c43461aab96838d39789a05e",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_020fa_hrFD5Gm99cM33KYW2UeYUnYF",
+          "timestamp": 1741818888,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_020fa_hrFD5Gm99cM33KYW2UeYUnYF/1741818888.jpeg?s=c13f58485be068cdec90a8d193899b5d39c7f50a",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5724112142-lego-city-stadstram-en-station-nr-60423",
+    "promoted": false,
+    "photo": {
+      "id": 23187695743,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#A48585",
+      "dominant_color_opaque": "#E4DADA",
+      "url": "https://images1.vinted.net/t/04_006ec_f3n9R1Bgw5fYQstjC3YYLHtL/f800/1738020541.jpeg?s=533f2ea91e9ee15826c587657b958c1bd97098b8",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_006ec_f3n9R1Bgw5fYQstjC3YYLHtL/70x100/1738020541.jpeg?s=cedd646f9d058609c71c8fdebeacc93bdd4057ba",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_006ec_f3n9R1Bgw5fYQstjC3YYLHtL/150x210/1738020541.jpeg?s=3c0825646d30b35b2e51824e7a52929eb4e35c3d",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_006ec_f3n9R1Bgw5fYQstjC3YYLHtL/310x430/1738020541.jpeg?s=af5e5379540d0869d65478267b8a3df77997e126",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_006ec_f3n9R1Bgw5fYQstjC3YYLHtL/f800/1738020541.jpeg?s=533f2ea91e9ee15826c587657b958c1bd97098b8",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_006ec_f3n9R1Bgw5fYQstjC3YYLHtL/f800/1738020541.jpeg?s=533f2ea91e9ee15826c587657b958c1bd97098b8",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_006ec_f3n9R1Bgw5fYQstjC3YYLHtL/f800/1738020541.jpeg?s=533f2ea91e9ee15826c587657b958c1bd97098b8",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_006ec_f3n9R1Bgw5fYQstjC3YYLHtL",
+        "timestamp": 1738020541,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_006ec_f3n9R1Bgw5fYQstjC3YYLHtL/1738020541.jpeg?s=f0d5058b47ff5afe52d0a686e6579d4eb3d8f940",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 9,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "4.3",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "76.3",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "7 ans / 122 cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "7 ans / 122 cm · Neuf avec étiquette",
+      "accessibility_label": "LEGO City Stadstram en station -nr  60423 -, marque: LEGO, état: Neuf avec étiquette, taille: 7 ans / 122 cm, 72,00 €, 76,30 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.5138434767723083,
+      "matched_queries": []
+    }
+  }
+]

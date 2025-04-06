@@ -1,0 +1,332 @@
+[
+  {
+    "id": 6039435932,
+    "title": "Lego 60453",
+    "price": {
+      "amount": "22.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6039435932-lego-60453",
+    "user": {
+      "id": 205712437,
+      "login": "michelesilvestri79",
+      "profile_url": "https://www.vinted.fr/member/205712437-michelesilvestri79",
+      "photo": {
+        "id": 192984608,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/f800/1715949577.jpeg?s=3787bed5014f2efadec9117d1d1055c15df7ef51",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/310x310/1715949577.jpeg?s=bff1c8e58ecc8b959550b3aa14054f06722c9957",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/150x150/1715949577.jpeg?s=522cf1827c24dc0ff9beb17f15d8c876e655af87",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/100x100/1715949577.jpeg?s=975c6a8563ffa044c5e32315c725eaa32fcf4bc5",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/50x50/1715949577.jpeg?s=f6a2d36dd9865d7cd7b856c5b96d79ab0c6ce26b",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/20x20/1715949577.jpeg?s=bcb6e72e4f9074bf15037584bc1f74ab1ea0cac9",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_010ab_p5d2qk1Ghi8X7okWUDPa11hH",
+          "timestamp": 1715949577,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/1715949577.jpeg?s=33fb4fb69c1127910069edabbd50f43d91beabd1",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6039435932-lego-60453",
+    "promoted": false,
+    "photo": {
+      "id": 24497816935,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#977B60",
+      "dominant_color_opaque": "#E0D7CF",
+      "url": "https://images1.vinted.net/t/04_009ad_6CFhUb2MnxM46niaSsi9LeGR/f800/1743017711.jpeg?s=6e53a985307a43005f2a868ae04dd6d2589b99c0",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_009ad_6CFhUb2MnxM46niaSsi9LeGR/70x100/1743017711.jpeg?s=911bb46c105f388bfd5e502883f5aedace8afac4",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_009ad_6CFhUb2MnxM46niaSsi9LeGR/150x210/1743017711.jpeg?s=174fba4101d46c93518f04941ae0927e6bf2eeef",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_009ad_6CFhUb2MnxM46niaSsi9LeGR/310x430/1743017711.jpeg?s=82b9204cbdd9268766d814820d508dc2d8aa2e3f",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_009ad_6CFhUb2MnxM46niaSsi9LeGR/f800/1743017711.jpeg?s=6e53a985307a43005f2a868ae04dd6d2589b99c0",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_009ad_6CFhUb2MnxM46niaSsi9LeGR/f800/1743017711.jpeg?s=6e53a985307a43005f2a868ae04dd6d2589b99c0",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_009ad_6CFhUb2MnxM46niaSsi9LeGR/f800/1743017711.jpeg?s=6e53a985307a43005f2a868ae04dd6d2589b99c0",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_009ad_6CFhUb2MnxM46niaSsi9LeGR",
+        "timestamp": 1743017711,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_009ad_6CFhUb2MnxM46niaSsi9LeGR/1743017711.jpeg?s=00baa747e03c0ed2e5887c1022478bed7f4747c9",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 7,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "1.8",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "23.8",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "10 ans / 140 cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "10 ans / 140 cm · Neuf avec étiquette",
+      "accessibility_label": "Lego 60453, marque: LEGO, état: Neuf avec étiquette, taille: 10 ans / 140 cm, 22,00 €, 23,80 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 37.6464,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6036109301,
+    "title": "Lego 60453",
+    "price": {
+      "amount": "22.99",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6036109301-lego-60453",
+    "user": {
+      "id": 118120783,
+      "login": "vitoralonso66",
+      "profile_url": "https://www.vinted.fr/member/118120783-vitoralonso66",
+      "photo": {
+        "id": 203080492,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_012ef_YqvBNFeFkiEkuUzMogy5oiwQ/f800/1723110168.jpeg?s=dea7660038e23836310bd3d63c209f9d42f86462",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_012ef_YqvBNFeFkiEkuUzMogy5oiwQ/310x310/1723110168.jpeg?s=a04d304f5266381aede6927cfd47a5a0d4f548f3",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_012ef_YqvBNFeFkiEkuUzMogy5oiwQ/150x150/1723110168.jpeg?s=80e06f22c7080901bc29fae83534f88b94b7ce71",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_012ef_YqvBNFeFkiEkuUzMogy5oiwQ/100x100/1723110168.jpeg?s=db8a3132a290a80bb86fb67dbbdf51d232ab978e",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_012ef_YqvBNFeFkiEkuUzMogy5oiwQ/50x50/1723110168.jpeg?s=5cf6719843af3482be22efb9a73c742a29fdcfef",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_012ef_YqvBNFeFkiEkuUzMogy5oiwQ/20x20/1723110168.jpeg?s=233794e5d46b55807f5687469bc640e00e10292e",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_012ef_YqvBNFeFkiEkuUzMogy5oiwQ",
+          "timestamp": 1723110168,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_012ef_YqvBNFeFkiEkuUzMogy5oiwQ/1723110168.jpeg?s=07fb66135c69d51b4749559735aef255942dd7b2",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6036109301-lego-60453",
+    "promoted": false,
+    "photo": {
+      "id": 24483983998,
+      "image_no": 1,
+      "width": 600,
+      "height": 800,
+      "dominant_color": "#695C4D",
+      "dominant_color_opaque": "#D2CECA",
+      "url": "https://images1.vinted.net/t/02_019bc_yXFCZDz6CyHcNLTXDajsCrPT/f800/1742986191.jpeg?s=b538c0165d6c5293ce511776ca095cf0f12c5777",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_019bc_yXFCZDz6CyHcNLTXDajsCrPT/70x100/1742986191.jpeg?s=02026801048dd027f4d810e9e2ce7d9e7e7c2d3f",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_019bc_yXFCZDz6CyHcNLTXDajsCrPT/150x210/1742986191.jpeg?s=b9e8b5f5a4e5521bf932fd891b8b57b680ef83ac",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_019bc_yXFCZDz6CyHcNLTXDajsCrPT/310x430/1742986191.jpeg?s=c6b5cdd5e4f25f0466f2a65249e2ec395e0e8206",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_019bc_yXFCZDz6CyHcNLTXDajsCrPT/f800/1742986191.jpeg?s=b538c0165d6c5293ce511776ca095cf0f12c5777",
+          "width": 321,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_019bc_yXFCZDz6CyHcNLTXDajsCrPT/f800/1742986191.jpeg?s=b538c0165d6c5293ce511776ca095cf0f12c5777",
+          "width": 468,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_019bc_yXFCZDz6CyHcNLTXDajsCrPT/f800/1742986191.jpeg?s=b538c0165d6c5293ce511776ca095cf0f12c5777",
+          "width": 273,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_019bc_yXFCZDz6CyHcNLTXDajsCrPT",
+        "timestamp": 1742986191,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_019bc_yXFCZDz6CyHcNLTXDajsCrPT/1742986191.jpeg?s=ffbd4e99bfa5b4feea7da1a5ab88cf6bdb98e5fc",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 2,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "1.85",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "24.84",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Prématuré, jusqu'à 44cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Prématuré, jusqu'à 44cm · Neuf avec étiquette",
+      "accessibility_label": "Lego 60453, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 22,99 €, 24,84 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 37.443092,
+      "matched_queries": []
+    }
+  }
+]

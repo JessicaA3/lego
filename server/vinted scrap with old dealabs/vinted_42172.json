@@ -1,0 +1,2917 @@
+[
+  {
+    "id": 6083692489,
+    "title": "Lego voiture  McLaren P1 42172",
+    "price": {
+      "amount": "280.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6083692489-lego-voiture-mclaren-p1-42172",
+    "user": {
+      "id": 257439773,
+      "login": "lucas-311",
+      "profile_url": "https://www.vinted.fr/member/257439773-lucas-311",
+      "photo": {
+        "id": 232451478,
+        "width": 800,
+        "height": 691,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_01c71_QAUi7TWyNRH7wTvzzUpzJxo1/f800/1740686714.jpeg?s=a0eb1d43a05f4e7ef168d7fcf1a84abc9916f36d",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_01c71_QAUi7TWyNRH7wTvzzUpzJxo1/310x310/1740686714.jpeg?s=8518ba5083660a46e9e0b6dbc0cdd53684f1f208",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_01c71_QAUi7TWyNRH7wTvzzUpzJxo1/150x150/1740686714.jpeg?s=10b4b87e1a2f806a0f9b08a0af03219d8722bb9f",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_01c71_QAUi7TWyNRH7wTvzzUpzJxo1/100x100/1740686714.jpeg?s=74eab98f14db9001533d29a6381e74c0091c6bbd",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_01c71_QAUi7TWyNRH7wTvzzUpzJxo1/50x50/1740686714.jpeg?s=1759b132a2edb3f7b79debf873040cb51ce0326f",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_01c71_QAUi7TWyNRH7wTvzzUpzJxo1/20x20/1740686714.jpeg?s=b49ed0ba2fe2c15b92e9c24ac37ca465e746d6d2",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_01c71_QAUi7TWyNRH7wTvzzUpzJxo1",
+          "timestamp": 1740686714,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_01c71_QAUi7TWyNRH7wTvzzUpzJxo1/1740686714.jpeg?s=ea313b1e4965f3fe63138cce98cbbc84e0f70afc",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6083692489-lego-voiture-mclaren-p1-42172",
+    "promoted": false,
+    "photo": {
+      "id": 24682512263,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#806C4E",
+      "dominant_color_opaque": "#D9D3CA",
+      "url": "https://images1.vinted.net/t/04_01477_3supyvWwrDSg8bBnihk2FaPw/f800/1743706328.jpeg?s=2e2fcaed7e1b76547115c752099ef4330f9313c3",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01477_3supyvWwrDSg8bBnihk2FaPw/70x100/1743706328.jpeg?s=baa4a9340bd5c7ae186f14602b5db581e569bb58",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01477_3supyvWwrDSg8bBnihk2FaPw/150x210/1743706328.jpeg?s=28437c4a04a55cf7849c87c9f24b39ab2356b52e",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01477_3supyvWwrDSg8bBnihk2FaPw/310x430/1743706328.jpeg?s=c82e7646c2ded602ae11792b677fad7f6e81725b",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01477_3supyvWwrDSg8bBnihk2FaPw/f800/1743706328.jpeg?s=2e2fcaed7e1b76547115c752099ef4330f9313c3",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01477_3supyvWwrDSg8bBnihk2FaPw/f800/1743706328.jpeg?s=2e2fcaed7e1b76547115c752099ef4330f9313c3",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01477_3supyvWwrDSg8bBnihk2FaPw/f800/1743706328.jpeg?s=2e2fcaed7e1b76547115c752099ef4330f9313c3",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01477_3supyvWwrDSg8bBnihk2FaPw",
+        "timestamp": 1743706328,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01477_3supyvWwrDSg8bBnihk2FaPw/1743706328.jpeg?s=b85c1128835e1becf25bfd832f74770bf1f4479c",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 23,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "14.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "294.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "12 ans / 152 cm",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "12 ans / 152 cm · Neuf sans étiquette",
+      "accessibility_label": "Lego voiture  McLaren P1 42172, marque: LEGO, état: Neuf sans étiquette, taille: 12 ans / 152 cm, 280,00 €, 294,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 1.2981116771698,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6072889919,
+    "title": "LEGO Technic  McLaren P1 42172",
+    "price": {
+      "amount": "321.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6072889919-lego-technic-mclaren-p1-42172",
+    "user": {
+      "id": 170975647,
+      "login": "voicemail",
+      "profile_url": "https://www.vinted.fr/member/170975647-voicemail",
+      "photo": {
+        "id": 234566047,
+        "width": 800,
+        "height": 468,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_00aed_sWQqzUNukkwRfNUfpf1z7Tk7/f800/1741893728.jpeg?s=5886021576e2e0bb6d91b4ef2a15dcab5a3e9952",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_00aed_sWQqzUNukkwRfNUfpf1z7Tk7/310x310/1741893728.jpeg?s=ef980b98a80cc2a9008d52e130d812a7cd41e9e1",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_00aed_sWQqzUNukkwRfNUfpf1z7Tk7/150x150/1741893728.jpeg?s=7d1c9df36db5c65050b7858ad6127ca768a61d05",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_00aed_sWQqzUNukkwRfNUfpf1z7Tk7/100x100/1741893728.jpeg?s=c7d6a5f2ffda728fb145bf294b8cf0c2349d618d",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_00aed_sWQqzUNukkwRfNUfpf1z7Tk7/50x50/1741893728.jpeg?s=dad0154e642279feba39d116997fdb24c5f27c12",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_00aed_sWQqzUNukkwRfNUfpf1z7Tk7/20x20/1741893728.jpeg?s=e002e05f96794ea3ce36e9ba65e3428594a2554a",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_00aed_sWQqzUNukkwRfNUfpf1z7Tk7",
+          "timestamp": 1741893728,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_00aed_sWQqzUNukkwRfNUfpf1z7Tk7/1741893728.jpeg?s=dbf2d04eb8543a4d07ba51622cbb94466f3ea467",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6072889919-lego-technic-mclaren-p1-42172",
+    "promoted": false,
+    "photo": {
+      "id": 24637329076,
+      "image_no": 1,
+      "width": 800,
+      "height": 610,
+      "dominant_color": "#495A64",
+      "dominant_color_opaque": "#C8CED1",
+      "url": "https://images1.vinted.net/t/02_01ee8_3D3GRfETE2vU8Ug2aXcBEumT/f800/1743530800.jpeg?s=a42467ef4827c9d4b8effb221c4504116fadba1c",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_01ee8_3D3GRfETE2vU8Ug2aXcBEumT/70x100/1743530800.jpeg?s=4feca0847f86038bdc738509f8e6d4f95d61df6e",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_01ee8_3D3GRfETE2vU8Ug2aXcBEumT/150x210/1743530800.jpeg?s=0988cf3a014094454b4b84099f6696e6fa14d00a",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_01ee8_3D3GRfETE2vU8Ug2aXcBEumT/310x430/1743530800.jpeg?s=9ddb284827685ad0a8e32a582c1aa8542d25cec0",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_01ee8_3D3GRfETE2vU8Ug2aXcBEumT/f800/1743530800.jpeg?s=a42467ef4827c9d4b8effb221c4504116fadba1c",
+          "width": 428,
+          "height": 326,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_01ee8_3D3GRfETE2vU8Ug2aXcBEumT/f800/1743530800.jpeg?s=a42467ef4827c9d4b8effb221c4504116fadba1c",
+          "width": 624,
+          "height": 476,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_01ee8_3D3GRfETE2vU8Ug2aXcBEumT/f800/1743530800.jpeg?s=a42467ef4827c9d4b8effb221c4504116fadba1c",
+          "width": 364,
+          "height": 277,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_01ee8_3D3GRfETE2vU8Ug2aXcBEumT",
+        "timestamp": 1743530800,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_01ee8_3D3GRfETE2vU8Ug2aXcBEumT/1743530800.jpeg?s=9b8b5fa4791c7eac236517ee6febe7c05ef67a1d",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 11,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "16.75",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "337.75",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "XXL",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "XXL · Neuf sans étiquette",
+      "accessibility_label": "LEGO Technic  McLaren P1 42172, marque: LEGO, état: Neuf sans étiquette, taille: XXL, 321,00 €, 337,75 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 0.5322225093841553,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5984300224,
+    "title": "McLaren P1 42172 Compatible",
+    "price": {
+      "amount": "105.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5984300224-mclaren-p1-42172-compatible",
+    "user": {
+      "id": 202299924,
+      "login": "mateob13",
+      "profile_url": "https://www.vinted.fr/member/202299924-mateob13",
+      "photo": {
+        "id": 229419046,
+        "width": 369,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_00674_N5s4i3nN5kkYg5RPNTGNp2u7/f800/1738882611.jpeg?s=29e1b847ce70fd7c42ddb7b56ca787c2f261573b",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_00674_N5s4i3nN5kkYg5RPNTGNp2u7/310x310/1738882611.jpeg?s=71638eaa5887ab11dcbd23083c390247a2fd05b0",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_00674_N5s4i3nN5kkYg5RPNTGNp2u7/150x150/1738882611.jpeg?s=cc9856f543b69e49b119007ac27e59fde954b4d1",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_00674_N5s4i3nN5kkYg5RPNTGNp2u7/100x100/1738882611.jpeg?s=2668e7d690266105aa00ff52dae7f5c192e27f12",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_00674_N5s4i3nN5kkYg5RPNTGNp2u7/50x50/1738882611.jpeg?s=27a4465eaca00c492bd10a2c319990361882493d",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_00674_N5s4i3nN5kkYg5RPNTGNp2u7/20x20/1738882611.jpeg?s=5987b55181bb5cb01d680ed1f7dab86c6df21a85",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_00674_N5s4i3nN5kkYg5RPNTGNp2u7",
+          "timestamp": 1738882611,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_00674_N5s4i3nN5kkYg5RPNTGNp2u7/1738882611.jpeg?s=a34e4c95abb0d165e07767a300117f8435283f9f",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5984300224-mclaren-p1-42172-compatible",
+    "promoted": false,
+    "photo": {
+      "id": 24268645892,
+      "image_no": 1,
+      "width": 618,
+      "height": 800,
+      "dominant_color": "#433311",
+      "dominant_color_opaque": "#C7C2B8",
+      "url": "https://images1.vinted.net/t/01_025d6_Ghe98UBvFuYTF5BCEiaATAGo/f800/1742214606.jpeg?s=18718b4f1c6f6776fdc75e96f1595ff15a55c05f",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/01_025d6_Ghe98UBvFuYTF5BCEiaATAGo/70x100/1742214606.jpeg?s=fe8e6367698192a8905fc4cca4c7d354c4664153",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/01_025d6_Ghe98UBvFuYTF5BCEiaATAGo/150x210/1742214606.jpeg?s=51cad8a22fc933d1b0bde5ab9753c7d0cf578abc",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/01_025d6_Ghe98UBvFuYTF5BCEiaATAGo/310x430/1742214606.jpeg?s=5f4ae3f8ecb7c394ac9e8fc899f689e751a21ca5",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/01_025d6_Ghe98UBvFuYTF5BCEiaATAGo/f800/1742214606.jpeg?s=18718b4f1c6f6776fdc75e96f1595ff15a55c05f",
+          "width": 330,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/01_025d6_Ghe98UBvFuYTF5BCEiaATAGo/f800/1742214606.jpeg?s=18718b4f1c6f6776fdc75e96f1595ff15a55c05f",
+          "width": 482,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/01_025d6_Ghe98UBvFuYTF5BCEiaATAGo/f800/1742214606.jpeg?s=18718b4f1c6f6776fdc75e96f1595ff15a55c05f",
+          "width": 281,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "01_025d6_Ghe98UBvFuYTF5BCEiaATAGo",
+        "timestamp": 1742214606,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/01_025d6_Ghe98UBvFuYTF5BCEiaATAGo/1742214606.jpeg?s=1a351f51a77a5583ca8a65e088cdd5b261c185c8",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 8,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "5.95",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "110.95",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "XXL",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "XXL · Neuf avec étiquette",
+      "accessibility_label": "McLaren P1 42172 Compatible, marque: LEGO, état: Neuf avec étiquette, taille: XXL, 105,00 €, 110,95 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": 0.02182269096374512,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6004155369,
+    "title": "Lego technic 42172",
+    "price": {
+      "amount": "360.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6004155369-lego-technic-42172",
+    "user": {
+      "id": 25488463,
+      "login": "gregory-93",
+      "profile_url": "https://www.vinted.fr/member/25488463-gregory-93",
+      "photo": {
+        "id": 25726374,
+        "width": 800,
+        "height": 436,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_006e1_n6iUnYNJG867PEfpvyFqkqeF/f800/1605249429.jpeg?s=4a7b2f2ae2a29240ad4d38146f26bde02cabed65",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_006e1_n6iUnYNJG867PEfpvyFqkqeF/310x310/1605249429.jpeg?s=d9dfb57528d21c038b9bb2e8cfd8182bf1414aa3",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_006e1_n6iUnYNJG867PEfpvyFqkqeF/150x150/1605249429.jpeg?s=b235e75b309171bf1301901a3f62388b8fbdd79c",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_006e1_n6iUnYNJG867PEfpvyFqkqeF/100x100/1605249429.jpeg?s=f0d96b72e4010e22e554ec69c7c60362d891f921",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_006e1_n6iUnYNJG867PEfpvyFqkqeF/50x50/1605249429.jpeg?s=59e3111ab7ae12d3cc9a488ccc05a44c393430b8",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_006e1_n6iUnYNJG867PEfpvyFqkqeF/20x20/1605249429.jpeg?s=b94e99b7b43085b384b72f328e2d32f0bfd45529",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_006e1_n6iUnYNJG867PEfpvyFqkqeF",
+          "timestamp": 1605249429,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_006e1_n6iUnYNJG867PEfpvyFqkqeF/1605249429.jpeg?s=d7e3a383fc39f09386a8f53dfaef1e559cdf1c29",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6004155369-lego-technic-42172",
+    "promoted": false,
+    "photo": {
+      "id": 24351396955,
+      "image_no": 1,
+      "width": 450,
+      "height": 800,
+      "dominant_color": "#5F5A57",
+      "dominant_color_opaque": "#CFCECD",
+      "url": "https://images1.vinted.net/t/04_023d5_xvYtbBrdYTeg7iQ9mDTxu6Fk/f800/1742501649.jpeg?s=b65ad2db1378393813d799f4a84dded5ab228d6c",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_023d5_xvYtbBrdYTeg7iQ9mDTxu6Fk/70x100/1742501649.jpeg?s=558b86cc12705bd246b3c1cf41b09e9fd2ba0566",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_023d5_xvYtbBrdYTeg7iQ9mDTxu6Fk/150x210/1742501649.jpeg?s=e4a249edbdfc62135be570300ffcbd0fd6ee5cd0",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_023d5_xvYtbBrdYTeg7iQ9mDTxu6Fk/310x430/1742501649.jpeg?s=0bc35c48d50d36adb21f2e63cf1d5a3e2b1d1984",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_023d5_xvYtbBrdYTeg7iQ9mDTxu6Fk/f800/1742501649.jpeg?s=b65ad2db1378393813d799f4a84dded5ab228d6c",
+          "width": 241,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_023d5_xvYtbBrdYTeg7iQ9mDTxu6Fk/f800/1742501649.jpeg?s=b65ad2db1378393813d799f4a84dded5ab228d6c",
+          "width": 351,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_023d5_xvYtbBrdYTeg7iQ9mDTxu6Fk/f800/1742501649.jpeg?s=b65ad2db1378393813d799f4a84dded5ab228d6c",
+          "width": 204,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_023d5_xvYtbBrdYTeg7iQ9mDTxu6Fk",
+        "timestamp": 1742501649,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_023d5_xvYtbBrdYTeg7iQ9mDTxu6Fk/1742501649.jpeg?s=bf70d7df5c860b5639e8d6250845eed2bcaee500",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 7,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "18.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "378.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Neuf avec étiquette",
+      "accessibility_label": "Lego technic 42172, marque: LEGO, état: Neuf avec étiquette, 360,00 €, 378,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.003928434569388628,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6052953031,
+    "title": "LEGO Technic McLaren P1 42172",
+    "price": {
+      "amount": "370.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6052953031-lego-technic-mclaren-p1-42172",
+    "user": {
+      "id": 65476425,
+      "login": "ary-fashion-style",
+      "profile_url": "https://www.vinted.fr/member/65476425-ary-fashion-style",
+      "photo": {
+        "id": 114491528,
+        "width": 642,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_0000a_2KnZncNWpWqjCAqcawgdqAAm/f800/1667493031.jpeg?s=018d76115a0d4b5497984405e78b3e7609790fd7",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_0000a_2KnZncNWpWqjCAqcawgdqAAm/310x310/1667493031.jpeg?s=99fa5d2054ae5ac0a0dcfd48cb10b6d5791ff180",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_0000a_2KnZncNWpWqjCAqcawgdqAAm/150x150/1667493031.jpeg?s=6d1932d1bc5d4690e8d3d6bc6cfbba6e5c013a88",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_0000a_2KnZncNWpWqjCAqcawgdqAAm/100x100/1667493031.jpeg?s=a989e8bd202e8acb7258aa1af6e0052c426b22b8",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_0000a_2KnZncNWpWqjCAqcawgdqAAm/50x50/1667493031.jpeg?s=b9fb806121a5fcfaa16fa6c4749a62be78943e4f",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_0000a_2KnZncNWpWqjCAqcawgdqAAm/20x20/1667493031.jpeg?s=72188914b5f73783482491904622d573ca162e4b",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_0000a_2KnZncNWpWqjCAqcawgdqAAm",
+          "timestamp": 1667493031,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_0000a_2KnZncNWpWqjCAqcawgdqAAm/1667493031.jpeg?s=a3d7a89df66e6e3fadc223f34621e28a8ecccce6",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6052953031-lego-technic-mclaren-p1-42172",
+    "promoted": false,
+    "photo": {
+      "id": 24554840218,
+      "image_no": 1,
+      "width": 800,
+      "height": 800,
+      "dominant_color": "#3C475A",
+      "dominant_color_opaque": "#C5C8CE",
+      "url": "https://images1.vinted.net/t/04_01dcb_AALtE3vs3yBZPjkVyNjawSTJ/f800/1743256464.jpeg?s=0ba9893a11f01aa4fbb8af5b908f1ed0d8e403e4",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01dcb_AALtE3vs3yBZPjkVyNjawSTJ/70x100/1743256464.jpeg?s=045934c015f132a175b7f0a5d6ed1b14032ba42a",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01dcb_AALtE3vs3yBZPjkVyNjawSTJ/150x210/1743256464.jpeg?s=792d47b17d7f09fdc36a687d43176e392eda6651",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01dcb_AALtE3vs3yBZPjkVyNjawSTJ/310x430/1743256464.jpeg?s=223b9c66418889cc526869591a1735b1dbfb3ab1",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01dcb_AALtE3vs3yBZPjkVyNjawSTJ/f800/1743256464.jpeg?s=0ba9893a11f01aa4fbb8af5b908f1ed0d8e403e4",
+          "width": 428,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01dcb_AALtE3vs3yBZPjkVyNjawSTJ/f800/1743256464.jpeg?s=0ba9893a11f01aa4fbb8af5b908f1ed0d8e403e4",
+          "width": 624,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01dcb_AALtE3vs3yBZPjkVyNjawSTJ/f800/1743256464.jpeg?s=0ba9893a11f01aa4fbb8af5b908f1ed0d8e403e4",
+          "width": 364,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01dcb_AALtE3vs3yBZPjkVyNjawSTJ",
+        "timestamp": 1743256464,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01dcb_AALtE3vs3yBZPjkVyNjawSTJ/1743256464.jpeg?s=055a7afffe364e4b60efb430969cd7f768f4af68",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 4,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "19.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "389.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "LEGO Technic McLaren P1 42172, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 370,00 €, 389,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.007232100702822208,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6077943137,
+    "title": "Lego McLaren",
+    "price": {
+      "amount": "400.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6077943137-lego-mclaren",
+    "user": {
+      "id": 118861964,
+      "login": "sofia210207",
+      "profile_url": "https://www.vinted.fr/member/118861964-sofia210207",
+      "photo": {
+        "id": 165329410,
+        "width": 450,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_0161c_JgcY7bWcVR4y7485iUMj8BW1/f800/1699024285.jpeg?s=fb950b5f25f80a34bb6fd061ed3e1c75567d8658",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_0161c_JgcY7bWcVR4y7485iUMj8BW1/310x310/1699024285.jpeg?s=9458aca88b965578d4725cfb7d066861ee77d8b2",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_0161c_JgcY7bWcVR4y7485iUMj8BW1/150x150/1699024285.jpeg?s=10cdcbdadf3fcd4de26d785ab0e87912827e03b1",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_0161c_JgcY7bWcVR4y7485iUMj8BW1/100x100/1699024285.jpeg?s=99ec63b5d035e8cf6f5bf177be44ff1ce01fb099",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_0161c_JgcY7bWcVR4y7485iUMj8BW1/50x50/1699024285.jpeg?s=6804c463283feb87b3d65407e8ed04ab3043ea0a",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_0161c_JgcY7bWcVR4y7485iUMj8BW1/20x20/1699024285.jpeg?s=317ae04ec995662b1fcc944ffd8fccfc0b55d5ef",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_0161c_JgcY7bWcVR4y7485iUMj8BW1",
+          "timestamp": 1699024285,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_0161c_JgcY7bWcVR4y7485iUMj8BW1/1699024285.jpeg?s=2a7151bc84fa5bd4de44f81d3e2ca698e19bd4a0",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6077943137-lego-mclaren",
+    "promoted": false,
+    "photo": {
+      "id": 24658353856,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#6F5637",
+      "dominant_color_opaque": "#D4CCC3",
+      "url": "https://images1.vinted.net/t/04_024ef_7cWaGXcAhHYTLLz2TUaXCbwc/f800/1743613389.jpeg?s=06cba066afb9f83524e3400cb6543c28075203af",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_024ef_7cWaGXcAhHYTLLz2TUaXCbwc/70x100/1743613389.jpeg?s=cd0ed9e46c8216c42576ef593c58e1159588119c",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_024ef_7cWaGXcAhHYTLLz2TUaXCbwc/150x210/1743613389.jpeg?s=a6569f0c4f84a8e425820d893589bb39827c2698",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_024ef_7cWaGXcAhHYTLLz2TUaXCbwc/310x430/1743613389.jpeg?s=c98db10cb6b3e1f005885e725e409057f39fbda1",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_024ef_7cWaGXcAhHYTLLz2TUaXCbwc/f800/1743613389.jpeg?s=06cba066afb9f83524e3400cb6543c28075203af",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_024ef_7cWaGXcAhHYTLLz2TUaXCbwc/f800/1743613389.jpeg?s=06cba066afb9f83524e3400cb6543c28075203af",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_024ef_7cWaGXcAhHYTLLz2TUaXCbwc/f800/1743613389.jpeg?s=06cba066afb9f83524e3400cb6543c28075203af",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_024ef_7cWaGXcAhHYTLLz2TUaXCbwc",
+        "timestamp": 1743613389,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_024ef_7cWaGXcAhHYTLLz2TUaXCbwc/1743613389.jpeg?s=c69db52566da919c567dbea55280400484116cfa",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 2,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "20.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "420.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "XXL",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "XXL · Neuf sans étiquette",
+      "accessibility_label": "Lego McLaren, marque: LEGO, état: Neuf sans étiquette, taille: XXL, 400,00 €, 420,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.007378408685326576,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6074501851,
+    "title": "Lego 42172 McLaren",
+    "price": {
+      "amount": "390.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6074501851-lego-42172-mclaren",
+    "user": {
+      "id": 24038420,
+      "login": "davidcdz",
+      "profile_url": "https://www.vinted.fr/member/24038420-davidcdz",
+      "photo": {
+        "id": 197872484,
+        "width": 370,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/f800/1719328509.jpeg?s=13db45c78fa5551b405ccb81f494f2eb6e54952b",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/310x310/1719328509.jpeg?s=7fce14ad792cb5320fe26411da15e30db7042822",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/150x150/1719328509.jpeg?s=8adea5bbdd64fd24b461c41c19a9b2be60bbad0b",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/100x100/1719328509.jpeg?s=40c3cb319c39714a0c0a6f816344e3cad43adb76",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/50x50/1719328509.jpeg?s=aff62a3753fe40ff2173c4edbd3bd7b25bb7b0cc",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/20x20/1719328509.jpeg?s=011288ffeb03dea6ed01750fb09c9f90ca0c8dfb",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr",
+          "timestamp": 1719328509,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/1719328509.jpeg?s=666ea95b33a5b6ff917ca6c066b4e6cd0de1eafd",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6074501851-lego-42172-mclaren",
+    "promoted": false,
+    "photo": {
+      "id": 24644008462,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#564C3C",
+      "dominant_color_opaque": "#CCC9C5",
+      "url": "https://images1.vinted.net/t/04_02333_XosgUCVeGWKyCaPX34GpUxmF/f800/1743580411.jpeg?s=472aa13a052ca7b198f01d0199262973d24f1be6",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_02333_XosgUCVeGWKyCaPX34GpUxmF/70x100/1743580411.jpeg?s=21ad55acdc29636374f0cfe2168fd686b9651b0c",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_02333_XosgUCVeGWKyCaPX34GpUxmF/150x210/1743580411.jpeg?s=15d06a3511d48da0f266c4bebc61c5521aa78fd6",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_02333_XosgUCVeGWKyCaPX34GpUxmF/310x430/1743580411.jpeg?s=b0d15ea604dc160dd93ddf1751fde97087ffa2de",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_02333_XosgUCVeGWKyCaPX34GpUxmF/f800/1743580411.jpeg?s=472aa13a052ca7b198f01d0199262973d24f1be6",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_02333_XosgUCVeGWKyCaPX34GpUxmF/f800/1743580411.jpeg?s=472aa13a052ca7b198f01d0199262973d24f1be6",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_02333_XosgUCVeGWKyCaPX34GpUxmF/f800/1743580411.jpeg?s=472aa13a052ca7b198f01d0199262973d24f1be6",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_02333_XosgUCVeGWKyCaPX34GpUxmF",
+        "timestamp": 1743580411,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_02333_XosgUCVeGWKyCaPX34GpUxmF/1743580411.jpeg?s=21fdb48980cbd0500a7a76d915148a907fd989cc",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 2,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "20.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "410.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "Lego 42172 McLaren, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 390,00 €, 410,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.01343410741537809,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6037795467,
+    "title": "Lego McLaren P 42172",
+    "price": {
+      "amount": "380.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6037795467-lego-mclaren-p-42172",
+    "user": {
+      "id": 261938093,
+      "login": "stefano.scoglio",
+      "profile_url": "https://www.vinted.fr/member/261938093-stefanoscoglio",
+      "photo": {
+        "id": 236754012,
+        "width": 581,
+        "height": 633,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_01dc2_jX2qCCYsshW5Dz1VvtkEnWUN/f800/1743067345.jpeg?s=4775c2c5a44e8e10fef3f0c2f27e0049d8eb7f08",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_01dc2_jX2qCCYsshW5Dz1VvtkEnWUN/310x310/1743067345.jpeg?s=9efefad1e43c749a1c097813a41d3b92461318f1",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_01dc2_jX2qCCYsshW5Dz1VvtkEnWUN/150x150/1743067345.jpeg?s=f5bc1477014223a0f6053b73056898c63b614f9f",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_01dc2_jX2qCCYsshW5Dz1VvtkEnWUN/100x100/1743067345.jpeg?s=8a74408a573e723036e7cf06a252e0d60cd543b5",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_01dc2_jX2qCCYsshW5Dz1VvtkEnWUN/50x50/1743067345.jpeg?s=8c3588bafbe78e3696f32d4f544faa68658dfebd",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_01dc2_jX2qCCYsshW5Dz1VvtkEnWUN/20x20/1743067345.jpeg?s=61b85a376600cd10e8b46ac9f0b1069a307b04d5",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_01dc2_jX2qCCYsshW5Dz1VvtkEnWUN",
+          "timestamp": 1743067345,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_01dc2_jX2qCCYsshW5Dz1VvtkEnWUN/1743067345.jpeg?s=ef4ec4524894b68e1aa40b404bc21cbe942ef5b9",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6037795467-lego-mclaren-p-42172",
+    "promoted": false,
+    "photo": {
+      "id": 24490938646,
+      "image_no": 1,
+      "width": 800,
+      "height": 560,
+      "dominant_color": "#776867",
+      "dominant_color_opaque": "#D6D2D1",
+      "url": "https://images1.vinted.net/t/04_01748_4BuBwJC2uSZEkQTNwxYSngvp/f800/1743002216.jpeg?s=fade8dcc0f648fab47b86c72ffeedce91b5b4303",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01748_4BuBwJC2uSZEkQTNwxYSngvp/70x100/1743002216.jpeg?s=cc940e1a36f8b687bc568c6c879631eb691f711f",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01748_4BuBwJC2uSZEkQTNwxYSngvp/150x210/1743002216.jpeg?s=3c0c19276ce69c1ef4e2cb7c865b32b1a490b86e",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01748_4BuBwJC2uSZEkQTNwxYSngvp/310x430/1743002216.jpeg?s=e349ce72286354c0830a604dc81b5e7624769457",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01748_4BuBwJC2uSZEkQTNwxYSngvp/f800/1743002216.jpeg?s=fade8dcc0f648fab47b86c72ffeedce91b5b4303",
+          "width": 428,
+          "height": 299,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01748_4BuBwJC2uSZEkQTNwxYSngvp/f800/1743002216.jpeg?s=fade8dcc0f648fab47b86c72ffeedce91b5b4303",
+          "width": 624,
+          "height": 437,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01748_4BuBwJC2uSZEkQTNwxYSngvp/f800/1743002216.jpeg?s=fade8dcc0f648fab47b86c72ffeedce91b5b4303",
+          "width": 364,
+          "height": 255,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01748_4BuBwJC2uSZEkQTNwxYSngvp",
+        "timestamp": 1743002216,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01748_4BuBwJC2uSZEkQTNwxYSngvp/1743002216.jpeg?s=0f590ea7d46cfc0ac31bb989dc6e4762f098250c",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 0,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "19.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "399.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Neuf avec étiquette",
+      "accessibility_label": "Lego McLaren P 42172, marque: LEGO, état: Neuf avec étiquette, 380,00 €, 399,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.01439437549561262,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5366188940,
+    "title": "Lego McLaren 42172",
+    "price": {
+      "amount": "350.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5366188940-lego-mclaren-42172",
+    "user": {
+      "id": 45030694,
+      "login": "curly_.may",
+      "profile_url": "https://www.vinted.fr/member/45030694-curlymay",
+      "photo": {
+        "id": 86510494,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_017a7_aihzg4EqcVVn7UWk5beLbBy7/f800/1649680027.jpeg?s=639b0e3593b125c58996dae4788d145729629652",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_017a7_aihzg4EqcVVn7UWk5beLbBy7/310x310/1649680027.jpeg?s=073b09fa8321993cb1d105a01982ce2118408f68",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_017a7_aihzg4EqcVVn7UWk5beLbBy7/150x150/1649680027.jpeg?s=6dadb053e399467686cc1188180012eaf02e7f01",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_017a7_aihzg4EqcVVn7UWk5beLbBy7/100x100/1649680027.jpeg?s=dbffdf3f318fe85df19de239a3eed1c506d75916",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_017a7_aihzg4EqcVVn7UWk5beLbBy7/50x50/1649680027.jpeg?s=b4cf4d4d17a06b1028dc4367a68bb920b2992fd6",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_017a7_aihzg4EqcVVn7UWk5beLbBy7/20x20/1649680027.jpeg?s=8ccf3023b8275d87f5d0ac673ca6345aa0b7c766",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_017a7_aihzg4EqcVVn7UWk5beLbBy7",
+          "timestamp": 1649680027,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_017a7_aihzg4EqcVVn7UWk5beLbBy7/1649680027.jpeg?s=8298b1be515fedea32566ba580dd3a038acba983",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5366188940-lego-mclaren-42172",
+    "promoted": false,
+    "photo": {
+      "id": 21720637775,
+      "image_no": 1,
+      "width": 800,
+      "height": 800,
+      "dominant_color": "#654B36",
+      "dominant_color_opaque": "#D1C9C3",
+      "url": "https://images1.vinted.net/t/04_01bf4_vHR7mvBczEGXi8T8V646nf3k/f800/1731336217.jpeg?s=65d9bba474840b06ae7781533d5066f5af758ea4",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01bf4_vHR7mvBczEGXi8T8V646nf3k/70x100/1731336217.jpeg?s=e1699b97139416aa5dff4ce687eb8368c49e0f0b",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01bf4_vHR7mvBczEGXi8T8V646nf3k/150x210/1731336217.jpeg?s=12434b700b081f983c4493d8eb1316b83e869362",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01bf4_vHR7mvBczEGXi8T8V646nf3k/310x430/1731336217.jpeg?s=192621fe508bd2a1912a6f09e77f21217d4c4036",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01bf4_vHR7mvBczEGXi8T8V646nf3k/f800/1731336217.jpeg?s=65d9bba474840b06ae7781533d5066f5af758ea4",
+          "width": 428,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01bf4_vHR7mvBczEGXi8T8V646nf3k/f800/1731336217.jpeg?s=65d9bba474840b06ae7781533d5066f5af758ea4",
+          "width": 624,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01bf4_vHR7mvBczEGXi8T8V646nf3k/f800/1731336217.jpeg?s=65d9bba474840b06ae7781533d5066f5af758ea4",
+          "width": 364,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01bf4_vHR7mvBczEGXi8T8V646nf3k",
+        "timestamp": 1731336217,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01bf4_vHR7mvBczEGXi8T8V646nf3k/1731336217.jpeg?s=2715944746fc5ed5db6fad27eeee0cd30a2cb7bf",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 37,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "18.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "368.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego McLaren 42172, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 350,00 €, 368,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.01486481353640556,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 6069401955,
+    "title": "Lego 42172 mclaren p1",
+    "price": {
+      "amount": "355.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/6069401955-lego-42172-mclaren-p1",
+    "user": {
+      "id": 189289622,
+      "login": "andresman10",
+      "profile_url": "https://www.vinted.fr/member/189289622-andresman10",
+      "photo": {
+        "id": 222632104,
+        "width": 563,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_01ba4_W6TQ9QgFikrV6eBP6kcSmSfc/f800/1734414406.jpeg?s=a901615745532f5f78ea3e2c67ce93862c8ace99",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_01ba4_W6TQ9QgFikrV6eBP6kcSmSfc/310x310/1734414406.jpeg?s=0c50bca7402f4ababaf908d2d494acf0a8c43669",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_01ba4_W6TQ9QgFikrV6eBP6kcSmSfc/150x150/1734414406.jpeg?s=5869f3ccbb9b4435f46b0b904b1b39b0c00acec3",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_01ba4_W6TQ9QgFikrV6eBP6kcSmSfc/100x100/1734414406.jpeg?s=c9942b4ed43391c804f5998fd3fb62de1abb762a",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_01ba4_W6TQ9QgFikrV6eBP6kcSmSfc/50x50/1734414406.jpeg?s=7ea8e25dbdec597773838bb9b3417ca2ec20b383",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_01ba4_W6TQ9QgFikrV6eBP6kcSmSfc/20x20/1734414406.jpeg?s=9498074f30876e784d5ed6f846ca2b7107fbb601",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_01ba4_W6TQ9QgFikrV6eBP6kcSmSfc",
+          "timestamp": 1734414406,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_01ba4_W6TQ9QgFikrV6eBP6kcSmSfc/1734414406.jpeg?s=7eab6ff4d866f05c0da281837a3dd8ff5e4dcda1",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/6069401955-lego-42172-mclaren-p1",
+    "promoted": false,
+    "photo": {
+      "id": 24622752326,
+      "image_no": 1,
+      "width": 752,
+      "height": 800,
+      "dominant_color": "#72674B",
+      "dominant_color_opaque": "#D5D1C9",
+      "url": "https://images1.vinted.net/t/04_00315_bwz8v7Vuv81yctmAtvdn5CZn/f800/1743497348.jpeg?s=68d076e54249ee0b89446bd7e9ce4994ba120eef",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_00315_bwz8v7Vuv81yctmAtvdn5CZn/70x100/1743497348.jpeg?s=aa568a83396ad34526fa649676f8e06beee21f65",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_00315_bwz8v7Vuv81yctmAtvdn5CZn/150x210/1743497348.jpeg?s=efc053a315d230d3bdbabf41bcd21745299969ff",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_00315_bwz8v7Vuv81yctmAtvdn5CZn/310x430/1743497348.jpeg?s=30d1da58a7552cc93f61756bd65422acacc4e01d",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_00315_bwz8v7Vuv81yctmAtvdn5CZn/f800/1743497348.jpeg?s=68d076e54249ee0b89446bd7e9ce4994ba120eef",
+          "width": 402,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_00315_bwz8v7Vuv81yctmAtvdn5CZn/f800/1743497348.jpeg?s=68d076e54249ee0b89446bd7e9ce4994ba120eef",
+          "width": 587,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_00315_bwz8v7Vuv81yctmAtvdn5CZn/f800/1743497348.jpeg?s=68d076e54249ee0b89446bd7e9ce4994ba120eef",
+          "width": 342,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_00315_bwz8v7Vuv81yctmAtvdn5CZn",
+        "timestamp": 1743497348,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_00315_bwz8v7Vuv81yctmAtvdn5CZn/1743497348.jpeg?s=1a08ffde1c89f895a5f8857c69685a6c661f507b",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 8,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "18.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "373.45",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "XL",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "XL · Neuf avec étiquette",
+      "accessibility_label": "Lego 42172 mclaren p1, marque: LEGO, état: Neuf avec étiquette, taille: XL, 355,00 €, 373,45 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.01545291673392057,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5786698303,
+    "title": "Lego Technik Lamborghini Sian FKP 37 42115 OVP & NEU",
+    "price": {
+      "amount": "340.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5786698303-lego-technik-lamborghini-sian-fkp-37-42115-ovp-neu",
+    "user": {
+      "id": 46776118,
+      "login": "bendix_g",
+      "profile_url": "https://www.vinted.fr/member/46776118-bendixg",
+      "photo": null,
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5786698303-lego-technik-lamborghini-sian-fkp-37-42115-ovp-neu",
+    "promoted": false,
+    "photo": {
+      "id": 23447942867,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#607E62",
+      "dominant_color_opaque": "#CFD8D0",
+      "url": "https://images1.vinted.net/t/03_010eb_urCVALz3pJCJdz8ANHuW6SgB/f800/1739093943.jpeg?s=755645e1a95c422434ac0490db2277cd89eb130e",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_010eb_urCVALz3pJCJdz8ANHuW6SgB/70x100/1739093943.jpeg?s=c3b06d83ae28fe98cb1cea1e1484100647c77d76",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_010eb_urCVALz3pJCJdz8ANHuW6SgB/150x210/1739093943.jpeg?s=0d1db722d968f57276308a6c039c031bd4577de1",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_010eb_urCVALz3pJCJdz8ANHuW6SgB/310x430/1739093943.jpeg?s=f55d3750139408227d03c96250229936b3bfd3aa",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_010eb_urCVALz3pJCJdz8ANHuW6SgB/f800/1739093943.jpeg?s=755645e1a95c422434ac0490db2277cd89eb130e",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_010eb_urCVALz3pJCJdz8ANHuW6SgB/f800/1739093943.jpeg?s=755645e1a95c422434ac0490db2277cd89eb130e",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_010eb_urCVALz3pJCJdz8ANHuW6SgB/f800/1739093943.jpeg?s=755645e1a95c422434ac0490db2277cd89eb130e",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_010eb_urCVALz3pJCJdz8ANHuW6SgB",
+        "timestamp": 1739093943,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_010eb_urCVALz3pJCJdz8ANHuW6SgB/1739093943.jpeg?s=eeee6cfeb08c99bea7f5116680fcb6a398daf99b",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 11,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "17.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "357.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego Technik Lamborghini Sian FKP 37 42115 OVP & NEU, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 340,00 €, 357,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.01773956418037415,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5342282403,
+    "title": "Lego Technic 42172 McLaren P1",
+    "price": {
+      "amount": "360.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5342282403-lego-technic-42172-mclaren-p1",
+    "user": {
+      "id": 85223987,
+      "login": "marcoacsimoes",
+      "profile_url": "https://www.vinted.fr/member/85223987-marcoacsimoes",
+      "photo": {
+        "id": 228583357,
+        "width": 255,
+        "height": 255,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_020c8_XBzzRXAmobpMQWnjcjX7yQuB/f800/1738365509.jpeg?s=b4639343e20e834502016c51b1b7facaeaca6e3c",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_020c8_XBzzRXAmobpMQWnjcjX7yQuB/310x310/1738365509.jpeg?s=15ad83d686d03be3c6886c124c15367d38b6e168",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_020c8_XBzzRXAmobpMQWnjcjX7yQuB/150x150/1738365509.jpeg?s=55381cfb14cf70e483a012a8f2a02e087d13cd76",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_020c8_XBzzRXAmobpMQWnjcjX7yQuB/100x100/1738365509.jpeg?s=c7873b2962d5bd7bad73ce0659fef7a1e4f3c2b0",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_020c8_XBzzRXAmobpMQWnjcjX7yQuB/50x50/1738365509.jpeg?s=5b0937aa3d5f2d7aa975a64b1a4fa4cd3f49d533",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_020c8_XBzzRXAmobpMQWnjcjX7yQuB/20x20/1738365509.jpeg?s=97aa0eb4bea88c97754633b96fc4f609a834b051",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_020c8_XBzzRXAmobpMQWnjcjX7yQuB",
+          "timestamp": 1738365509,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_020c8_XBzzRXAmobpMQWnjcjX7yQuB/1738365509.jpeg?s=05e9a810ab41a417680341dcb6afa507840b00fa",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5342282403-lego-technic-42172-mclaren-p1",
+    "promoted": false,
+    "photo": {
+      "id": 21623225606,
+      "image_no": 1,
+      "width": 800,
+      "height": 521,
+      "dominant_color": "#745F49",
+      "dominant_color_opaque": "#D5CFC8",
+      "url": "https://images1.vinted.net/t/02_01315_GtdbZrudRRTz9pn3SiTrM192/f800/1730975620.jpeg?s=ec4a99ca9c908883d198b9ba5e05176ad8b0cc5f",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_01315_GtdbZrudRRTz9pn3SiTrM192/70x100/1730975620.jpeg?s=8df53eeb474632bc7bcc2d38f6b6e4453a23700c",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_01315_GtdbZrudRRTz9pn3SiTrM192/150x210/1730975620.jpeg?s=96195e47e9c10dd49bae71eb71678a469ae15b33",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_01315_GtdbZrudRRTz9pn3SiTrM192/310x430/1730975620.jpeg?s=2a514a412dbb2dc6e72be27c2b854beaa1b26210",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_01315_GtdbZrudRRTz9pn3SiTrM192/f800/1730975620.jpeg?s=ec4a99ca9c908883d198b9ba5e05176ad8b0cc5f",
+          "width": 428,
+          "height": 278,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_01315_GtdbZrudRRTz9pn3SiTrM192/f800/1730975620.jpeg?s=ec4a99ca9c908883d198b9ba5e05176ad8b0cc5f",
+          "width": 623,
+          "height": 406,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_01315_GtdbZrudRRTz9pn3SiTrM192/f800/1730975620.jpeg?s=ec4a99ca9c908883d198b9ba5e05176ad8b0cc5f",
+          "width": 364,
+          "height": 237,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_01315_GtdbZrudRRTz9pn3SiTrM192",
+        "timestamp": 1730975620,
+        "orientation": 0
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_01315_GtdbZrudRRTz9pn3SiTrM192/1730975620.jpeg?s=4d9b1f1c40179cfc9716fd915c31192ddaa2b429",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 33,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "18.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "378.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Neuf avec étiquette",
+      "accessibility_label": "Lego Technic 42172 McLaren P1, marque: LEGO, état: Neuf avec étiquette, 360,00 €, 378,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.02066242322325706,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5721761052,
+    "title": "Ooferta! Lego 42172 McLaren P1",
+    "price": {
+      "amount": "390.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5721761052-ooferta-lego-42172-mclaren-p1",
+    "user": {
+      "id": 84374687,
+      "login": "ali2925",
+      "profile_url": "https://www.vinted.fr/member/84374687-ali2925",
+      "photo": {
+        "id": 88757129,
+        "width": 360,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_01699_3uo4mhtkVpcVrM4Lr2HNFyXv/f800/1651672649.jpeg?s=04ddf00d6022e15ee15f2da5751459c5e41af579",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_01699_3uo4mhtkVpcVrM4Lr2HNFyXv/310x310/1651672649.jpeg?s=87c655e86e4941c26a4454c4dc31b90cedb65567",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_01699_3uo4mhtkVpcVrM4Lr2HNFyXv/150x150/1651672649.jpeg?s=22d1e8b32b95ee963e871a479c4b5c3e3e329c23",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_01699_3uo4mhtkVpcVrM4Lr2HNFyXv/100x100/1651672649.jpeg?s=3485f43bcc571e7f8de86904ed71cb736a452016",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_01699_3uo4mhtkVpcVrM4Lr2HNFyXv/50x50/1651672649.jpeg?s=ebc6c5e020717f907d8e6a62eefdf8e4820a23f8",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_01699_3uo4mhtkVpcVrM4Lr2HNFyXv/20x20/1651672649.jpeg?s=7c906b86e9628f1455c97a19d3234984a2bccad2",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_01699_3uo4mhtkVpcVrM4Lr2HNFyXv",
+          "timestamp": 1651672649,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_01699_3uo4mhtkVpcVrM4Lr2HNFyXv/1651672649.jpeg?s=7f0182ef94189f70acd3d115ab0468058009aead",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5721761052-ooferta-lego-42172-mclaren-p1",
+    "promoted": false,
+    "photo": {
+      "id": 23178033238,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#3E453E",
+      "dominant_color_opaque": "#C5C7C5",
+      "url": "https://images1.vinted.net/t/04_01388_hewzPi5XCo7LkWkvqkraBS88/f800/1737992292.jpeg?s=f89b86221534026e38e9c602a361d89dfe58540f",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_01388_hewzPi5XCo7LkWkvqkraBS88/70x100/1737992292.jpeg?s=aac0e31896c0902a3b2947e3504e5608e8319721",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_01388_hewzPi5XCo7LkWkvqkraBS88/150x210/1737992292.jpeg?s=32b00617b1b7f82ae1281b6659d895a9f2767a1b",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_01388_hewzPi5XCo7LkWkvqkraBS88/310x430/1737992292.jpeg?s=738418fb77455cf9f93538b463465d1d5a19d32a",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_01388_hewzPi5XCo7LkWkvqkraBS88/f800/1737992292.jpeg?s=f89b86221534026e38e9c602a361d89dfe58540f",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_01388_hewzPi5XCo7LkWkvqkraBS88/f800/1737992292.jpeg?s=f89b86221534026e38e9c602a361d89dfe58540f",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_01388_hewzPi5XCo7LkWkvqkraBS88/f800/1737992292.jpeg?s=f89b86221534026e38e9c602a361d89dfe58540f",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_01388_hewzPi5XCo7LkWkvqkraBS88",
+        "timestamp": 1737992292,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_01388_hewzPi5XCo7LkWkvqkraBS88/1737992292.jpeg?s=10a75cc62e6b3ec802855a6c13c8cf262cd1094d",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 8,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "20.2",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "410.2",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Ooferta! Lego 42172 McLaren P1, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 390,00 €, 410,20 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.02356573380529881,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5839358041,
+    "title": "Lego 42172",
+    "price": {
+      "amount": "400.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5839358041-lego-42172",
+    "user": {
+      "id": 145597815,
+      "login": "toydoll1974",
+      "profile_url": "https://www.vinted.fr/member/145597815-toydoll1974",
+      "photo": {
+        "id": 181485491,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_01fd8_Hb8Gj1e66fYG1fZDn3NdWFSC/f800/1708709177.jpeg?s=8b5d067ab26c63f51224cca4db2d9de8c88beecf",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_01fd8_Hb8Gj1e66fYG1fZDn3NdWFSC/310x310/1708709177.jpeg?s=966811ba8869e7fdeef1cda93d4e963e8dd9970d",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_01fd8_Hb8Gj1e66fYG1fZDn3NdWFSC/150x150/1708709177.jpeg?s=1b88097e4c3ab0459e29d7ea974bd84de7de86e8",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_01fd8_Hb8Gj1e66fYG1fZDn3NdWFSC/100x100/1708709177.jpeg?s=f1d829102c00054f718e8dc16328d99b2cafc588",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_01fd8_Hb8Gj1e66fYG1fZDn3NdWFSC/50x50/1708709177.jpeg?s=856afcb8ac1f13ca599b39b4ea9fa6ed4a0ce81d",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_01fd8_Hb8Gj1e66fYG1fZDn3NdWFSC/20x20/1708709177.jpeg?s=ea63a4e8224d6d633921f4fcada59a6d89a5c6ba",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_01fd8_Hb8Gj1e66fYG1fZDn3NdWFSC",
+          "timestamp": 1708709177,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_01fd8_Hb8Gj1e66fYG1fZDn3NdWFSC/1708709177.jpeg?s=ef799e62a47584f7376e0d4d3e06bdf91f09e330",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5839358041-lego-42172",
+    "promoted": false,
+    "photo": {
+      "id": 23665813229,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#5F4A2B",
+      "dominant_color_opaque": "#CFC9BF",
+      "url": "https://images1.vinted.net/t/03_014ca_hdhuFoU4imWcETmGZs6FhTuc/f800/1739904211.jpeg?s=5357a0af417fd7a2f2464d5ba5a0da626fda4fd4",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/03_014ca_hdhuFoU4imWcETmGZs6FhTuc/70x100/1739904211.jpeg?s=b6dec72692857af360a2f663b2864ab1f9008736",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/03_014ca_hdhuFoU4imWcETmGZs6FhTuc/150x210/1739904211.jpeg?s=2eceff455c421aacd9dc05446b2ed67b43af2b82",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/03_014ca_hdhuFoU4imWcETmGZs6FhTuc/310x430/1739904211.jpeg?s=57aba382ade8b8fb5a3c9f93a3604cdab24dccff",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/03_014ca_hdhuFoU4imWcETmGZs6FhTuc/f800/1739904211.jpeg?s=5357a0af417fd7a2f2464d5ba5a0da626fda4fd4",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/03_014ca_hdhuFoU4imWcETmGZs6FhTuc/f800/1739904211.jpeg?s=5357a0af417fd7a2f2464d5ba5a0da626fda4fd4",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/03_014ca_hdhuFoU4imWcETmGZs6FhTuc/f800/1739904211.jpeg?s=5357a0af417fd7a2f2464d5ba5a0da626fda4fd4",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "03_014ca_hdhuFoU4imWcETmGZs6FhTuc",
+        "timestamp": 1739904211,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/03_014ca_hdhuFoU4imWcETmGZs6FhTuc/1739904211.jpeg?s=2299d4659b70aa00cbcb1f9c5db48b27886523d8",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 2,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "20.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "420.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf sans étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf sans étiquette",
+      "accessibility_label": "Lego 42172, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 400,00 €, 420,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.02464039996266365,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5078676675,
+    "title": "Lego 42172",
+    "price": {
+      "amount": "369.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5078676675-lego-42172",
+    "user": {
+      "id": 80220586,
+      "login": "samuarauzo14",
+      "profile_url": "https://www.vinted.fr/member/80220586-samuarauzo14",
+      "photo": {
+        "id": 79680773,
+        "width": 96,
+        "height": 96,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/03_01960_XKWmFRe3mYGXz15mgSSNSKiS/f800/1643465022.jpeg?s=73d3c94a63803e8acf94c5bfd40ad94ffb0fd426",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/03_01960_XKWmFRe3mYGXz15mgSSNSKiS/310x310/1643465022.jpeg?s=281165f5b35207925aa0e40cb1e6502d10d19ecb",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/03_01960_XKWmFRe3mYGXz15mgSSNSKiS/150x150/1643465022.jpeg?s=26a56b7938afafb0129691206527e2f5b05eae65",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/03_01960_XKWmFRe3mYGXz15mgSSNSKiS/100x100/1643465022.jpeg?s=ec51354bc6b9366a95e277ae0f51a41fba3b0783",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/03_01960_XKWmFRe3mYGXz15mgSSNSKiS/50x50/1643465022.jpeg?s=0d29579a66fbc4338bcd329b8bed9ac509e71378",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/03_01960_XKWmFRe3mYGXz15mgSSNSKiS/20x20/1643465022.jpeg?s=031841dc8c6a71a1c2e631ae094b3be7605d1c0d",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "03_01960_XKWmFRe3mYGXz15mgSSNSKiS",
+          "timestamp": 1643465022,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/03_01960_XKWmFRe3mYGXz15mgSSNSKiS/1643465022.jpeg?s=dc8216e0dc41efd31024e365fcdfcae6e2b16daa",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5078676675-lego-42172",
+    "promoted": false,
+    "photo": {
+      "id": 20571064623,
+      "image_no": 1,
+      "width": 800,
+      "height": 508,
+      "dominant_color": "#635033",
+      "dominant_color_opaque": "#D0CBC2",
+      "url": "https://images1.vinted.net/t/02_00c16_wqQqpkoppbXb8X4eHjsEK9rD/f800/1726865647.jpeg?s=54edc0e4f64a1c4c441dccf9a52d6d017488feb0",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_00c16_wqQqpkoppbXb8X4eHjsEK9rD/70x100/1726865647.jpeg?s=b1a8d10e80b2968f7211224b2e93d1786ad679be",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_00c16_wqQqpkoppbXb8X4eHjsEK9rD/150x210/1726865647.jpeg?s=c35297e837cdb3bae1d5090681db9677b858f8b2",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_00c16_wqQqpkoppbXb8X4eHjsEK9rD/310x430/1726865647.jpeg?s=5155f78c2ed47747bcc692828b0caa833b20e77c",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_00c16_wqQqpkoppbXb8X4eHjsEK9rD/f800/1726865647.jpeg?s=54edc0e4f64a1c4c441dccf9a52d6d017488feb0",
+          "width": 428,
+          "height": 272,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_00c16_wqQqpkoppbXb8X4eHjsEK9rD/f800/1726865647.jpeg?s=54edc0e4f64a1c4c441dccf9a52d6d017488feb0",
+          "width": 624,
+          "height": 396,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_00c16_wqQqpkoppbXb8X4eHjsEK9rD/f800/1726865647.jpeg?s=54edc0e4f64a1c4c441dccf9a52d6d017488feb0",
+          "width": 364,
+          "height": 231,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_00c16_wqQqpkoppbXb8X4eHjsEK9rD",
+        "timestamp": 1726865647,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_00c16_wqQqpkoppbXb8X4eHjsEK9rD/1726865647.jpeg?s=0ba84387859d31d511613ea66b778e93ded45cd9",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 11,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "19.15",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "388.15",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego 42172, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 369,00 €, 388,15 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.02614398673176765,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5524086509,
+    "title": "Lego technic",
+    "price": {
+      "amount": "415.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5524086509-lego-technic",
+    "user": {
+      "id": 243485426,
+      "login": "gabrin81",
+      "profile_url": "https://www.vinted.fr/member/243485426-gabrin81",
+      "photo": {
+        "id": 223692439,
+        "width": 450,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/f800/1735307302.jpeg?s=5bf804bd9a341f9f6af4b6042bedf0f4ddf944db",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/310x310/1735307302.jpeg?s=0c3d9380522d46d50550faef34d88d58f7b1825b",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/150x150/1735307302.jpeg?s=488422528b2da241b75569e4901e722a1ebcfaff",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/100x100/1735307302.jpeg?s=1550394e72b77cb4f2b95ef6f804b015e30b7417",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/50x50/1735307302.jpeg?s=cdf61670ad17e775e46c30227a5cf9651687735c",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/20x20/1735307302.jpeg?s=021378db9d7941a68e477fab17343dc659197ebf",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y",
+          "timestamp": 1735307302,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/1735307302.jpeg?s=d9c95268b9e7ed831e4365129d6e21a468e7049d",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5524086509-lego-technic",
+    "promoted": false,
+    "photo": {
+      "id": 22371104616,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#756652",
+      "dominant_color_opaque": "#D6D1CB",
+      "url": "https://images1.vinted.net/t/04_020a7_bm7yiq7LDbYTg6T3f9MCyKwL/f800/1734166399.jpeg?s=4228a1238067e9d90b128d5d1fe60a2b28da802a",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_020a7_bm7yiq7LDbYTg6T3f9MCyKwL/70x100/1734166399.jpeg?s=ba22913c5c52452cb12411f4dd205ba786a9d1f5",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_020a7_bm7yiq7LDbYTg6T3f9MCyKwL/150x210/1734166399.jpeg?s=980e41f7309a395fbc620e28e371ad9d3b87c3ad",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_020a7_bm7yiq7LDbYTg6T3f9MCyKwL/310x430/1734166399.jpeg?s=d6343d81d96fe8fd1ede11764aafd830c350270f",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_020a7_bm7yiq7LDbYTg6T3f9MCyKwL/f800/1734166399.jpeg?s=4228a1238067e9d90b128d5d1fe60a2b28da802a",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_020a7_bm7yiq7LDbYTg6T3f9MCyKwL/f800/1734166399.jpeg?s=4228a1238067e9d90b128d5d1fe60a2b28da802a",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_020a7_bm7yiq7LDbYTg6T3f9MCyKwL/f800/1734166399.jpeg?s=4228a1238067e9d90b128d5d1fe60a2b28da802a",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_020a7_bm7yiq7LDbYTg6T3f9MCyKwL",
+        "timestamp": 1734166399,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_020a7_bm7yiq7LDbYTg6T3f9MCyKwL/1734166399.jpeg?s=a44dc83090dca8c253ff5b8b2dd0dec04551d6e8",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 136,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "21.45",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "436.45",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "7 ans / 122 cm",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "7 ans / 122 cm · Neuf avec étiquette",
+      "accessibility_label": "Lego technic, marque: LEGO, état: Neuf avec étiquette, taille: 7 ans / 122 cm, 415,00 €, 436,45 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.03062823042273521,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5974535274,
+    "title": "Display acrilico Lego technic expositor",
+    "price": {
+      "amount": "40.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5974535274-display-acrilico-lego-technic-expositor",
+    "user": {
+      "id": 65138251,
+      "login": "danielmagalhaes",
+      "profile_url": "https://www.vinted.fr/member/65138251-danielmagalhaes",
+      "photo": {
+        "id": 62929398,
+        "width": 800,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/01_00897_pYfSpRnjREQmD2EYrKzQ2EkE/f800/1626516203.jpeg?s=c67af1e0027fcfb1362261527cd1e58dee82011e",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/01_00897_pYfSpRnjREQmD2EYrKzQ2EkE/310x310/1626516203.jpeg?s=6dbbe2faae2e3a9d5e4d3cd453e3abd05054c1ab",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/01_00897_pYfSpRnjREQmD2EYrKzQ2EkE/150x150/1626516203.jpeg?s=0f775514b1b94fc9a351fac338a46b3da40ac741",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/01_00897_pYfSpRnjREQmD2EYrKzQ2EkE/100x100/1626516203.jpeg?s=26de57ac94e640e4c45d7b5c878d7e50a0dae7e1",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/01_00897_pYfSpRnjREQmD2EYrKzQ2EkE/50x50/1626516203.jpeg?s=b10a12d2a7de3931c8de3a81c4c11ba13b7d15bb",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/01_00897_pYfSpRnjREQmD2EYrKzQ2EkE/20x20/1626516203.jpeg?s=dd082a050f10c42550a292f0d3da924b727203ba",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "01_00897_pYfSpRnjREQmD2EYrKzQ2EkE",
+          "timestamp": 1626516203,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/01_00897_pYfSpRnjREQmD2EYrKzQ2EkE/1626516203.jpeg?s=9fba717a4ce4cb4bdd984da1037c70b63b833ca5",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5974535274-display-acrilico-lego-technic-expositor",
+    "promoted": false,
+    "photo": {
+      "id": 24283921190,
+      "image_no": 1,
+      "width": 800,
+      "height": 600,
+      "dominant_color": "#827972",
+      "dominant_color_opaque": "#DAD7D5",
+      "url": "https://images1.vinted.net/t/04_0171b_b1QL9Uhknn3UuPLo4CHj1dyQ/f800/1742235901.jpeg?s=3dd874321ba19b508d1948d5129c6ebf8beba604",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/04_0171b_b1QL9Uhknn3UuPLo4CHj1dyQ/70x100/1742235901.jpeg?s=75092328a441c6407acfb07120a6492dd31b4d7d",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/04_0171b_b1QL9Uhknn3UuPLo4CHj1dyQ/150x210/1742235901.jpeg?s=59810ea9bd833de0f5a3a365e742498fa5541d01",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/04_0171b_b1QL9Uhknn3UuPLo4CHj1dyQ/310x430/1742235901.jpeg?s=26220937af8e84c21d8e96fad5ca95d68d3c7a54",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/04_0171b_b1QL9Uhknn3UuPLo4CHj1dyQ/f800/1742235901.jpeg?s=3dd874321ba19b508d1948d5129c6ebf8beba604",
+          "width": 428,
+          "height": 321,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/04_0171b_b1QL9Uhknn3UuPLo4CHj1dyQ/f800/1742235901.jpeg?s=3dd874321ba19b508d1948d5129c6ebf8beba604",
+          "width": 624,
+          "height": 468,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/04_0171b_b1QL9Uhknn3UuPLo4CHj1dyQ/f800/1742235901.jpeg?s=3dd874321ba19b508d1948d5129c6ebf8beba604",
+          "width": 364,
+          "height": 273,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "04_0171b_b1QL9Uhknn3UuPLo4CHj1dyQ",
+        "timestamp": 1742235901,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/04_0171b_b1QL9Uhknn3UuPLo4CHj1dyQ/1742235901.jpeg?s=983a6e569d3fafa7ecc749a69a059e4bc9e63845",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 9,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "2.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "42.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Neuf avec étiquette",
+      "accessibility_label": "Display acrilico Lego technic expositor, marque: LEGO, état: Neuf avec étiquette, 40,00 €, 42,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.317688912153244,
+      "matched_queries": []
+    }
+  },
+  {
+    "id": 5940214482,
+    "title": "Lego Technic - Creator - Ideas - Icons - Racers",
+    "price": {
+      "amount": "20.0",
+      "currency_code": "EUR"
+    },
+    "is_visible": true,
+    "discount": null,
+    "brand_title": "LEGO",
+    "path": "/items/5940214482-lego-technic-creator-ideas-icons-racers",
+    "user": {
+      "id": 155000905,
+      "login": "antoine.llr",
+      "profile_url": "https://www.vinted.fr/member/155000905-antoinellr",
+      "photo": {
+        "id": 228052262,
+        "width": 450,
+        "height": 800,
+        "temp_uuid": null,
+        "url": "https://images1.vinted.net/t/04_00496_9NxXYV3aGNBjj2UgdyuAQHBZ/f800/1738011013.jpeg?s=aaf1e874b4f0b6351eeaa8a0d7e6b68ab0198083",
+        "dominant_color": "#31abc2",
+        "dominant_color_opaque": "#C1E6ED",
+        "thumbnails": [
+          {
+            "type": "thumb310",
+            "url": "https://images1.vinted.net/t/04_00496_9NxXYV3aGNBjj2UgdyuAQHBZ/310x310/1738011013.jpeg?s=f87e826045455bafd0fe1301e6c6ea46598283ab",
+            "width": 310,
+            "height": 310,
+            "original_size": null
+          },
+          {
+            "type": "thumb150",
+            "url": "https://images1.vinted.net/t/04_00496_9NxXYV3aGNBjj2UgdyuAQHBZ/150x150/1738011013.jpeg?s=c2655caf3fe7e7e443f0911cbaaabd4b45a63ab1",
+            "width": 150,
+            "height": 150,
+            "original_size": null
+          },
+          {
+            "type": "thumb100",
+            "url": "https://images1.vinted.net/t/04_00496_9NxXYV3aGNBjj2UgdyuAQHBZ/100x100/1738011013.jpeg?s=ab4ab02ad1a1e1151da19dab21cf82dc812ea0ef",
+            "width": 100,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb50",
+            "url": "https://images1.vinted.net/t/04_00496_9NxXYV3aGNBjj2UgdyuAQHBZ/50x50/1738011013.jpeg?s=77ece6d41df27cf6110cf5d3f3a3bca86185aa0d",
+            "width": 50,
+            "height": 50,
+            "original_size": null
+          },
+          {
+            "type": "thumb20",
+            "url": "https://images1.vinted.net/t/04_00496_9NxXYV3aGNBjj2UgdyuAQHBZ/20x20/1738011013.jpeg?s=89aa2eb071b9c41af9bb8dd949bb051823525527",
+            "width": 20,
+            "height": 20,
+            "original_size": null
+          }
+        ],
+        "is_suspicious": false,
+        "orientation": null,
+        "high_resolution": {
+          "id": "04_00496_9NxXYV3aGNBjj2UgdyuAQHBZ",
+          "timestamp": 1738011013,
+          "orientation": null
+        },
+        "full_size_url": "https://images1.vinted.net/tc/04_00496_9NxXYV3aGNBjj2UgdyuAQHBZ/1738011013.jpeg?s=afb5ce036ba1264696770289931ff51c8bd4acf4",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "business": false
+    },
+    "conversion": null,
+    "url": "https://www.vinted.fr/items/5940214482-lego-technic-creator-ideas-icons-racers",
+    "promoted": false,
+    "photo": {
+      "id": 24259844200,
+      "image_no": 1,
+      "width": 394,
+      "height": 800,
+      "dominant_color": "#2E2821",
+      "dominant_color_opaque": "#C0BFBC",
+      "url": "https://images1.vinted.net/t/02_022ce_1svNs6B3Mmhc6tJSvqqupiGx/f800/1742725440.jpeg?s=9c8ffcc3e41cdf6c17dbe68152744b376c7ca6a2",
+      "is_main": true,
+      "thumbnails": [
+        {
+          "type": "thumb70x100",
+          "url": "https://images1.vinted.net/t/02_022ce_1svNs6B3Mmhc6tJSvqqupiGx/70x100/1742725440.jpeg?s=c12e617564c20302d271bb69dc3f5054fca08757",
+          "width": 70,
+          "height": 100,
+          "original_size": null
+        },
+        {
+          "type": "thumb150x210",
+          "url": "https://images1.vinted.net/t/02_022ce_1svNs6B3Mmhc6tJSvqqupiGx/150x210/1742725440.jpeg?s=0cbed886109a2fb83c649c51a31743eac7af971d",
+          "width": 150,
+          "height": 210,
+          "original_size": null
+        },
+        {
+          "type": "thumb310x430",
+          "url": "https://images1.vinted.net/t/02_022ce_1svNs6B3Mmhc6tJSvqqupiGx/310x430/1742725440.jpeg?s=a166ff5a02cec8bbc7355ec4c835174327d1e69c",
+          "width": 310,
+          "height": 430,
+          "original_size": null
+        },
+        {
+          "type": "thumb428x624",
+          "url": "https://images1.vinted.net/t/02_022ce_1svNs6B3Mmhc6tJSvqqupiGx/f800/1742725440.jpeg?s=9c8ffcc3e41cdf6c17dbe68152744b376c7ca6a2",
+          "width": 210,
+          "height": 428,
+          "original_size": true
+        },
+        {
+          "type": "thumb624x428",
+          "url": "https://images1.vinted.net/t/02_022ce_1svNs6B3Mmhc6tJSvqqupiGx/f800/1742725440.jpeg?s=9c8ffcc3e41cdf6c17dbe68152744b376c7ca6a2",
+          "width": 307,
+          "height": 624,
+          "original_size": true
+        },
+        {
+          "type": "thumb364x428",
+          "url": "https://images1.vinted.net/t/02_022ce_1svNs6B3Mmhc6tJSvqqupiGx/f800/1742725440.jpeg?s=9c8ffcc3e41cdf6c17dbe68152744b376c7ca6a2",
+          "width": 179,
+          "height": 364,
+          "original_size": true
+        }
+      ],
+      "high_resolution": {
+        "id": "02_022ce_1svNs6B3Mmhc6tJSvqqupiGx",
+        "timestamp": 1742725440,
+        "orientation": null
+      },
+      "is_suspicious": false,
+      "full_size_url": "https://images1.vinted.net/tc/02_022ce_1svNs6B3Mmhc6tJSvqqupiGx/1742725440.jpeg?s=89e4915ef3c004103caa88c3c3d8b271db72e208",
+      "is_hidden": false,
+      "extra": {}
+    },
+    "favourite_count": 74,
+    "is_favourite": false,
+    "badge": null,
+    "service_fee": {
+      "amount": "1.7",
+      "currency_code": "EUR"
+    },
+    "total_item_price": {
+      "amount": "21.7",
+      "currency_code": "EUR"
+    },
+    "view_count": 0,
+    "size_title": "Taille unique",
+    "content_source": "search",
+    "status": "Neuf avec étiquette",
+    "icon_badges": [],
+    "item_box": {
+      "first_line": "LEGO",
+      "second_line": "Taille unique · Neuf avec étiquette",
+      "accessibility_label": "Lego Technic - Creator - Ideas - Icons - Racers, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 20,00 €, 21,70 € Protection acheteurs incluse"
+    },
+    "search_tracking_params": {
+      "score": -0.320716917514801,
+      "matched_queries": []
+    }
+  }
+]
