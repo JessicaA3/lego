@@ -12,7 +12,7 @@ async function run() {
     const salesCollection = db.collection('sales');
 
     // Insérer lego_deals.json
-    const deals = JSON.parse(fs.readFileSync('./lego_deals2.json'));
+    const deals = JSON.parse(fs.readFileSync('./lego_deals.json'));
     await dealsCollection.deleteMany({});
     await dealsCollection.insertMany(deals);
     console.log(`✅ ${deals.length} deals insérés`);
