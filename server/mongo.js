@@ -26,13 +26,19 @@ async function run() {
       const data = JSON.parse(fs.readFileSync(file));
       const legoId = file.replace('vinted_', '').replace('.json', '');
 
-      const enriched = data.map(item => ({
-        lego_id: legoId,
-        title: item.title,
-        price: parseFloat(item.price?.amount) || null,
-        url: item.url || `https://www.vinted.fr${item.path}`,
-        image: item.photo?.url || null
-      }));
+      const enriched = data.map(item => {
+        const timestamp = item?.photo?.high_resolution?.timestamp;
+        const published = timestamp ? new Date(timestamp * 1000).toISOString() : new Date().toISOString();
+
+        return {
+          lego_id: legoId,
+          title: item.title,
+          price: parseFloat(item.price?.amount) || null,
+          url: item.url || `https://www.vinted.fr${item.path}`,
+          image: item.photo?.url || null,
+          published
+        };
+      });
 
       await salesCollection.insertMany(enriched);
       console.log(`✅ ${enriched.length} ventes insérées pour ${legoId}`);

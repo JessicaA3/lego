@@ -107,7 +107,8 @@
     "search_tracking_params": {
       "score": 3.775399446487427,
       "matched_queries": []
-    }
+    },
+    "published": "2025-03-29T15:02:31.000Z"
   },
   {
     "id": 6089191075,
@@ -272,7 +273,8 @@
     "search_tracking_params": {
       "score": 3.325818538665771,
       "matched_queries": []
-    }
+    },
+    "published": "2025-04-05T04:41:00.000Z"
   },
   {
     "id": 6092566407,
@@ -437,7 +439,8 @@
     "search_tracking_params": {
       "score": 3.142226457595825,
       "matched_queries": []
-    }
+    },
+    "published": "2025-04-05T14:50:58.000Z"
   },
   {
     "id": 6076090713,
@@ -602,7 +605,8 @@
     "search_tracking_params": {
       "score": 3.07336163520813,
       "matched_queries": []
-    }
+    },
+    "published": "2025-04-02T12:32:58.000Z"
   },
   {
     "id": 6079491707,
@@ -767,7 +771,8 @@
     "search_tracking_params": {
       "score": 3.009779930114746,
       "matched_queries": []
-    }
+    },
+    "published": "2025-04-02T23:17:14.000Z"
   },
   {
     "id": 6087037915,
@@ -932,7 +937,8 @@
     "search_tracking_params": {
       "score": 2.630344390869141,
       "matched_queries": []
-    }
+    },
+    "published": "2025-04-04T14:36:01.000Z"
   },
   {
     "id": 5846570484,
@@ -1097,7 +1103,8 @@
     "search_tracking_params": {
       "score": 2.419377326965332,
       "matched_queries": []
-    }
+    },
+    "published": "2025-02-20T10:02:43.000Z"
   },
   {
     "id": 6092963198,
@@ -1262,7 +1269,8 @@
     "search_tracking_params": {
       "score": 2.225149154663086,
       "matched_queries": []
-    }
+    },
+    "published": "2025-04-05T15:42:23.000Z"
   },
   {
     "id": 6074079893,
@@ -1427,7 +1435,8 @@
     "search_tracking_params": {
       "score": 1.729002356529236,
       "matched_queries": []
-    }
+    },
+    "published": "2025-04-02T00:53:28.000Z"
   },
   {
     "id": 5977273871,
@@ -1592,7 +1601,8 @@
     "search_tracking_params": {
       "score": -0.01107216533273458,
       "matched_queries": []
-    }
+    },
+    "published": "2025-03-16T10:37:26.000Z"
   },
   {
     "id": 5705798830,
@@ -1757,6 +1767,7 @@
     "search_tracking_params": {
       "score": -0.0981474444270134,
       "matched_queries": []
-    }
+    },
+    "published": "2025-01-24T21:44:37.000Z"
   }
 ]

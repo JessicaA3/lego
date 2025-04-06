@@ -162,7 +162,8 @@
     "search_tracking_params": {
       "score": 2.969580173492432,
       "matched_queries": []
-    }
+    },
+    "published": "2025-01-21T17:32:11.000Z"
   },
   {
     "id": 5875854647,
@@ -327,7 +328,8 @@
     "search_tracking_params": {
       "score": 2.918911695480347,
       "matched_queries": []
-    }
+    },
+    "published": "2025-02-25T13:13:42.000Z"
   },
   {
     "id": 5735733756,
@@ -492,7 +494,8 @@
     "search_tracking_params": {
       "score": 2.916785717010498,
       "matched_queries": []
-    }
+    },
+    "published": "2025-01-30T12:42:51.000Z"
   },
   {
     "id": 6088928469,
@@ -657,7 +660,8 @@
     "search_tracking_params": {
       "score": 1.587853193283081,
       "matched_queries": []
-    }
+    },
+    "published": "2025-04-04T21:10:08.000Z"
   },
   {
     "id": 6094209757,
@@ -822,7 +826,8 @@
     "search_tracking_params": {
       "score": 1.545899152755737,
       "matched_queries": []
-    }
+    },
+    "published": "2025-04-05T18:46:16.000Z"
   },
   {
     "id": 5964188660,
@@ -987,7 +992,8 @@
     "search_tracking_params": {
       "score": 0.8889493942260742,
       "matched_queries": []
-    }
+    },
+    "published": "2025-03-13T21:07:53.000Z"
   },
   {
     "id": 6077273747,
@@ -1152,7 +1158,8 @@
     "search_tracking_params": {
       "score": 0.7475934028625488,
       "matched_queries": []
-    }
+    },
+    "published": "2025-04-02T15:28:07.000Z"
   },
   {
     "id": 5306123420,
@@ -1317,7 +1324,8 @@
     "search_tracking_params": {
       "score": 0.6215033531188965,
       "matched_queries": []
-    }
+    },
+    "published": "2024-10-31T09:59:00.000Z"
   },
   {
     "id": 5357100682,
@@ -1482,7 +1490,8 @@
     "search_tracking_params": {
       "score": -0.006480467040091753,
       "matched_queries": []
-    }
+    },
+    "published": "2024-11-10T10:59:04.000Z"
   },
   {
     "id": 5942802771,
@@ -1647,7 +1656,8 @@
     "search_tracking_params": {
       "score": -0.007826044224202633,
       "matched_queries": []
-    }
+    },
+    "published": "2025-03-10T10:44:01.000Z"
   },
   {
     "id": 5986491836,
@@ -1812,7 +1822,8 @@
     "search_tracking_params": {
       "score": -0.008452574722468853,
       "matched_queries": []
-    }
+    },
+    "published": "2025-03-17T14:50:08.000Z"
   },
   {
     "id": 5992466993,
@@ -1977,7 +1988,8 @@
     "search_tracking_params": {
       "score": -0.02660908922553062,
       "matched_queries": []
-    }
+    },
+    "published": "2025-03-18T16:01:35.000Z"
   },
   {
     "id": 5355792506,
@@ -2142,6 +2154,7 @@
     "search_tracking_params": {
       "score": -0.02878753840923309,
       "matched_queries": []
-    }
+    },
+    "published": "2024-11-10T00:47:52.000Z"
   }
 ]

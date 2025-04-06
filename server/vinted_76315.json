@@ -162,7 +162,8 @@
     "search_tracking_params": {
       "score": 38.42931,
       "matched_queries": []
-    }
+    },
+    "published": "2025-04-04T15:28:41.000Z"
   },
   {
     "id": 6073678970,
@@ -327,7 +328,8 @@
     "search_tracking_params": {
       "score": 38.07129,
       "matched_queries": []
-    }
+    },
+    "published": "2025-04-01T20:27:47.000Z"
   },
   {
     "id": 6073732828,
@@ -492,6 +494,7 @@
     "search_tracking_params": {
       "score": 37.88612,
       "matched_queries": []
-    }
+    },
+    "published": "2025-04-01T20:40:40.000Z"
   }
 ]
