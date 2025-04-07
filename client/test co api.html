@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Test API LEGO</title>
+  </head>
+  <body>
+    <h1>Test API - Deals</h1>
+    <ul id="deal-list"></ul>
+
+    <script>
+      const apiUrl = 'https://lego-l4q423pgg-jessicas-projects-0966b521.vercel.app/deals/search?limit=5';
+
+      fetch(apiUrl)
+        .then(response => response.json())
+        .then(data => {
+          const list = document.getElementById('deal-list');
+          if (!data.results || data.results.length === 0) {
+            list.innerHTML = '<li>Aucun deal trouvé.</li>';
+            return;
+          }
+
+          data.results.forEach(deal => {
+            const li = document.createElement('li');
+            li.textContent = `ID: ${deal.id} - ${deal.title}`;
+            list.appendChild(li);
+          });
+        })
+        .catch(error => {
+          console.error('Erreur API:', error);
+          document.getElementById('deal-list').innerHTML = '<li>Erreur de connexion à l\'API.</li>';
+        });
+    </script>
+  </body>
+</html>

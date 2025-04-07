@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="styleDeals.css">
+    <title>🧱 Lego | Predictability of a lego set deal</title>
+  </head>
+  <body>
+    <!-- Header Bannière -->
+    <header>
+      <div class="header-container">
+        <div class="head-title">
+          <img class="header-logo" src="logo.png" alt="Logo LEGO" />
+          <h1>LegoHunter <span style="font-size:14px; font-weight:normal;">by Jessica.A</span></h1>
+        </div>        
+      </div>
+    </header>
+    <section id="discover-top-discounts">
+      <div class="top-discounts-banner">
+        🏆 Discover our <strong>Top 5 Best Discounts</strong> — 
+        <a href="best-discounts.html" class="discover-link">Click to explore!</a>
+      </div>
+    </section>    
+    <section id="options">
+      <div class="options-bar">
+        <div class="option-item">
+          <label for="show-select">Show :</label>
+          <select name="show" id="show-select">
+            <option value="6">6</option>
+            <option value="12">12</option>
+            <option value="20">20</option>
+            <option value="40">All deals</option>
+          </select>
+        </div>
+    
+        <div class="option-item">
+          <label for="page-select">Go to page :</label>
+          <select name="page" id="page-select"> </select>
+        </div>
+    
+        <div class="option-item">
+          <label for="sort-select">Sort by :</label>
+          <select name="sort" id="sort-select">
+            <option value="selection">Make Selection</option>
+            <option value="price-asc">Cheaper</option>
+            <option value="price-desc">Expensive</option>
+            <option value="date-desc">Recently published</option>
+            <option value="date-asc">Anciently published</option>
+            <option value="best-discount">Best discount</option>
+            <option value="most-commented">Most commented</option>
+            <option value="hot-deals">Hot deals</option>
+          </select>
+        </div>
+      </div>
+    </section>
+    
+    <!-- <section id="lego">
+      <h2>Lego sets</h2>
+      <div>
+        <label>Lego set id:</label>
+        <select id="lego-set-id-select"></select>  style="display:none;">
+      </div> 
+    </section> -->
+       
+    <div id="content">
+      <section id="deals">
+        <div id="deals-buttons">
+          <h2 id="DealsTitle">Deals Available</h2>
+          <!-- Show Favorites button and other controls like sort options -->
+        </div>
+        <div id="deals-cards">
+          <!-- The list of deal cards will be rendered here -->
+        </div>
+      </section>
+       <!-- Display sales INDICATOR -->
+      <section id="sales">
+        <h2 id="salesTitle">Vinted Sales</h2> 
+        <!-- Select id-->
+        <label>Lego set id:</label>
+        <select id="lego-set-id-select"></select>
+        <!-- Stat -->
+        <div class="stats-card">
+          <h2>Indicators</h2>
+          <div class="stats-grid">
+            <div><strong>Number of sales:</strong> <span id="nbSales">0</span></div>
+            <div><strong>Number of deals:</strong> <span id="nbDeals">0</span></div>
+            <div><strong>Average :</strong> <span id="average">0€</span></div>
+            <div><strong>P50 :</strong> <span id="p50">0€</span></div>
+            <div><strong>P5 :</strong> <span id="p5">0€</span></div>
+            <div><strong>P25 :</strong> <span id="p25">0€</span></div>
+            <div class="lifetime"><strong>Lifetime :</strong> <span id="lifetime">0 days</span></div>
+          </div>
+        </div> 
+        
+        <!-- Display sales-->
+        <div id="sales-list"></div>
+      </section>
+
+    </div>
+    <script type="text/javascript" charset="UTF-8" src="utils.js"></script>
+    <script type="text/javascript" charset="UTF-8" src="portfolio.js"></script>
+  </body>
+  <!-- Footer Bannière -->
+  <footer>
+    <div class="footer-container">
+      <p>&copy; 2025 LegoHunter. All rights reserved.</p>
+    </div>
+  </footer>
+</html>
